@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = Z02
 	controller = Z02
 	culture = irish
-	religion = orthodox
+	religion = sunni
 }

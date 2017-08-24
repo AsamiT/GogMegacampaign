@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TRE
-controller = TRE
-add_core = TRE
+owner = SIC
+controller = SIC
+add_core = SIC
 culture = greek
 religion = orthodox
 citysize = 2000
@@ -161,7 +161,7 @@ discovered_by = Y73
 	remove_core = PIS
 	remove_core = SAR
 	remove_core = SAV
-	remove_core = SIC
+	remove_core = TRE
 	remove_core = SIE
 	remove_core = TUS
 	remove_core = URB
@@ -692,8 +692,9 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = TRE
-	controller = TRE
+	owner = SIC
+	controller = SIC
+	add_core = SIC
 	culture = greek
 	religion = orthodox
 }

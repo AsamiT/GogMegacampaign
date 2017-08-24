@@ -7,3 +7,7 @@ Changelog (v0.1):
 
 Changelog (v0.1.1):
 1. English atlas-makers and historians find that writing proper Arabic names for the Cordoba Caliphate is stupid.
+
+Changelog (v0.1.2):
+1. Got half of Ireland onto the Twelve Steps, and got them to give up booze.
+2. 'And lo', God said on the seventh day--let there be Sicily."
