@@ -1,0 +1,27 @@
+# Aquileia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1769
+1414.10.23 = {
+	monarch = {
+		name = "Hartmann"
+		birth_date = 1382.1.11
+		dynasty = "von Nörvenich"
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1769
+	add_treasury = 17
+	add_prestige = 155
+	elector = no
+}

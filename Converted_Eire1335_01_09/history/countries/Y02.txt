@@ -1,0 +1,27 @@
+# Pereyaslavl
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 290
+1430.5.8 = {
+	monarch = {
+		name = "Sbyslava"
+		birth_date = 1405.11.14
+		dynasty = "Kantakouzenos"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 290
+	add_treasury = 23
+	add_prestige = 243
+}

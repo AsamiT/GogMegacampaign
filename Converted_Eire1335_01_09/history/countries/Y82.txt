@@ -1,0 +1,35 @@
+# Fatimid
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+capital = 1854
+1424.7.17 = {
+	monarch = {
+		name = "Yassir"
+		birth_date = 1424.2.26
+		dynasty = "Fatimid"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+1443.8.15 = {
+	heir = {
+		name = "Yassir"
+		monarch_name = "Yassir II"
+		dynasty = "Fatimid"
+		birth_date = 1443.8.15
+		death_date = 1523.8.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1854
+	add_treasury = 51
+	add_prestige = 762
+}

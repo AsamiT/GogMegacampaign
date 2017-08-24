@@ -1,0 +1,25 @@
+# Macherlid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2414
+1425.3.24 = {
+	monarch = {
+		name = "Kopti"
+		birth_date = 1408.1.25
+		dynasty = "Macherlid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2414
+	add_treasury = 21
+	add_prestige = -19
+}

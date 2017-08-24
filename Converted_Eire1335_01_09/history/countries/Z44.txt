@@ -1,0 +1,26 @@
+# The Hansa
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1874
+1441.7.26 = {
+	monarch = {
+		name = "Leopold"
+		birth_date = 1403.11.21
+		dynasty = "von Saarbrucken"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1874
+	add_treasury = 128
+	add_prestige = 221
+	elector = no
+}

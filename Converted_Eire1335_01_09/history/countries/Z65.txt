@@ -1,0 +1,24 @@
+# Niederbayern
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+capital = 64
+1434.11.20 = {
+	monarch = {
+		name = "Lutbert"
+		birth_date = 1431.1.24
+		dynasty = "von Arneburg"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 64
+	add_treasury = 48
+	add_prestige = 59
+	elector = no
+}

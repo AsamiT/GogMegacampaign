@@ -1,0 +1,26 @@
+# Jylland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1984
+1441.7.28 = {
+	monarch = {
+		name = "Gudrun II"
+		birth_date = 1419.2.1
+		dynasty = "Galen"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1984
+	add_treasury = 44
+	add_prestige = 74
+}

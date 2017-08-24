@@ -1,0 +1,294 @@
+# Bulgaria
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 113 88 101 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Ioulia" "Narses" "Yeshayah" "Orestes" "Lazaros" "Hypatia" "Antonios" "Pelagios" "Ioseph" "Margarita" 
+	"Euphemia" "Zenobios" "Parthena" "Maurikios" "Costin" "Helene" "Ioannikios" "Kallinikos" "Chrysogonos" "Bosporios" 
+	"Epiphania" "Sergia" "Philaretos" "Garyphallia" "Konstantinos" "Andronikos" "Gregorios" "Michael" "Nikolaos" "Stephanos" 
+	"Bardas" "Christophoros" "Ioannes" "Eirene" "Maria" "Theodora" "Adriane" "Anna" "Kyriake" "Xenon" 
+	"Thomas" "Konstantios" "Eudokia" "Eulalia" "Zoe" "Zenon" "Kaisarios" "Kyra" "Antiochos" "Niketas" 
+	"Arevig" "Thomais" "Theodoulos" "Iordanes" "Eugenios" "Manuel" "Agathe" "Gennadios" "Antipatra" "Melissa" 
+	"Eunike" "Pankratios" "Theodoros" "Kyriakos" "Staurakios" "Theoktiste" "Konstantine" "Petros" "Abakhazia" "Markos" 
+	"Damiane" "Ioanna" "Valeria" "Gerasimos" "Barbara" "Markia" "Apollonia" "Leontia" "Herakleios" "Stephania" 
+	"Alexandra" "Rula" "David" "Eudoxia" "Sebastianos" "Akakios" "Valerios" "Alexandros" "Simonis" "Sabas" 
+	"Sibylla" "Sophia" "Arsenios" "Aikaterine" "Euphrosyne" "Kubrat" "Batbayan" "Asparukh" "Tervel" "Ajjar" 
+	"Kormesiy" "Sevar" "Kormisosh" "Vinekh" "Telets" "Sabin" "Umor" "Toktu" "Pagan" "Telerig" 
+	"Kardam" "Krum" "Omortag" "Malamir" "Presian" "Boris" "Vladimir" "Petar" "Roman" "Samuil" 
+	"Gavril Radomir" "Ivan Vladislav" "Chrysogone" "Sava" "Paschalis" "Euphrasia" "Phokas" "Timotheos" "Anastasios" "Aaron" 
+	"Abanoub" "Abderahman" "Abdul-Aziz" "Abdul-Haq" "Abdul-Madjid" "Abdul-Salaam" "Abianos" "Abisalom" "Ablarion" "Abraam" 
+	"Adnan" "Agathon" "Agathonikos" "Agathos" "Alam" "Amr" "Androus" "Anthinos" "Ashraf" "Asim" 
+	"Athanasios" "Badr" "Bashir" "Biktor" "Binyamin" "Bishoi" "Boutros" "Danyal" "Dawlat" "Da’oud" 
+	"Farhan" "Firuz" "Gabri’el" "Georgios" "Ghiyasaddin" "Habil" "Hakam" "Hammud" "Hanri" "Haroun" 
+	"Hisham" "Ibrahim" "Ilyas" "Is'mail" "Izzaddin" "Jalaaladdin" "Jawdat" "Jerjer" "Kemaladdin" "Khalil" 
+	"Krystafer" "Latif" "Lot" "Malik" "Matta" "Mehtar" "Mikail" "Mikhael" "Milad" "Mina" 
+	"Mukhtar" "Murad" "Murshid" "Musa" "Muzaffaraddin" "Nabil" "Nasir" "Nassib" "Nuraddin" "Pamin" 
+	"Qadir" "Ra'uf" "Rafiq" "Ridwan" "Sabah" "Salim" "Sha'ban" "Sharif" "Suhail" "Tadros" 
+	"Tajaddin" "Tayyib" "Touma" "Usama" "Walid" "Yahya" "Yared" "Yassir" "Youkhanna" "Youssef" 
+	"Zaia" "Zakariyah" }
+monarch_names = {
+	"Ioulia #0" = -1
+	"Narses #0" = 1
+	"Yeshayah #0" = 1
+	"Orestes #0" = 1
+	"Lazaros #1" = 18
+	"Hypatia #0" = -1
+	"Antonios #1" = 24
+	"Pelagios #0" = 1
+	"Ioseph #0" = 1
+	"Margarita #0" = -1
+	"Euphemia #0" = -1
+	"Zenobios #1" = 24
+	"Parthena #0" = -1
+	"Maurikios #0" = 1
+	"Costin #0" = 1
+	"Helene #0" = -1
+	"Ioannikios #2" = 24
+	"Kallinikos #1" = 21
+	"Chrysogonos #0" = 1
+	"Bosporios #0" = 1
+	"Epiphania #0" = -1
+	"Sergia #0" = -1
+	"Philaretos #0" = 1
+	"Garyphallia #0" = -1
+	"Konstantinos #0" = 1
+	"Andronikos #0" = 1
+	"Gregorios #0" = 1
+	"Michael #1" = 36
+	"Nikolaos #0" = 1
+	"Stephanos #0" = 1
+	"Bardas #0" = 1
+	"Christophoros #0" = 1
+	"Ioannes #0" = 1
+	"Eirene #0" = -1
+	"Maria #0" = -1
+	"Theodora #0" = -1
+	"Adriane #0" = -1
+	"Anna #0" = -1
+	"Kyriake #0" = -1
+	"Xenon #0" = 1
+	"Thomas #0" = 1
+	"Konstantios #1" = 18
+	"Eudokia #0" = -1
+	"Eulalia #0" = -1
+	"Zoe #0" = -1
+	"Zenon #0" = 1
+	"Kaisarios #1" = 27
+	"Kyra #0" = -1
+	"Antiochos #0" = 1
+	"Niketas #1" = 27
+	"Arevig #0" = -1
+	"Thomais #0" = -1
+	"Theodoulos #0" = 1
+	"Iordanes #0" = 1
+	"Eugenios #0" = 1
+	"Manuel #0" = 1
+	"Agathe #1" = -19
+	"Gennadios #0" = 1
+	"Antipatra #0" = -1
+	"Melissa #0" = -1
+	"Eunike #0" = -1
+	"Pankratios #0" = 1
+	"Theodoros #1" = 18
+	"Kyriakos #0" = 1
+	"Staurakios #1" = 18
+	"Theoktiste #0" = -1
+	"Konstantine #1" = -19
+	"Petros #0" = 1
+	"Abakhazia #0" = -1
+	"Markos #1" = 21
+	"Damiane #0" = -1
+	"Ioanna #0" = -1
+	"Valeria #0" = -1
+	"Gerasimos #0" = 1
+	"Barbara #0" = -1
+	"Markia #0" = -1
+	"Apollonia #0" = -1
+	"Leontia #0" = -1
+	"Herakleios #0" = 1
+	"Stephania #0" = -1
+	"Alexandra #0" = -1
+	"Rula #0" = -1
+	"David #0" = 1
+	"Eudoxia #0" = -1
+	"Sebastianos #0" = 1
+	"Akakios #0" = 1
+	"Valerios #0" = 1
+	"Alexandros #0" = 1
+	"Simonis #0" = -1
+	"Sabas #0" = 1
+	"Sibylla #0" = -1
+	"Sophia #0" = -1
+	"Arsenios #0" = 1
+	"Aikaterine #0" = -1
+	"Euphrosyne #0" = -1
+	"Kubrat #1" = 0
+	"Batbayan #1" = 0
+	"Asparukh #1" = 0
+	"Tervel #1" = 0
+	"Ajjar #1" = 0
+	"Kormesiy #1" = 0
+	"Sevar #1" = 0
+	"Kormisosh #1" = 0
+	"Vinekh #1" = 0
+	"Telets #1" = 0
+	"Sabin #1" = 0
+	"Umor #1" = 0
+	"Toktu #1" = 0
+	"Pagan #1" = 0
+	"Telerig #1" = 0
+	"Kardam #1" = 0
+	"Krum #1" = 0
+	"Omortag #1" = 0
+	"Malamir #1" = 0
+	"Presian #2" = 0
+	"Boris #2" = 0
+	"Vladimir #1" = 0
+	"Petar #2" = 0
+	"Roman #1" = 0
+	"Samuil #1" = 0
+	"Gavril Radomir #1" = 0
+	"Ivan Vladislav #1" = 0
+	"Chrysogone #1" = -1
+	"Sava #1" = 0
+	"Paschalis #2" = 0
+	"Euphrasia #1" = -1
+	"Phokas #1" = 0
+	"Timotheos #1" = 0
+	"Anastasios #1" = 0
+	"Aaron #0" = 0
+	"Abanoub #0" = 0
+	"Abderahman #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Haq #0" = 0
+	"Abdul-Madjid #0" = 0
+	"Abdul-Salaam #0" = 0
+	"Abianos #0" = 0
+	"Abisalom #0" = 0
+	"Ablarion #0" = 0
+	"Abraam #0" = 0
+	"Adnan #0" = 0
+	"Agathon #0" = 0
+	"Agathonikos #0" = 0
+	"Agathos #0" = 0
+	"Alam #0" = 0
+	"Amr #0" = 0
+	"Androus #0" = 0
+	"Anthinos #0" = 0
+	"Ashraf #0" = 0
+	"Asim #0" = 0
+	"Athanasios #0" = 0
+	"Badr #0" = 0
+	"Bashir #0" = 0
+	"Biktor #0" = 0
+	"Binyamin #0" = 0
+	"Bishoi #0" = 0
+	"Boutros #0" = 0
+	"Danyal #0" = 0
+	"Dawlat #0" = 0
+	"Da’oud #0" = 0
+	"Farhan #0" = 0
+	"Firuz #0" = 0
+	"Gabri’el #0" = 0
+	"Georgios #0" = 0
+	"Ghiyasaddin #0" = 0
+	"Habil #0" = 0
+	"Hakam #0" = 0
+	"Hammud #0" = 0
+	"Hanri #0" = 0
+	"Haroun #0" = 0
+	"Hisham #0" = 0
+	"Ibrahim #0" = 0
+	"Ilyas #0" = 0
+	"Is'mail #0" = 0
+	"Izzaddin #0" = 0
+	"Jalaaladdin #0" = 0
+	"Jawdat #0" = 0
+	"Jerjer #0" = 0
+	"Kemaladdin #0" = 0
+	"Khalil #0" = 0
+	"Krystafer #0" = 0
+	"Latif #0" = 0
+	"Lot #0" = 0
+	"Malik #0" = 0
+	"Matta #0" = 0
+	"Mehtar #0" = 0
+	"Mikail #0" = 0
+	"Mikhael #0" = 0
+	"Milad #0" = 0
+	"Mina #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Murshid #0" = 0
+	"Musa #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nabil #0" = 0
+	"Nasir #0" = 0
+	"Nassib #0" = 0
+	"Nuraddin #0" = 0
+	"Pamin #0" = 0
+	"Qadir #0" = 0
+	"Ra'uf #0" = 0
+	"Rafiq #0" = 0
+	"Ridwan #0" = 0
+	"Sabah #0" = 0
+	"Salim #0" = 0
+	"Sha'ban #0" = 0
+	"Sharif #0" = 0
+	"Suhail #0" = 0
+	"Tadros #0" = 0
+	"Tajaddin #0" = 0
+	"Tayyib #0" = 0
+	"Touma #0" = 0
+	"Usama #0" = 0
+	"Walid #0" = 0
+	"Yahya #0" = 0
+	"Yared #0" = 0
+	"Yassir #0" = 0
+	"Youkhanna #0" = 0
+	"Youssef #0" = 0
+	"Zaia #0" = 0
+	"Zakariyah #0" = 0
+}
+ship_names = {
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
+}
+

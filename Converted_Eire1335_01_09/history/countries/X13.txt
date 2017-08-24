@@ -1,0 +1,27 @@
+# of Malwa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 569
+1413.6.17 = {
+	monarch = {
+		name = "Bhavanaga"
+		birth_date = 1408.9.2
+		dynasty = "of Malwa"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 569
+	add_treasury = 43
+	add_prestige = 5
+}

@@ -1,0 +1,26 @@
+# Uppeln
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 264
+1422.3.15 = {
+	monarch = {
+		name = "Wido"
+		birth_date = 1402.5.25
+		dynasty = "von Lunen"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 264
+	add_treasury = 25
+	add_prestige = 111
+	elector = no
+}

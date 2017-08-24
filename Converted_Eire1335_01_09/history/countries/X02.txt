@@ -1,0 +1,26 @@
+# Paramêsvaravarman
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sinhala
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2099
+1419.9.26 = {
+	monarch = {
+		name = "Nirupatunkavarman"
+		birth_date = 1404.9.17
+		dynasty = "Paramêsvaravarman"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2099
+	add_treasury = 51
+	add_prestige = 241
+}

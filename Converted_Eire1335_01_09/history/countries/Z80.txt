@@ -1,0 +1,23 @@
+# Mundirid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = sunni
+capital = 176
+1440.12.23 = {
+	monarch = {
+		name = "Rashid"
+		birth_date = 1429.4.18
+		dynasty = "Mundirid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 176
+	add_treasury = 16
+	add_prestige = 55
+}

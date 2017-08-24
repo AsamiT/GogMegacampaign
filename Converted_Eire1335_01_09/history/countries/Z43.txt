@@ -1,0 +1,27 @@
+# Köln
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 85
+1428.10.8 = {
+	monarch = {
+		name = "Hesso"
+		birth_date = 1423.10.1
+		dynasty = "von Tyrol"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 85
+	add_treasury = 73
+	add_prestige = 111
+	elector = no
+}

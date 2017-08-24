@@ -1,0 +1,26 @@
+# Dioclea
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = serbian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 137
+1400.2.25 = {
+	monarch = {
+		name = "Nada"
+		birth_date = 1397.10.23
+		dynasty = "de Hauteville"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 137
+	add_treasury = 30
+	add_prestige = 260
+}

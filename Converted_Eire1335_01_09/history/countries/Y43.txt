@@ -1,0 +1,35 @@
+# Kotyan
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4129
+1434.10.12 = {
+	monarch = {
+		name = "Eldeçyuk"
+		birth_date = 1383.1.16
+		dynasty = "Kotyan"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Begluk"
+		monarch_name = "Begluk"
+		dynasty = "Kotyan"
+		birth_date = 1419.2.12
+		death_date = 1499.2.12
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 15
+	add_prestige = 184
+}

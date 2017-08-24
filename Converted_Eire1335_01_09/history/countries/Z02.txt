@@ -1,0 +1,39 @@
+# Éire
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 372
+1413.8.12 = {
+	monarch = {
+		name = "Lachtnae"
+		birth_date = 1404.7.26
+		dynasty = "O Maolmuaidh"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1423.3.14 = {
+	heir = {
+		name = "Caissín"
+		monarch_name = "Caissín II"
+		dynasty = "O Maolmuaidh"
+		birth_date = 1423.3.14
+		death_date = 1503.3.14
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 372
+	add_treasury = 437
+	add_prestige = 330
+}

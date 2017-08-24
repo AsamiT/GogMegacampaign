@@ -1,0 +1,185 @@
+# Karvuna
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 227 79 190 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Zenobia" "Theodoulos" "Eustathia" "Markos" "Kale" "Hektorios" "Leontia" "Hippolytos" "Euphrosyne" "Kyrillos" 
+	"Anastasios" "Philotheos" "Theocharistos" "Zenon" "Antipatra" "Gabrielia" "Pankratios" "Adelard" "Theophano" "Tiberios" 
+	"Valeria" "Pamphilios" "Lilyana" "Antonios" "Ra'isa" "Ioseph" "Garyphallia" "Manuel" "Isaakios" "Theognosia" 
+	"Thekla" "Viviana" "Gerasimos" "Makarios" "Eudokia" "Simonis" "Ioulia" "Zoe" "Basillike" "Dionysia" 
+	"Ioanna" "Tervel" "Kormesiy" "Sevar" "Kermek" "Toktu" "Bayan" "Krum" "Presian" "Boris" 
+	"Vladimir" "Petar" "Roman" "Samuil" "Gavril Radomir" "Ivan Vladislav" "Alusian" "Nikephoros" "Michael" "Ioannes" 
+	"Konstantios" "Chrysogone" "Kaisarios" "Niketas" "Petros" "Staurakios" "Agathe" "Paschalis" "Phokas" "Timotheos" 
+	"Konstantine" "Aleksii" "Balin" "Bernardin" "Bertalan" "Bogoris" "Boril" "Bozidar" "Braslav" "Dan" 
+	"Dionisii" "Dominik" "Dragoman" "Dragshan" "Drzislav" "Evtimii" "Frujin" "German" "Grgur" "Hranimir" 
+	"Ioakim" "Ivan" "Jerolim" "Kalojan" "Kocelj" "Kozma" "Kresimir" "Kulin" "Ljubomir" "Ljutomisl" 
+	"Marko" "Mihail" "Mikica" "Miroslav" "Momchil" "Nikola" "Ognen" "Prijezda" "Radislav" "Radu" 
+	"Sava" "Sermon" "Slavac" "Soimir" "Stracimir" "Svetislav" "Tomislav" "Trpimir" "Vasilii" "Viseslav" 
+	"Vladislav" "Vojnomir" "Zdeslav" }
+monarch_names = {
+	"Zenobia #0" = -1
+	"Theodoulos #0" = 1
+	"Eustathia #0" = -1
+	"Markos #3" = 24
+	"Kale #0" = -1
+	"Hektorios #0" = 1
+	"Leontia #0" = -1
+	"Hippolytos #0" = 1
+	"Euphrosyne #0" = -1
+	"Kyrillos #0" = 1
+	"Anastasios #1" = 21
+	"Philotheos #0" = 1
+	"Theocharistos #0" = 1
+	"Zenon #1" = 21
+	"Antipatra #0" = -1
+	"Gabrielia #0" = -1
+	"Pankratios #0" = 1
+	"Adelard #1" = 24
+	"Theophano #0" = -1
+	"Tiberios #0" = 1
+	"Valeria #0" = -1
+	"Pamphilios #0" = 1
+	"Lilyana #0" = -1
+	"Antonios #1" = 21
+	"Ra'isa #0" = -1
+	"Ioseph #0" = 1
+	"Garyphallia #0" = -1
+	"Manuel #1" = 18
+	"Isaakios #0" = 1
+	"Theognosia #0" = -1
+	"Thekla #0" = -1
+	"Viviana #0" = -1
+	"Gerasimos #0" = 1
+	"Makarios #0" = 1
+	"Eudokia #0" = -1
+	"Simonis #0" = -1
+	"Ioulia #0" = -1
+	"Zoe #0" = -1
+	"Basillike #0" = -1
+	"Dionysia #0" = -1
+	"Ioanna #0" = -1
+	"Tervel #1" = 0
+	"Kormesiy #1" = 0
+	"Sevar #1" = 0
+	"Kermek #1" = 0
+	"Toktu #1" = 0
+	"Bayan #1" = 0
+	"Krum #1" = 0
+	"Presian #2" = 0
+	"Boris #2" = 0
+	"Vladimir #1" = 0
+	"Petar #1" = 0
+	"Roman #1" = 0
+	"Samuil #1" = 0
+	"Gavril Radomir #1" = 0
+	"Ivan Vladislav #1" = 0
+	"Alusian #1" = 0
+	"Nikephoros #1" = 0
+	"Michael #2" = 0
+	"Ioannes #1" = 0
+	"Konstantios #2" = 0
+	"Chrysogone #1" = -1
+	"Kaisarios #1" = 0
+	"Niketas #3" = 0
+	"Petros #1" = 0
+	"Staurakios #1" = 0
+	"Agathe #1" = -1
+	"Paschalis #1" = 0
+	"Phokas #1" = 0
+	"Timotheos #1" = 0
+	"Konstantine #1" = -1
+	"Aleksii #0" = 0
+	"Balin #0" = 0
+	"Bernardin #0" = 0
+	"Bertalan #0" = 0
+	"Bogoris #0" = 0
+	"Boril #0" = 0
+	"Bozidar #0" = 0
+	"Braslav #0" = 0
+	"Dan #0" = 0
+	"Dionisii #0" = 0
+	"Dominik #0" = 0
+	"Dragoman #0" = 0
+	"Dragshan #0" = 0
+	"Drzislav #0" = 0
+	"Evtimii #0" = 0
+	"Frujin #0" = 0
+	"German #0" = 0
+	"Grgur #0" = 0
+	"Hranimir #0" = 0
+	"Ioakim #0" = 0
+	"Ivan #0" = 0
+	"Jerolim #0" = 0
+	"Kalojan #0" = 0
+	"Kocelj #0" = 0
+	"Kozma #0" = 0
+	"Kresimir #0" = 0
+	"Kulin #0" = 0
+	"Ljubomir #0" = 0
+	"Ljutomisl #0" = 0
+	"Marko #0" = 0
+	"Mihail #0" = 0
+	"Mikica #0" = 0
+	"Miroslav #0" = 0
+	"Momchil #0" = 0
+	"Nikola #0" = 0
+	"Ognen #0" = 0
+	"Prijezda #0" = 0
+	"Radislav #0" = 0
+	"Radu #0" = 0
+	"Sava #0" = 0
+	"Sermon #0" = 0
+	"Slavac #0" = 0
+	"Soimir #0" = 0
+	"Stracimir #0" = 0
+	"Svetislav #0" = 0
+	"Tomislav #0" = 0
+	"Trpimir #0" = 0
+	"Vasilii #0" = 0
+	"Viseslav #0" = 0
+	"Vladislav #0" = 0
+	"Vojnomir #0" = 0
+	"Zdeslav #0" = 0
+}
+ship_names = {
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
+}
+

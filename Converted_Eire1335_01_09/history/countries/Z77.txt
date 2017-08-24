@@ -1,0 +1,26 @@
+# Mali
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1130
+1417.2.23 = {
+	monarch = {
+		name = "Fodi"
+		birth_date = 1409.8.2
+		dynasty = "Gao"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1130
+	add_treasury = 83
+	add_prestige = 161
+}

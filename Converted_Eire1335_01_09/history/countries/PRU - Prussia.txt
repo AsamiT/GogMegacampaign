@@ -1,0 +1,23 @@
+# Prussia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+1440.6.4 = {
+	monarch = {
+		name = "Belgutei"
+		birth_date = 1413.3.3
+		dynasty = "Noyan"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	add_treasury = 3
+	add_prestige = 94
+}

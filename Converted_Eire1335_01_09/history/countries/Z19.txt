@@ -1,0 +1,23 @@
+# Deheubarth
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = orthodox
+capital = 248
+1430.6.14 = {
+	monarch = {
+		name = "Findlay"
+		birth_date = 1424.11.5
+		dynasty = "Dunbar"
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 248
+	add_treasury = 15
+	add_prestige = 110
+}

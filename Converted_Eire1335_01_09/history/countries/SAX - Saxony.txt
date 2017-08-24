@@ -1,0 +1,27 @@
+# Saxony
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 63
+1432.7.9 = {
+	monarch = {
+		name = "Wido"
+		birth_date = 1411.6.10
+		dynasty = "von Weimar"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 63
+	add_treasury = 48
+	add_prestige = 203
+	elector = no
+}

@@ -1,0 +1,23 @@
+# Belo Ozero
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 2749
+1403.1.16 = {
+	monarch = {
+		name = "Vladimir"
+		birth_date = 1394.1.28
+		dynasty = "Rurikid"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 2749
+	add_treasury = 6
+	add_prestige = 731
+}

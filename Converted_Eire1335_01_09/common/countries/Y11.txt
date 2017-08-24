@@ -1,0 +1,244 @@
+# Mosul
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 11 205 70 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Anna" "Eustathia" "Kyros" "Lîza" "Pyrros" "Epiphania" "Hypatia" "Khalid" "Mihemed" "Cefer" 
+	"Musk Ebû-Hija" "Ebû-Hija" "Šeref ed-Dîn" "Salar" "Elî Ebûl-Hesên" "Ebû-Elî Hesên" "Sharaf ad-Dawlah" "Musa" "Adhid" "Sirhan" 
+	"Sharaf" "Hashmaddin" "Umaya" "Niketas" "Sibylla" "Alah-Verdi" "Amin" "Aram" "Assad" "Aurang" 
+	"Ayeshah" "Azad" "Babek" "Bahman" "Behrad" "Behram" "Behrouz" "Bextîyar" "Bozorg" "Cehandar" 
+	"Cehangir" "Cehanšah" "Cemšîd" "Cevid" "Danûš" "Darab" "Daryûš" "Davud" "Ebrahim" "Efrasiyab" 
+	"Efšer" "Ehmed" "Ehsan" "Ekber" "Elî" "Enûširwan" "Erdehan" "Erdewan" "Erdešîr" "Esfendiyar" 
+	"Eskander" "Ešot" "Eyyub" "Feramez" "Feraz" "Fath" "Ferhad" "Ferhan" "Ferheng" "Feriburz" 
+	"Ferîd" "Ferîdun" "Ferux" "Feruxzad" "Ferzad" "Fezl" "Fezlun" "Firdews" "Ghobad" "Gholam" 
+	"Godarz" "Goštasp" "Hezarhesp" "Hafez" "Hedayat" "Hesen" "Hisên" "Hormoz" "Hosen" "Humayun" 
+	"Hurmiz" "Îsmaîl" "Kambiz" "Kamran" "Keyghobad" "Keyxusrew" "Kâvus" "Kûrušê" "Mamlan" "Mashad" 
+	"Mehmûd" "Mehrab" "Mehrzad" "Mensûr" "Menûçihr" "Menûšihr" "Merwan" "Merzuban" "Mesûd" "Mîrza" 
+	"Mistefa" "Murad" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" "Nesir" "Nesr" "Nezam" 
+	"Nošîrwan" "Nêçîrvan" "Parviz" "Pujman" "Pêšeng" "Pîroz" "Revend" "Reza" "Ruhollah" "Rustam" 
+	"Sadri" "Salman" "Sina" "Surxap" "Tahmasp" "Vahhab" "Vahid" "Vahusdan" "Vali" "Varšasp" 
+	"Vîštap" "Xarmandar" "Xašayar" "Xuršîd" "Xusrew" "Xušyar" "Xwedadad" "Xwedayar" "Yezîd" "Yousef" 
+	"Zahak" "Zakaria" "Zand" "Zerdešt" "Zia" "Šadî" "Šahab" "Šahbaz" "Šahenšah" "Šahin" 
+	"Šahram" "Šahryar" "Šahrux" "Šahruz" "Šapur" "Šarvin" "Šawur" "Šayan" "Šîrkûh" }
+monarch_names = {
+	"Anna #0" = -1
+	"Eustathia #0" = -1
+	"Kyros #1" = 18
+	"Lîza #0" = -1
+	"Pyrros #0" = 1
+	"Epiphania #0" = -1
+	"Hypatia #0" = -1
+	"Khalid #1" = 0
+	"Mihemed #1" = 0
+	"Cefer #1" = 0
+	"Musk Ebû-Hija #1" = 0
+	"Ebû-Hija #2" = 0
+	"Šeref ed-Dîn #1" = 0
+	"Salar #1" = 0
+	"Elî Ebûl-Hesên #1" = 0
+	"Ebû-Elî Hesên #1" = 0
+	"Sharaf ad-Dawlah #1" = 0
+	"Musa #2" = 0
+	"Adhid #1" = 0
+	"Sirhan #1" = 0
+	"Sharaf #1" = 0
+	"Hashmaddin #1" = 0
+	"Umaya #1" = 0
+	"Niketas #1" = 0
+	"Sibylla #1" = -1
+	"Alah-Verdi #0" = 0
+	"Amin #0" = 0
+	"Aram #0" = 0
+	"Assad #0" = 0
+	"Aurang #0" = 0
+	"Ayeshah #0" = 0
+	"Azad #0" = 0
+	"Babek #0" = 0
+	"Bahman #0" = 0
+	"Behrad #0" = 0
+	"Behram #0" = 0
+	"Behrouz #0" = 0
+	"Bextîyar #0" = 0
+	"Bozorg #0" = 0
+	"Cehandar #0" = 0
+	"Cehangir #0" = 0
+	"Cehanšah #0" = 0
+	"Cemšîd #0" = 0
+	"Cevid #0" = 0
+	"Danûš #0" = 0
+	"Darab #0" = 0
+	"Daryûš #0" = 0
+	"Davud #0" = 0
+	"Ebrahim #0" = 0
+	"Efrasiyab #0" = 0
+	"Efšer #0" = 0
+	"Ehmed #0" = 0
+	"Ehsan #0" = 0
+	"Ekber #0" = 0
+	"Elî #0" = 0
+	"Enûširwan #0" = 0
+	"Erdehan #0" = 0
+	"Erdewan #0" = 0
+	"Erdešîr #0" = 0
+	"Esfendiyar #0" = 0
+	"Eskander #0" = 0
+	"Ešot #0" = 0
+	"Eyyub #0" = 0
+	"Feramez #0" = 0
+	"Feraz #0" = 0
+	"Fath #0" = 0
+	"Ferhad #0" = 0
+	"Ferhan #0" = 0
+	"Ferheng #0" = 0
+	"Feriburz #0" = 0
+	"Ferîd #0" = 0
+	"Ferîdun #0" = 0
+	"Ferux #0" = 0
+	"Feruxzad #0" = 0
+	"Ferzad #0" = 0
+	"Fezl #0" = 0
+	"Fezlun #0" = 0
+	"Firdews #0" = 0
+	"Ghobad #0" = 0
+	"Gholam #0" = 0
+	"Godarz #0" = 0
+	"Goštasp #0" = 0
+	"Hezarhesp #0" = 0
+	"Hafez #0" = 0
+	"Hedayat #0" = 0
+	"Hesen #0" = 0
+	"Hisên #0" = 0
+	"Hormoz #0" = 0
+	"Hosen #0" = 0
+	"Humayun #0" = 0
+	"Hurmiz #0" = 0
+	"Îsmaîl #0" = 0
+	"Kambiz #0" = 0
+	"Kamran #0" = 0
+	"Keyghobad #0" = 0
+	"Keyxusrew #0" = 0
+	"Kâvus #0" = 0
+	"Kûrušê #0" = 0
+	"Mamlan #0" = 0
+	"Mashad #0" = 0
+	"Mehmûd #0" = 0
+	"Mehrab #0" = 0
+	"Mehrzad #0" = 0
+	"Mensûr #0" = 0
+	"Menûçihr #0" = 0
+	"Menûšihr #0" = 0
+	"Merwan #0" = 0
+	"Merzuban #0" = 0
+	"Mesûd #0" = 0
+	"Mîrza #0" = 0
+	"Mistefa #0" = 0
+	"Murad #0" = 0
+	"Morteza #0" = 0
+	"Mozaffar #0" = 0
+	"Nard #0" = 0
+	"Naveed #0" = 0
+	"Nawid #0" = 0
+	"Nesir #0" = 0
+	"Nesr #0" = 0
+	"Nezam #0" = 0
+	"Nošîrwan #0" = 0
+	"Nêçîrvan #0" = 0
+	"Parviz #0" = 0
+	"Pujman #0" = 0
+	"Pêšeng #0" = 0
+	"Pîroz #0" = 0
+	"Revend #0" = 0
+	"Reza #0" = 0
+	"Ruhollah #0" = 0
+	"Rustam #0" = 0
+	"Sadri #0" = 0
+	"Salman #0" = 0
+	"Sina #0" = 0
+	"Surxap #0" = 0
+	"Tahmasp #0" = 0
+	"Vahhab #0" = 0
+	"Vahid #0" = 0
+	"Vahusdan #0" = 0
+	"Vali #0" = 0
+	"Varšasp #0" = 0
+	"Vîštap #0" = 0
+	"Xarmandar #0" = 0
+	"Xašayar #0" = 0
+	"Xuršîd #0" = 0
+	"Xusrew #0" = 0
+	"Xušyar #0" = 0
+	"Xwedadad #0" = 0
+	"Xwedayar #0" = 0
+	"Yezîd #0" = 0
+	"Yousef #0" = 0
+	"Zahak #0" = 0
+	"Zakaria #0" = 0
+	"Zand #0" = 0
+	"Zerdešt #0" = 0
+	"Zia #0" = 0
+	"Šadî #0" = 0
+	"Šahab #0" = 0
+	"Šahbaz #0" = 0
+	"Šahenšah #0" = 0
+	"Šahin #0" = 0
+	"Šahram #0" = 0
+	"Šahryar #0" = 0
+	"Šahrux #0" = 0
+	"Šahruz #0" = 0
+	"Šapur #0" = 0
+	"Šarvin #0" = 0
+	"Šawur #0" = 0
+	"Šayan #0" = 0
+	"Šîrkûh #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

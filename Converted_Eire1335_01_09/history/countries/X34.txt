@@ -1,0 +1,35 @@
+# Telingana
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = telegu
+religion = hinduism
+capital = 2037
+1390.10.7 = {
+	monarch = {
+		name = "Peepalraj IV"
+		birth_date = 1383.2.15
+		dynasty = "Naravarmandevid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+1418.3.25 = {
+	heir = {
+		name = "Asaraja"
+		monarch_name = "Asaraja"
+		dynasty = "Naravarmandevid"
+		birth_date = 1418.3.25
+		death_date = 1498.3.25
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 2037
+	add_treasury = 22
+	add_prestige = 169
+}

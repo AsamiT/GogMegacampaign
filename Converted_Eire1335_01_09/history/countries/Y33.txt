@@ -1,0 +1,25 @@
+# Akhlamadid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = zoroastrian
+clear_scripted_personalities = yes
+capital = 441
+1435.9.4 = {
+	monarch = {
+		name = "Danush"
+		birth_date = 1418.7.21
+		dynasty = "Akhlamadid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 441
+	add_treasury = 15
+	add_prestige = 81
+}

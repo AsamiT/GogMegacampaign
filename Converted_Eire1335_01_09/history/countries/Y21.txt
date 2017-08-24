@@ -1,0 +1,25 @@
+# Bononia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 3000
+1436.12.26 = {
+	monarch = {
+		name = "Herakleios"
+		birth_date = 1432.9.30
+		dynasty = "Metaxas"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 3000
+	add_treasury = 47
+	add_prestige = 20
+}

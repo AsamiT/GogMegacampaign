@@ -1,0 +1,25 @@
+# Pisa
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 115
+1443.4.26 = {
+	monarch = {
+		name = "Pasquale"
+		birth_date = 1391.4.18
+		dynasty = "Valente"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 115
+	add_treasury = 19
+	add_prestige = 96
+}

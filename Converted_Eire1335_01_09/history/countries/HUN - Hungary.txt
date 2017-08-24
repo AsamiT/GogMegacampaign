@@ -1,0 +1,38 @@
+# Hungary
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4240
+1428.7.21 = {
+	monarch = {
+		name = "Gábriel II"
+		birth_date = 1422.5.7
+		dynasty = "Gøye"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1442.9.11 = {
+	heir = {
+		name = "Sámuel"
+		monarch_name = "Sámuel II"
+		dynasty = "Gøye"
+		birth_date = 1442.9.11
+		death_date = 1522.9.11
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 4240
+	add_treasury = 15
+	add_prestige = 221
+}

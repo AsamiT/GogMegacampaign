@@ -1,0 +1,37 @@
+# Pomerania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 48
+1418.5.13 = {
+	monarch = {
+		name = "Przybyslaw II"
+		birth_date = 1394.3.4
+		dynasty = "z Roztoki"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+	add_ruler_personality = scholar_personality
+}
+1427.6.16 = {
+	heir = {
+		name = "Szczepan"
+		monarch_name = "Szczepan"
+		dynasty = "z Roztoki"
+		birth_date = 1427.6.16
+		death_date = 1507.6.16
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 48
+	add_treasury = 51
+	add_prestige = 297
+}

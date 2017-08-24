@@ -1,0 +1,247 @@
+# Deheubarth
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 125 51 3 }
+historical_idea_groups = {
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Findlay" "Kenneth" "Derilla" "Fingal" "Elspeth" "Donald" "Kenna" "Ela" "Anna" "Gospatric" 
+	"Waldeve" "Dolfin" "Fingola" "Etheldreda" "Conall" "Constantine" "Octreda" "Offa" "Aulay" "Beathan" 
+	"Alastair" "Petre" "Isabel" "Richard" "Oswine" "Edith" "Affraic" "Julia" "Matthew" "Judit" 
+	"Ealdræd" "Robert" "Lachlan" "Innes" "Beileag" "Ricard" "Una" "Moyna" "Murdoch" "Rhonda" 
+	"Mor" "Edna" "Fenella" "Fergus" "Evander" "Marthoc" "Einudd" "Eudaf" "Macsen" "Annwn Dynod" 
+	"Tudwal" "Dyfnwal" "Ynyr" "Caradog" "Meurig" "Erbic" "Erb" "Nynniaw" "Llywarch" "Tewdrig" 
+	"Arthwys" "Morgan" "Ithel" "Rhys" "Brochfael" "Gwriad" "Arthfael" "Hywel" "Owain" "Maredudd" 
+	"Cynan" "Cadell" "Llywelyn" "Rhydderch" "Gruffydd" "Tewdwr" "Máel-Cein" "Enid" "Åmund" "Llear" 
+	"Casnar" "Adam" "Alpin" "Alan" "Alexander" "Andrew" "Angus" "Archibald" "Arthur" "Arran" 
+	"Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Colin" "Conan" "David" "Dermid" 
+	"Douglas" "Duff" "Dugald" "Duncan" "Edgar" "Edward" "Edwin" "Eric" "Ewan" "Farquhar" 
+	"Frang" "Gavin" "Gilbert" "Gilbride" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" 
+	"Godfrey" "Gregor" "Hamish" "Hector" "Henry" "Hugh" "Iain" "Indulf" "James" "John" 
+	"Kentigern" "Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" 
+	"Malmure" "Maoilios" "Marcas" "Matad" "Michael" "Muir" "Mungo" "Murray" "Neil" "Ninian" 
+	"Oscar" "Patrick" "Paul" "Peter" "Philip" "Radulf" "Ranald" "Roderick" "Ronald" "Rory" 
+	"Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Sweeny" "Tadhg" "Talore" "Thomas" 
+	"Torquil" "Uhtred" "Uisdean" "Walan" "Walter" "William" }
+monarch_names = {
+	"Findlay #1" = 18
+	"Kenneth #1" = 21
+	"Derilla #0" = -1
+	"Fingal #0" = 1
+	"Elspeth #0" = -1
+	"Donald #1" = 21
+	"Kenna #0" = -1
+	"Ela #0" = -1
+	"Anna #0" = -1
+	"Gospatric #0" = 1
+	"Waldeve #0" = 1
+	"Dolfin #0" = 1
+	"Fingola #0" = -1
+	"Etheldreda #0" = -1
+	"Conall #0" = 1
+	"Constantine #0" = 1
+	"Octreda #0" = -1
+	"Offa #0" = 1
+	"Aulay #0" = 1
+	"Beathan #0" = 1
+	"Alastair #0" = 1
+	"Petre #0" = 1
+	"Isabel #1" = -19
+	"Richard #0" = 1
+	"Oswine #0" = 1
+	"Edith #0" = -1
+	"Affraic #0" = -1
+	"Julia #0" = -1
+	"Matthew #0" = 1
+	"Judit #0" = -1
+	"Ealdræd #0" = 1
+	"Robert #0" = 1
+	"Lachlan #0" = 1
+	"Innes #0" = -1
+	"Beileag #0" = -1
+	"Ricard #0" = 1
+	"Una #0" = -1
+	"Moyna #1" = -19
+	"Murdoch #1" = 21
+	"Rhonda #0" = -1
+	"Mor #0" = -1
+	"Edna #0" = -1
+	"Fenella #0" = -1
+	"Fergus #1" = 18
+	"Evander #0" = 1
+	"Marthoc #0" = -1
+	"Einudd #1" = 0
+	"Eudaf #2" = 0
+	"Macsen #1" = 0
+	"Annwn Dynod #1" = 0
+	"Tudwal #1" = 0
+	"Dyfnwal #1" = 0
+	"Ynyr #1" = 0
+	"Caradog #3" = 0
+	"Meurig #2" = 0
+	"Erbic #1" = 0
+	"Erb #1" = 0
+	"Nynniaw #1" = 0
+	"Llywarch #1" = 0
+	"Tewdrig #1" = 0
+	"Arthwys #1" = 0
+	"Morgan #1" = 0
+	"Ithel #1" = 0
+	"Rhys #2" = 0
+	"Brochfael #1" = 0
+	"Gwriad #1" = 0
+	"Arthfael #1" = 0
+	"Hywel #3" = 0
+	"Owain #4" = 0
+	"Maredudd #2" = 0
+	"Cynan #1" = 0
+	"Cadell #1" = 0
+	"Llywelyn #1" = 0
+	"Rhydderch #1" = 0
+	"Gruffydd #2" = 0
+	"Tewdwr #1" = 0
+	"Máel-Cein #1" = 0
+	"Enid #1" = -1
+	"Åmund #1" = 0
+	"Llear #1" = -1
+	"Casnar #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conan #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kentigern #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Michael #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Bedwyr Brycheiniog
+	Cadwaladr Caerdydd Caernarfon Caradoc Ceredigion Conwy Culhwch  
+	Deheubarth "Dewi Sant" Dolbadarn Dolwyddelan Dyfed
+	Eryri
+	Glywysing Gwalchmei "Gwenan Gorn" Gwydion Gwyn Gwynedd
+	Lleu "Llewellyn Fawr"
+	Mabinogi Math Meirionydd Morgannwg
+	Olwen "Owain Glyndwr"
+	Penfro Powys "Preiddeu Annwn" Pryderi Pwyll
+	Rhiannon
+	Taff Teifi Teirnon Tywi
+	"Ynys Môn"
+}
+

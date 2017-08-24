@@ -1,0 +1,23 @@
+# Kerman
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+capital = 432
+1441.3.24 = {
+	monarch = {
+		name = "Tanrivermis II"
+		birth_date = 1433.3.14
+		dynasty = "Seljuk"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 432
+	add_treasury = 92
+	add_prestige = 296
+}

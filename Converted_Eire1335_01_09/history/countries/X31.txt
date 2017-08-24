@@ -1,0 +1,23 @@
+# Devapalid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 564
+1436.10.20 = {
+	monarch = {
+		name = "Vijay Sen"
+		birth_date = 1404.2.12
+		dynasty = "Devapalid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 564
+	add_treasury = 64
+	add_prestige = 127
+}

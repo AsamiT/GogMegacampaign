@@ -1,0 +1,27 @@
+# Loon
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1742
+1414.9.3 = {
+	monarch = {
+		name = "Adam"
+		birth_date = 1414.2.9
+		dynasty = "von Ringelheim"
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1742
+	add_treasury = 59
+	add_prestige = 125
+	elector = no
+}

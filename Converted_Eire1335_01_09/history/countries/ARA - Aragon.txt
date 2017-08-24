@@ -1,0 +1,26 @@
+# Aragon
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 214
+1433.6.19 = {
+	monarch = {
+		name = "Oveco"
+		birth_date = 1425.5.17
+		dynasty = "Hudid"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 214
+	add_treasury = 60
+	add_prestige = 177
+}

@@ -1,0 +1,26 @@
+# Plauen
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 62
+1439.4.13 = {
+	monarch = {
+		name = "Folkhard"
+		birth_date = 1419.3.17
+		dynasty = "von Nörvenich"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 62
+	add_treasury = 23
+	add_prestige = 93
+	elector = no
+}

@@ -1,0 +1,26 @@
+# Rus
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4253
+1433.9.16 = {
+	monarch = {
+		name = "Alexei"
+		birth_date = 1401.6.28
+		dynasty = "Rurikid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4253
+	add_treasury = 27
+	add_prestige = 528
+}

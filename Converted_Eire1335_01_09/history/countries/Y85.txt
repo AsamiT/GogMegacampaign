@@ -1,0 +1,23 @@
+# Alamid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = shiite
+capital = 2762
+1422.11.21 = {
+	monarch = {
+		name = "Sabah II"
+		birth_date = 1402.6.23
+		dynasty = "Alamid"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 2762
+	add_treasury = 454
+	add_prestige = 174
+}

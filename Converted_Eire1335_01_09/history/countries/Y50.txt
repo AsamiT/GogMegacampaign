@@ -1,0 +1,37 @@
+# Zhetysu
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4246
+1415.2.16 = {
+	monarch = {
+		name = "Alchi"
+		birth_date = 1402.11.10
+		dynasty = "Khorchi"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1433.8.20 = {
+	heir = {
+		name = "Alchi"
+		monarch_name = "Alchi II"
+		dynasty = "Khorchi"
+		birth_date = 1433.8.20
+		death_date = 1513.8.20
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4246
+	add_treasury = 33
+	add_prestige = 238
+}

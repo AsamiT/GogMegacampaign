@@ -1,0 +1,33 @@
+# Uzlukid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+capital = 1074
+1439.9.7 = {
+	monarch = {
+		name = "Kotyan"
+		birth_date = 1410.9.22
+		dynasty = "Uzlukid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Uzur"
+		monarch_name = "Uzur"
+		dynasty = "Uzlukid"
+		birth_date = 1413.12.26
+		death_date = 1493.12.26
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 1074
+	add_treasury = 10
+	add_prestige = 77
+}

@@ -1,0 +1,26 @@
+# Badrid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 1099
+1393.10.13 = {
+	monarch = {
+		name = "Yassir"
+		birth_date = 1388.2.21
+		dynasty = "Badrid"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1099
+	add_treasury = 223
+	add_prestige = 368
+}

@@ -1,0 +1,148 @@
+# Normandia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 71 24 226 }
+
+
+
+
+leader_names = {
+
+	"Gilbèrt" "Aïna" "Elisabèta" "Jaufret" "Berenguela" "Terèsa" "Ebles" "Aldebert" "Boson" "Tiborg" 
+	"Ana" "Madalena" "Ermengau" "Wenzel" "Sibilla" "Ermessentz" "Artau" "Eufèmia" "Hrolfr" "William" 
+	"Richard" "Robert" "Gérard" "Roger" "Emma" "Iudlouguen" "Copsige" "Ubert" "Kotyan" "Aymar" 
+	"Abelard" "Adam" "Adelard" "Ademar" "Alexander" "Alfons" "Amaury" "Anfroi" "Anquetil" "Anselm" 
+	"Armand" "Arnald" "Asclettin" "Aubrey" "Baldwin" "Bernard" "Berold" "Bertran" "Beuves" "Blayve" 
+	"Bohemond" "Botolf" "Clemence" "Drogo" "Errand" "Eustache" "Faramond" "Ferant" "Filbert" "Fulk" 
+	"Fraunk" "Frery" "Gaillard" "Gaufrid" "Geoffroy" "Gerald" "Gerard" "Geraud" "Gerbert" "Gervas" 
+	"Giffard" "Gilbert" "Godfrey" "Goubert" "Guntard" "Guy" "Haimo" "Hamelin" "Henry" "Herbert" 
+	"Herman" "Hubert" "Hugh" "Humbert" "Humphrey" "Ildebrando" "Jordan" "Joscelin" "Lambert" "Lancelin" 
+	"Mauger" "Nigel" "Norman" "Odo" "Orderic" "Osbern" "Osmond" "Oswulf" "Oswyn" "Radolf" 
+	"Radulf" "Randolf" "Ranulf" "Raymond" "Rayner" "Rolland" "Roscelin" "Sayer" "Serlo" "Serril" 
+	"Sewal" "Silvester" "Simon" "Stefen" "Tancred" "Torf" "Turold" "Turquetil" "Turstin" "Tybalt" 
+	"Walter" "Wymund" }
+monarch_names = {
+	"Gilbèrt #0" = 1
+	"Aïna #0" = -1
+	"Elisabèta #0" = -1
+	"Jaufret #1" = 18
+	"Berenguela #0" = -1
+	"Terèsa #0" = -1
+	"Ebles #0" = 1
+	"Aldebert #0" = 1
+	"Boson #0" = 1
+	"Tiborg #0" = -1
+	"Ana #0" = -1
+	"Madalena #0" = -1
+	"Ermengau #0" = 1
+	"Wenzel #0" = 1
+	"Sibilla #0" = -1
+	"Ermessentz #0" = -1
+	"Artau #1" = 18
+	"Eufèmia #0" = -1
+	"Hrolfr #1" = 0
+	"William #3" = 0
+	"Richard #3" = 0
+	"Robert #2" = 0
+	"Gérard #2" = 0
+	"Roger #1" = 0
+	"Emma #1" = -1
+	"Iudlouguen #1" = -1
+	"Copsige #2" = 0
+	"Ubert #1" = 0
+	"Kotyan #1" = 0
+	"Aymar #1" = 0
+	"Abelard #0" = 0
+	"Adam #0" = 0
+	"Adelard #0" = 0
+	"Ademar #0" = 0
+	"Alexander #0" = 0
+	"Alfons #0" = 0
+	"Amaury #0" = 0
+	"Anfroi #0" = 0
+	"Anquetil #0" = 0
+	"Anselm #0" = 0
+	"Armand #0" = 0
+	"Arnald #0" = 0
+	"Asclettin #0" = 0
+	"Aubrey #0" = 0
+	"Baldwin #0" = 0
+	"Bernard #0" = 0
+	"Berold #0" = 0
+	"Bertran #0" = 0
+	"Beuves #0" = 0
+	"Blayve #0" = 0
+	"Bohemond #0" = 0
+	"Botolf #0" = 0
+	"Clemence #0" = 0
+	"Drogo #0" = 0
+	"Errand #0" = 0
+	"Eustache #0" = 0
+	"Faramond #0" = 0
+	"Ferant #0" = 0
+	"Filbert #0" = 0
+	"Fulk #0" = 0
+	"Fraunk #0" = 0
+	"Frery #0" = 0
+	"Gaillard #0" = 0
+	"Gaufrid #0" = 0
+	"Geoffroy #0" = 0
+	"Gerald #0" = 0
+	"Gerard #0" = 0
+	"Geraud #0" = 0
+	"Gerbert #0" = 0
+	"Gervas #0" = 0
+	"Giffard #0" = 0
+	"Gilbert #0" = 0
+	"Godfrey #0" = 0
+	"Goubert #0" = 0
+	"Guntard #0" = 0
+	"Guy #0" = 0
+	"Haimo #0" = 0
+	"Hamelin #0" = 0
+	"Henry #0" = 0
+	"Herbert #0" = 0
+	"Herman #0" = 0
+	"Hubert #0" = 0
+	"Hugh #0" = 0
+	"Humbert #0" = 0
+	"Humphrey #0" = 0
+	"Ildebrando #0" = 0
+	"Jordan #0" = 0
+	"Joscelin #0" = 0
+	"Lambert #0" = 0
+	"Lancelin #0" = 0
+	"Mauger #0" = 0
+	"Nigel #0" = 0
+	"Norman #0" = 0
+	"Odo #0" = 0
+	"Orderic #0" = 0
+	"Osbern #0" = 0
+	"Osmond #0" = 0
+	"Oswulf #0" = 0
+	"Oswyn #0" = 0
+	"Radolf #0" = 0
+	"Radulf #0" = 0
+	"Randolf #0" = 0
+	"Ranulf #0" = 0
+	"Raymond #0" = 0
+	"Rayner #0" = 0
+	"Rolland #0" = 0
+	"Roscelin #0" = 0
+	"Sayer #0" = 0
+	"Serlo #0" = 0
+	"Serril #0" = 0
+	"Sewal #0" = 0
+	"Silvester #0" = 0
+	"Simon #0" = 0
+	"Stefen #0" = 0
+	"Tancred #0" = 0
+	"Torf #0" = 0
+	"Turold #0" = 0
+	"Turquetil #0" = 0
+	"Turstin #0" = 0
+	"Tybalt #0" = 0
+	"Walter #0" = 0
+	"Wymund #0" = 0
+}
+

@@ -1,0 +1,25 @@
+# Dandakaranya
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 547
+1435.12.25 = {
+	monarch = {
+		name = "Vrishadhvaja"
+		birth_date = 1410.7.14
+		dynasty = "Somavamsi"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 547
+	add_treasury = 16
+	add_prestige = 249
+}

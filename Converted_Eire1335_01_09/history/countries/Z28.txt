@@ -1,0 +1,25 @@
+# Bretanha
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = breton
+religion = cathar
+clear_scripted_personalities = yes
+capital = 171
+1401.11.4 = {
+	monarch = {
+		name = "Eudon"
+		birth_date = 1393.9.4
+		dynasty = "de Savoie"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 171
+	add_treasury = 43
+	add_prestige = 418
+}

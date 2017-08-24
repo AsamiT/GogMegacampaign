@@ -1,0 +1,24 @@
+# Lower Silesia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+capital = 2966
+1443.8.17 = {
+	monarch = {
+		name = "Jürgen"
+		birth_date = 1413.2.20
+		dynasty = "Pernstein"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2966
+	add_treasury = 34
+	add_prestige = -37
+	elector = no
+}

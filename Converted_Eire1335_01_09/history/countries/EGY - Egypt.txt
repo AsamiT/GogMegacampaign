@@ -1,0 +1,38 @@
+# Egypt
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 361
+1415.12.4 = {
+	monarch = {
+		name = "Habil"
+		birth_date = 1377.4.4
+		dynasty = "Fatimid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1425.12.15 = {
+	heir = {
+		name = "Milad"
+		monarch_name = "Milad"
+		dynasty = "Fatimid"
+		birth_date = 1425.12.15
+		death_date = 1505.12.15
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 361
+	add_treasury = -1
+	add_prestige = 969
+}

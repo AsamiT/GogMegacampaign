@@ -1,0 +1,23 @@
+# Indrid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+capital = 532
+1430.1.27 = {
+	monarch = {
+		name = "Butuga"
+		birth_date = 1429.11.5
+		dynasty = "Indrid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 532
+	add_treasury = 64
+	add_prestige = 95
+}

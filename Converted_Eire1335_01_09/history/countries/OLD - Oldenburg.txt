@@ -1,0 +1,26 @@
+# Oldenburg
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 55
+1430.7.24 = {
+	monarch = {
+		name = "Christopher"
+		birth_date = 1427.8.1
+		dynasty = "von Grünberg"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 55
+	add_treasury = 16
+	add_prestige = 29
+	elector = no
+}

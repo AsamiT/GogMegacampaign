@@ -1,0 +1,25 @@
+# Chernigov
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 289
+1423.9.3 = {
+	monarch = {
+		name = "Asalup"
+		birth_date = 1422.8.4
+		dynasty = "Kozelid"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 289
+	add_treasury = 16
+	add_prestige = 32
+}

@@ -1,0 +1,24 @@
+# Rostov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 4147
+1436.12.17 = {
+	monarch = {
+		name = "Maria"
+		birth_date = 1432.8.28
+		dynasty = "Rurikid"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 4147
+	add_treasury = 13
+	add_prestige = 402
+}

@@ -1,0 +1,25 @@
+# Shura
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2038
+1431.9.2 = {
+	monarch = {
+		name = "Mahipala"
+		birth_date = 1399.1.7
+		dynasty = "Shura"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2038
+	add_treasury = 8
+	add_prestige = 189
+}

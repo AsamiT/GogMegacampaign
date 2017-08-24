@@ -1,0 +1,26 @@
+# Bohemia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2967
+1393.4.9 = {
+	monarch = {
+		name = "Konrad II"
+		birth_date = 1392.4.11
+		dynasty = "Premyslid"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2967
+	add_treasury = 45
+	add_prestige = 645
+	elector = yes
+}

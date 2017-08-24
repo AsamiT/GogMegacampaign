@@ -1,0 +1,25 @@
+# Smolensk
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 293
+1442.11.10 = {
+	monarch = {
+		name = "Yedi"
+		birth_date = 1422.5.5
+		dynasty = "Narantsetseg"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 293
+	add_treasury = 8
+	add_prestige = 20
+}

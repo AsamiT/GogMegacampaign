@@ -1,0 +1,23 @@
+# Teutonic Order
+government = monastic_order_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+capital = 273
+1403.2.8 = {
+	monarch = {
+		name = "Ingvar"
+		birth_date = 1375.3.16
+		dynasty = "Guldsmed"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 273
+	add_treasury = 35
+	add_prestige = 230
+}

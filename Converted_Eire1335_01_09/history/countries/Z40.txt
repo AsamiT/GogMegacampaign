@@ -1,0 +1,24 @@
+# Carinthia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+capital = 128
+1442.7.7 = {
+	monarch = {
+		name = "Hupold II"
+		birth_date = 1441.12.4
+		dynasty = "von Schweipünt"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 128
+	add_treasury = 47
+	add_prestige = 3
+	elector = yes
+}

@@ -1,0 +1,23 @@
+# Blemmyia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = al_misr_arabic
+religion = shiite
+capital = 1229
+1438.11.7 = {
+	monarch = {
+		name = "Tadros"
+		birth_date = 1396.1.8
+		dynasty = "Bahri"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1229
+	add_treasury = 15
+	add_prestige = 146
+}

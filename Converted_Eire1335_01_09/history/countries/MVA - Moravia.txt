@@ -1,0 +1,24 @@
+# Moravia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+capital = 4237
+1425.8.13 = {
+	monarch = {
+		name = "Karl"
+		birth_date = 1421.8.22
+		dynasty = "Premyslid"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 4237
+	add_treasury = 20
+	add_prestige = 425
+	elector = no
+}

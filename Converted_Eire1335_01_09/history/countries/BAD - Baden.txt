@@ -1,0 +1,26 @@
+# Baden
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 74
+1442.3.4 = {
+	monarch = {
+		name = "Sieghard II"
+		birth_date = 1422.12.15
+		dynasty = "von Tübingen"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 74
+	add_treasury = 49
+	add_prestige = 35
+	elector = no
+}

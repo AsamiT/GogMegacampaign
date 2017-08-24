@@ -1,0 +1,39 @@
+# Danmark
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 12
+1402.2.1 = {
+	monarch = {
+		name = "Mads II"
+		birth_date = 1391.11.13
+		dynasty = "Gøye"
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1415.6.11 = {
+	heir = {
+		name = "Joakim"
+		monarch_name = "Joakim II"
+		dynasty = "Gøye"
+		birth_date = 1415.6.11
+		death_date = 1495.6.11
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 12
+	add_treasury = 83
+	add_prestige = 517
+}

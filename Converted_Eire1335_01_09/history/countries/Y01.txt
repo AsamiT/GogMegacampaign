@@ -1,0 +1,26 @@
+# Cibyrrhaeot
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1848
+1396.11.12 = {
+	monarch = {
+		name = "Nikodemos"
+		birth_date = 1390.10.16
+		dynasty = "Makrembolites"
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1848
+	add_treasury = 2
+	add_prestige = 601
+}

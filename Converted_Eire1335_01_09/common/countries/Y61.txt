@@ -1,0 +1,66 @@
+# Çilbu
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 244 255 99 }
+
+
+
+
+leader_names = {
+
+	"Kopti" "Törtogul" "Sevindik" "Çiltanesi" "Itlar" "Kutan" "Uzur" "Gunes" "Çilbu" "Sibel" 
+	"Sevenç" "Songul" "Mala" "Ayasun" "Asli" "Akgul" "Aepak" "Asalup" "Asep" "Atrak" 
+	"Bönek" "Bachman" "Begluk" "Blush" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" 
+	"Ituk" "Könçek" "Kobyak" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" "Pulad" "Saru" 
+	"Sirçan" "Sokal" "Sotan" "Sugr" "Togli" "Tolun" "Tugor" "Uzluk" }
+monarch_names = {
+	"Kopti #0" = 1
+	"Törtogul #0" = 1
+	"Sevindik #0" = -1
+	"Çiltanesi #0" = -1
+	"Itlar #0" = 1
+	"Kutan #0" = 1
+	"Uzur #0" = 1
+	"Gunes #0" = -1
+	"Çilbu #1" = 21
+	"Sibel #0" = -1
+	"Sevenç #0" = 1
+	"Songul #0" = -1
+	"Mala #0" = -1
+	"Ayasun #0" = -1
+	"Asli #0" = -1
+	"Akgul #0" = -1
+	"Aepak #0" = 0
+	"Asalup #0" = 0
+	"Asep #0" = 0
+	"Atrak #0" = 0
+	"Bönek #0" = 0
+	"Bachman #0" = 0
+	"Begluk #0" = 0
+	"Blush #0" = 0
+	"Bonyak #0" = 0
+	"Borç #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Ituk #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kozel #0" = 0
+	"Kubasar #0" = 0
+	"Kuntuvdi #0" = 0
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Sirçan #0" = 0
+	"Sokal #0" = 0
+	"Sotan #0" = 0
+	"Sugr #0" = 0
+	"Togli #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+	"Uzluk #0" = 0
+}
+

@@ -1,0 +1,23 @@
+# Seuna Yadava
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+capital = 527
+1434.5.17 = {
+	monarch = {
+		name = "Keerti-Verma"
+		birth_date = 1423.5.2
+		dynasty = "Seuna Yadava"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 527
+	add_treasury = 14
+	add_prestige = 175
+}

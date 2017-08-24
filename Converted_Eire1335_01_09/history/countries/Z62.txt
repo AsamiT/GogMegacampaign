@@ -1,0 +1,25 @@
+# Varazdin
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+capital = 152
+1433.1.17 = {
+	monarch = {
+		name = "Wulfhilde"
+		birth_date = 1432.10.17
+		dynasty = "von Nörvenich"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 152
+	add_treasury = 32
+	add_prestige = 15
+	elector = no
+}

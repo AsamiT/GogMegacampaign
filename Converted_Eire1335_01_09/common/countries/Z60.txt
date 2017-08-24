@@ -1,0 +1,251 @@
+# Lombardy
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 200 133 222 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Cecilie" "Márk" "Meinhard" "Gerhard" "Dietrich" "Rutger" "Gerard" "Humbert" "Aldrich" "Alarich" 
+	"Alberich" "Emma" "Waelram" "Osterhild" "Hubert" "Alois" "Karl" "Ludolf" "Bruno" "Gisela" 
+	"Ekbert" "Wilhelmina" "Ida" "Gertrude" "Ekkehard" "Dietmar" "Engelbert" "Adela" "Lambert" "Liutbrand" 
+	"Thomas" "Amalie" "Cothilda" "Adalbert" "Kunigunde" "Berthold" "Hartwig" "Wido" "Adelheid" "Arnold" 
+	"Bernhard" "Andreas" "Karlmann" "Wenzel" "Sieghard" "Mechthild" "Friedrich" "Ruprecht" "Klementia" "Liudolf" 
+	"Ulrike" "Romilda" "Nikolaus" "Walpurga" "Lutbert" "Helga" "Katharina" "Amalberga" "Emich" "Sofie" 
+	"Sophia" "Eginolf" "Richara" "Poppo" "Frida" "Elisabeth" "Liutbert" "Guntram" "Hildeburg" "Hildegard" 
+	"Liutpold" "Richwara" "Ingeltrude" "Lothar" "Irmgard" "Landolf" "Gunzelin" "Dietpold" "Otto" "Magnus" 
+	"Kriemhild" "Michael" "Henrike" "Ute" "Ferdinand" "Wulfhilde" "Giselbert" "Eufemia" "Alberade" "Erich" 
+	"Winfrida" "Arnulf" "Wilhelm" "Serhilda" "Leopold" "Agathe" "Lodewijk" "Markward" "Luthard" "Jolán" 
+	"Hedwig" "Sophie" "Maria" "Ehrenfried" "Odelt" "Ambrosio" "Oberto" "Adalberto" "Alberto-Azzo" "Ugo" 
+	"Adriaen" "Albrecht" "Alwin" "Ambroos" "Antoon" "Balderik" "Barend" "Barnaerd" "Bartolomeus" "Bavo" 
+	"Bertold" "Boudewijn" "Claes" "Claeuwaert" "Daevit" "Damaes" "Diederick" "Dirk" "Douwe" "Eduard" 
+	"Egmund" "Emmo" "Engelbrecht" "Filips" "Floris" "Folbert" "Frans" "Frederik" "Gerolt" "Gerulf" 
+	"Gerrit" "Gijsbrecht" "Godfried" "Godschalk" "Gozewijn" "Guij" "Gwijde" "Hendrik" "Herman" "Hugo" 
+	"IJsbrand" "IJsbrecht" "Jacco" "Jacob" "Jan" "Karel" "Koenraad" "Kristof" "Ludewijn" "Maertijn" 
+	"Marquart" "Niclaes" "Olivier" "Otwin" "Onno" "Pieter" "Reinaerd" "Reinoud" "Reginar" "Robrecht" 
+	"Robert" "Rodulf" "Roelof" "Roland" "Sebastiaen" "Sicco" "Simon" "Steven" "Steyn" "Theodolf" 
+	"Walter" "Wicher" "Willem" "Wolfard" }
+monarch_names = {
+	"Cecilie #0" = -1
+	"Márk #0" = 1
+	"Meinhard #0" = 1
+	"Gerhard #0" = 1
+	"Dietrich #0" = 1
+	"Rutger #0" = 1
+	"Gerard #1" = 21
+	"Humbert #0" = 1
+	"Aldrich #0" = 1
+	"Alarich #0" = 1
+	"Alberich #0" = 1
+	"Emma #0" = -1
+	"Waelram #0" = 1
+	"Osterhild #0" = -1
+	"Hubert #0" = 1
+	"Alois #1" = 30
+	"Karl #0" = 1
+	"Ludolf #0" = 1
+	"Bruno #0" = 1
+	"Gisela #0" = -1
+	"Ekbert #0" = 1
+	"Wilhelmina #0" = -1
+	"Ida #0" = -1
+	"Gertrude #0" = -1
+	"Ekkehard #0" = 1
+	"Dietmar #0" = 1
+	"Engelbert #0" = 1
+	"Adela #0" = -1
+	"Lambert #0" = 1
+	"Liutbrand #0" = 1
+	"Thomas #0" = 1
+	"Amalie #0" = -1
+	"Cothilda #0" = -1
+	"Adalbert #0" = 1
+	"Kunigunde #0" = -1
+	"Berthold #0" = 1
+	"Hartwig #0" = 1
+	"Wido #0" = 1
+	"Adelheid #1" = -22
+	"Arnold #0" = 1
+	"Bernhard #0" = 1
+	"Andreas #0" = 1
+	"Karlmann #0" = 1
+	"Wenzel #1" = 27
+	"Sieghard #0" = 1
+	"Mechthild #0" = -1
+	"Friedrich #0" = 1
+	"Ruprecht #0" = 1
+	"Klementia #0" = -1
+	"Liudolf #1" = 30
+	"Ulrike #0" = -1
+	"Romilda #0" = -1
+	"Nikolaus #0" = 1
+	"Walpurga #0" = -1
+	"Lutbert #0" = 1
+	"Helga #0" = -1
+	"Katharina #0" = -1
+	"Amalberga #0" = -1
+	"Emich #0" = 1
+	"Sofie #0" = -1
+	"Sophia #0" = -1
+	"Eginolf #0" = 1
+	"Richara #0" = -1
+	"Poppo #0" = 1
+	"Frida #0" = -1
+	"Elisabeth #0" = -1
+	"Liutbert #0" = 1
+	"Guntram #0" = 1
+	"Hildeburg #0" = -1
+	"Hildegard #0" = -1
+	"Liutpold #0" = 1
+	"Richwara #0" = -1
+	"Ingeltrude #0" = -1
+	"Lothar #0" = 1
+	"Irmgard #0" = -1
+	"Landolf #0" = 1
+	"Gunzelin #0" = 1
+	"Dietpold #0" = 1
+	"Otto #0" = 1
+	"Magnus #0" = 1
+	"Kriemhild #0" = -1
+	"Michael #0" = 1
+	"Henrike #0" = -1
+	"Ute #0" = -1
+	"Ferdinand #0" = 1
+	"Wulfhilde #0" = -1
+	"Giselbert #0" = 1
+	"Eufemia #0" = -1
+	"Alberade #0" = -1
+	"Erich #0" = 1
+	"Winfrida #0" = -1
+	"Arnulf #0" = 1
+	"Wilhelm #0" = 1
+	"Serhilda #0" = -1
+	"Leopold #1" = 18
+	"Agathe #0" = -1
+	"Lodewijk #1" = 18
+	"Markward #0" = 1
+	"Luthard #0" = 1
+	"Jolán #0" = -1
+	"Hedwig #0" = -1
+	"Sophie #0" = -1
+	"Maria #0" = -1
+	"Ehrenfried #0" = 1
+	"Odelt #0" = -1
+	"Ambrosio #1" = 0
+	"Oberto #2" = 0
+	"Adalberto #1" = 0
+	"Alberto-Azzo #2" = 0
+	"Ugo #1" = 0
+	"Adriaen #0" = 0
+	"Albrecht #0" = 0
+	"Alwin #0" = 0
+	"Ambroos #0" = 0
+	"Antoon #0" = 0
+	"Balderik #0" = 0
+	"Barend #0" = 0
+	"Barnaerd #0" = 0
+	"Bartolomeus #0" = 0
+	"Bavo #0" = 0
+	"Bertold #0" = 0
+	"Boudewijn #0" = 0
+	"Claes #0" = 0
+	"Claeuwaert #0" = 0
+	"Daevit #0" = 0
+	"Damaes #0" = 0
+	"Diederick #0" = 0
+	"Dirk #0" = 0
+	"Douwe #0" = 0
+	"Eduard #0" = 0
+	"Egmund #0" = 0
+	"Emmo #0" = 0
+	"Engelbrecht #0" = 0
+	"Filips #0" = 0
+	"Floris #0" = 0
+	"Folbert #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"Gerolt #0" = 0
+	"Gerulf #0" = 0
+	"Gerrit #0" = 0
+	"Gijsbrecht #0" = 0
+	"Godfried #0" = 0
+	"Godschalk #0" = 0
+	"Gozewijn #0" = 0
+	"Guij #0" = 0
+	"Gwijde #0" = 0
+	"Hendrik #0" = 0
+	"Herman #0" = 0
+	"Hugo #0" = 0
+	"IJsbrand #0" = 0
+	"IJsbrecht #0" = 0
+	"Jacco #0" = 0
+	"Jacob #0" = 0
+	"Jan #0" = 0
+	"Karel #0" = 0
+	"Koenraad #0" = 0
+	"Kristof #0" = 0
+	"Ludewijn #0" = 0
+	"Maertijn #0" = 0
+	"Marquart #0" = 0
+	"Niclaes #0" = 0
+	"Olivier #0" = 0
+	"Otwin #0" = 0
+	"Onno #0" = 0
+	"Pieter #0" = 0
+	"Reinaerd #0" = 0
+	"Reinoud #0" = 0
+	"Reginar #0" = 0
+	"Robrecht #0" = 0
+	"Robert #0" = 0
+	"Rodulf #0" = 0
+	"Roelof #0" = 0
+	"Roland #0" = 0
+	"Sebastiaen #0" = 0
+	"Sicco #0" = 0
+	"Simon #0" = 0
+	"Steven #0" = 0
+	"Steyn #0" = 0
+	"Theodolf #0" = 0
+	"Walter #0" = 0
+	"Wicher #0" = 0
+	"Willem #0" = 0
+	"Wolfard #0" = 0
+}
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
+}
+

@@ -1,0 +1,23 @@
+# Anjau
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = cathar
+capital = 178
+1436.2.3 = {
+	monarch = {
+		name = "Marçau II"
+		birth_date = 1411.3.13
+		dynasty = "Stuyvesant"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 178
+	add_treasury = 100
+	add_prestige = 279
+}

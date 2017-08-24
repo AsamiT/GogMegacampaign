@@ -1,0 +1,25 @@
+# Syr Darya
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2352
+1432.5.3 = {
+	monarch = {
+		name = "Kogsegu"
+		birth_date = 1423.5.22
+		dynasty = "Mönkhtsetseg"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2352
+	add_treasury = 8
+	add_prestige = 51
+}

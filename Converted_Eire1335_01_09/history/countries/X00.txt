@@ -1,0 +1,23 @@
+# Chola
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tamil
+religion = hinduism
+capital = 540
+1427.3.29 = {
+	monarch = {
+		name = "Tirunattapperumâl II"
+		birth_date = 1427.3.16
+		dynasty = "Chola"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 540
+	add_treasury = 109
+	add_prestige = 483
+}

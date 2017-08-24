@@ -1,0 +1,26 @@
+# Adrianopolis
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 149
+1438.5.20 = {
+	monarch = {
+		name = "Parthena"
+		birth_date = 1414.6.1
+		dynasty = "Doukas"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = -28
+	add_prestige = 289
+}

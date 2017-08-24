@@ -1,0 +1,23 @@
+# Qocho
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = hinduism
+capital = 2121
+1417.12.24 = {
+	monarch = {
+		name = "Saru"
+		birth_date = 1404.1.16
+		dynasty = "Tapmish"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 2121
+	add_treasury = 29
+	add_prestige = 230
+}

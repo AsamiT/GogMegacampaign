@@ -1,0 +1,23 @@
+# Yaroslavl
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 1753
+1394.11.28 = {
+	monarch = {
+		name = "Yaropolk"
+		birth_date = 1375.7.6
+		dynasty = "Tolstoy"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 1753
+	add_treasury = 14
+	add_prestige = 428
+}

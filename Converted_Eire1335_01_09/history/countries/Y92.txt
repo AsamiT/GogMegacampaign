@@ -1,0 +1,25 @@
+# Bajkam
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2338
+1438.2.26 = {
+	monarch = {
+		name = "Kutalmis II"
+		birth_date = 1419.10.20
+		dynasty = "Bajkam"
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2338
+	add_treasury = 11
+	add_prestige = -13
+}

@@ -1,0 +1,23 @@
+# Baghela
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+capital = 524
+1441.12.10 = {
+	monarch = {
+		name = "Gopala"
+		birth_date = 1420.4.27
+		dynasty = "Baghela"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 524
+	add_treasury = 57
+	add_prestige = 47
+}

@@ -1,0 +1,26 @@
+# Tolosa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = cathar
+clear_scripted_personalities = yes
+capital = 200
+1424.7.30 = {
+	monarch = {
+		name = "Camila"
+		birth_date = 1408.3.3
+		dynasty = "de Beaujeu"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 200
+	add_treasury = 55
+	add_prestige = 167
+}

@@ -1,0 +1,185 @@
+# Lappi
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 255 125 69 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Vesa" "Lalli" "Satajalka" "Suoma" "Säde" "Aarto" "Hertta" "Speaidna" "Irene" "Pentti" 
+	"Taisto" "Tuure" "Auni" "Turo" "Salme" "Kaarle" "Titti" "Ilta" "Hellä" "Kolli" 
+	"Tyyni" "Armas" "Tuulikki" "Kivutar" "Asikko" "Aatso" "Tapani" "Mahla" "Loviisa" "Terhi" 
+	"Valta" "Aatos" "Aino" "Rieti" "Gealá" "Ensio" "Erkki" "Tuija" "Toivo" "Olavi" 
+	"Venla" "Duttá" "Sealggá" "Biellá" "Ahma" "Aimo" "Arvo" "Haapa" "Hannu" "Havu" 
+	"Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" "Lauri" "Lemetti" 
+	"Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" "Päiviö" "Reko" "Sampo" 
+	"Satatieto" "Seppo" "Susi" "Terho" "Ukko" "Uoti" "Urho" "Väinö" "Valto" "Veli" 
+	"Voitto" "Johannes" "Risto" "Petri" "Henri" "Yrjö" "Valteri" "Riku" "Matti" "Jaakoppi" 
+	"Paavo" "Ahvo" "Asko" "Tuokko" "Kauro" "Kuuti" "Pekko" "Soini" "Tommo" "Tohmas" }
+monarch_names = {
+	"Vesa #1" = 18
+	"Lalli #0" = 1
+	"Satajalka #0" = 1
+	"Suoma #0" = -1
+	"Säde #0" = -1
+	"Aarto #0" = 1
+	"Hertta #0" = -1
+	"Speaidna #0" = 1
+	"Irene #0" = -1
+	"Pentti #0" = 1
+	"Taisto #0" = 1
+	"Tuure #0" = 1
+	"Auni #0" = -1
+	"Turo #0" = 1
+	"Salme #0" = -1
+	"Kaarle #0" = 1
+	"Titti #0" = -1
+	"Ilta #0" = -1
+	"Hellä #0" = -1
+	"Kolli #0" = 1
+	"Tyyni #0" = -1
+	"Armas #0" = 1
+	"Tuulikki #0" = -1
+	"Kivutar #0" = -1
+	"Asikko #0" = 1
+	"Aatso #0" = 1
+	"Tapani #1" = 24
+	"Mahla #0" = -1
+	"Loviisa #0" = -1
+	"Terhi #0" = -1
+	"Valta #0" = 1
+	"Aatos #0" = 1
+	"Aino #0" = -1
+	"Rieti #0" = 1
+	"Gealá #0" = -1
+	"Ensio #0" = 1
+	"Erkki #0" = 1
+	"Tuija #0" = -1
+	"Toivo #1" = 21
+	"Olavi #1" = 18
+	"Venla #0" = -1
+	"Duttá #0" = 1
+	"Sealggá #0" = -1
+	"Biellá #0" = -1
+	"Ahma #0" = 0
+	"Aimo #0" = 0
+	"Arvo #0" = 0
+	"Haapa #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Ihanti #0" = 0
+	"Into #0" = 0
+	"Jalo #0" = 0
+	"Jurva #0" = 0
+	"Kaleva #0" = 0
+	"Kalevi #0" = 0
+	"Kettu #0" = 0
+	"Lauri #0" = 0
+	"Lemetti #0" = 0
+	"Mielitty #0" = 0
+	"Miemo #0" = 0
+	"Mikko #0" = 0
+	"Oiva #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Pyry #0" = 0
+	"Päiviö #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Terho #0" = 0
+	"Ukko #0" = 0
+	"Uoti #0" = 0
+	"Urho #0" = 0
+	"Väinö #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Voitto #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Paavo #0" = 0
+	"Ahvo #0" = 0
+	"Asko #0" = 0
+	"Tuokko #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Tommo #0" = 0
+	"Tohmas #0" = 0
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

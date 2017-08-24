@@ -1,0 +1,25 @@
+# Mamluks
+government = oligarchic_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 361
+1440.7.8 = {
+	monarch = {
+		name = "Jalaaladdin"
+		birth_date = 1376.1.2
+		dynasty = "mn  Cairo"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 361
+	add_treasury = 3255
+	add_prestige = 55
+}

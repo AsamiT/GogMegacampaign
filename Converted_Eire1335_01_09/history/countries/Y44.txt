@@ -1,0 +1,26 @@
+# Turov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1941
+1419.8.10 = {
+	monarch = {
+		name = "Siemowit"
+		birth_date = 1417.7.18
+		dynasty = "Piast"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1941
+	add_treasury = 26
+	add_prestige = 319
+}

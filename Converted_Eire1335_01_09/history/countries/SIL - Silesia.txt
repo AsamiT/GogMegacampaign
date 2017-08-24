@@ -1,0 +1,23 @@
+# Silesia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+capital = 4244
+1437.3.11 = {
+	monarch = {
+		name = "Temur"
+		birth_date = 1431.12.2
+		dynasty = "Subetei"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 4244
+	add_treasury = 25
+	add_prestige = 25
+}

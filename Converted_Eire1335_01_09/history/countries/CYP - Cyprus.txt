@@ -1,0 +1,25 @@
+# Cyprus
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 321
+1432.5.22 = {
+	monarch = {
+		name = "Germanos"
+		birth_date = 1420.2.13
+		dynasty = "Pegonites"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 321
+	add_treasury = 32
+	add_prestige = 105
+}

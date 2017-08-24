@@ -1,0 +1,27 @@
+# Österreich
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 134
+1431.8.14 = {
+	monarch = {
+		name = "Adam"
+		birth_date = 1411.8.25
+		dynasty = "von Wassel"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 134
+	add_treasury = 21
+	add_prestige = 171
+	elector = no
+}

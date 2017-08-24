@@ -1,0 +1,24 @@
+# Magadha
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 563
+1442.7.21 = {
+	monarch = {
+		name = "Kakanvati"
+		birth_date = 1416.8.22
+		dynasty = "Cedi"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 563
+	add_treasury = 27
+	add_prestige = 222
+}

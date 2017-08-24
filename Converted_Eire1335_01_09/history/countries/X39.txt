@@ -1,0 +1,24 @@
+# Kosala
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 556
+1441.11.9 = {
+	monarch = {
+		name = "Vina"
+		birth_date = 1436.4.11
+		dynasty = "Rashtrakuta"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 556
+	add_treasury = 6
+	add_prestige = 257
+}

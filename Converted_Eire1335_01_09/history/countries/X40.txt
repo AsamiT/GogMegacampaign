@@ -1,0 +1,25 @@
+# Kalachuri
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 523
+1412.6.26 = {
+	monarch = {
+		name = "Sodhadeva V"
+		birth_date = 1394.3.5
+		dynasty = "Kalachuri"
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 523
+	add_treasury = 37
+	add_prestige = 367
+}

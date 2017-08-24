@@ -1,0 +1,23 @@
+# Tifilwitid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+capital = 226
+1433.9.15 = {
+	monarch = {
+		name = "Mundir"
+		birth_date = 1387.12.14
+		dynasty = "Tifilwitid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 226
+	add_treasury = 42
+	add_prestige = 210
+}

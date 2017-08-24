@@ -1,0 +1,23 @@
+# Bhirrid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+capital = 507
+1438.4.20 = {
+	monarch = {
+		name = "Jaganpal II"
+		birth_date = 1437.6.7
+		dynasty = "Bhirrid"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 507
+	add_treasury = 45
+	add_prestige = 18
+}

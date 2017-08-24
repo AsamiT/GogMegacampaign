@@ -1,0 +1,26 @@
+# Trier
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 80
+1437.8.13 = {
+	monarch = {
+		name = "Landolf"
+		birth_date = 1400.8.17
+		dynasty = "von  Trier"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 80
+	add_treasury = 22
+	add_prestige = 72
+	elector = no
+}

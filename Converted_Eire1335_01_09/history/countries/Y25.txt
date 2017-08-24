@@ -1,0 +1,35 @@
+# Galindia
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1859
+1440.6.4 = {
+	monarch = {
+		name = "Khal"
+		birth_date = 1409.8.25
+		dynasty = "Noyan"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Nayaga"
+		monarch_name = "Nayaga II"
+		dynasty = "Noyan"
+		birth_date = 1428.10.16
+		death_date = 1508.10.16
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1859
+	add_treasury = 111
+	add_prestige = 306
+}

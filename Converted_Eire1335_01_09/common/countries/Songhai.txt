@@ -1,0 +1,186 @@
+# Songhay
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 80 120 70 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Kalabi" "Sidibé" "Mari-Djata" "Fatoumata" "Alayaman" "Sassouma" "Ouati" "Safiatou" "Akoi" "Hargani" 
+	"Lorane" "Aoua" "Yasiboy" "Djire" "Abubakari" "Fatim" "Namandjé" "Ali-Kolon" "Siya" "Kadi" 
+	"Nana" "Ina" "Bintou" "Alima" "Djenly" "Zakoi" "Takoi" "Kü" "Ali-Fay" "Biyu Kumoy" 
+	"Za Kuroy" "Yama Karaway" "Yama" "Yama Danka Kiba'u" "Kukuray" "Kinkin" "Kusoy Muslim Dam" "Han Kuz Wanku Dam" "Biyu Ki Kima" "Nintasanay" 
+	"Biyu Kayna Kinba" "Bassarou" "Umar" "Soumaoro" "Missi-Izé" "Raf" "Mubashir" "Abi-Bakr" "Ali" "Ali-Zalil" 
+	"Badä" "Bakr" "Bakr-Kanbu" "Bamari" "Bankanu" "Bannu" "Bassi" "Birama" "Bisi" "Biyu" 
+	"Bonga" "Cisse" "Dankaran" "Daoud" "Dawud" "Demba" "Diara" "Düru" "Faga-Laye" "Fatta" 
+	"Fodi" "Fuluku" "Fädazu" "Gane" "Gao" "Harun" "Igoumou" "Ishaq" "Ismail" "Kabayo" 
+	"Kambine" "Kanafa" "Kassa" "Kasseï" "Kaya" "Kayna" "Kisha" "Kodama" "Koïzé" "Kusoy" 
+	"Lahiltoul" "M'Bali" "Maammarou" "Maghan" "Mahmud" "Majan" "Malla" "Mamadi" "Mamoudou" "Manding-Bory" 
+	"Maÿroumfa" "Morobani" "Musa" "Nuh" "Ouali" "Ouankoÿ" "Reidja" "Sakoura" "Salman" "Samsou-Béri" 
+	"Samsou-Keïna" "Sandaki" "Soumaba" "Soundiata" "Sulayman" "Tib" "Tomo" "Tunka" "Yaqub" "Zenku" }
+monarch_names = {
+	"Kalabi #1" = 18
+	"Sidibé #0" = -1
+	"Mari-Djata #1" = 21
+	"Fatoumata #0" = -1
+	"Alayaman #1" = 18
+	"Sassouma #0" = -1
+	"Ouati #0" = 1
+	"Safiatou #0" = -1
+	"Akoi #2" = 21
+	"Hargani #0" = 1
+	"Lorane #0" = -1
+	"Aoua #0" = -1
+	"Yasiboy #0" = 1
+	"Djire #0" = -1
+	"Abubakari #1" = 18
+	"Fatim #0" = -1
+	"Namandjé #0" = -1
+	"Ali-Kolon #0" = 1
+	"Siya #0" = -1
+	"Kadi #0" = -1
+	"Nana #0" = -1
+	"Ina #0" = -1
+	"Bintou #0" = -1
+	"Alima #0" = -1
+	"Djenly #0" = -1
+	"Zakoi #1" = 0
+	"Takoi #1" = 0
+	"Kü #1" = 0
+	"Ali-Fay #1" = 0
+	"Biyu Kumoy #1" = 0
+	"Za Kuroy #1" = 0
+	"Yama Karaway #1" = 0
+	"Yama #1" = 0
+	"Yama Danka Kiba'u #1" = 0
+	"Kukuray #2" = 0
+	"Kinkin #1" = 0
+	"Kusoy Muslim Dam #1" = 0
+	"Han Kuz Wanku Dam #1" = 0
+	"Biyu Ki Kima #1" = 0
+	"Nintasanay #2" = 0
+	"Biyu Kayna Kinba #1" = 0
+	"Bassarou #3" = 0
+	"Umar #2" = 0
+	"Soumaoro #1" = 0
+	"Missi-Izé #1" = 0
+	"Raf #1" = 0
+	"Mubashir #1" = 0
+	"Abi-Bakr #0" = 0
+	"Ali #0" = 0
+	"Ali-Zalil #0" = 0
+	"Badä #0" = 0
+	"Bakr #0" = 0
+	"Bakr-Kanbu #0" = 0
+	"Bamari #0" = 0
+	"Bankanu #0" = 0
+	"Bannu #0" = 0
+	"Bassi #0" = 0
+	"Birama #0" = 0
+	"Bisi #0" = 0
+	"Biyu #0" = 0
+	"Bonga #0" = 0
+	"Cisse #0" = 0
+	"Dankaran #0" = 0
+	"Daoud #0" = 0
+	"Dawud #0" = 0
+	"Demba #0" = 0
+	"Diara #0" = 0
+	"Düru #0" = 0
+	"Faga-Laye #0" = 0
+	"Fatta #0" = 0
+	"Fodi #0" = 0
+	"Fuluku #0" = 0
+	"Fädazu #0" = 0
+	"Gane #0" = 0
+	"Gao #0" = 0
+	"Harun #0" = 0
+	"Igoumou #0" = 0
+	"Ishaq #0" = 0
+	"Ismail #0" = 0
+	"Kabayo #0" = 0
+	"Kambine #0" = 0
+	"Kanafa #0" = 0
+	"Kassa #0" = 0
+	"Kasseï #0" = 0
+	"Kaya #0" = 0
+	"Kayna #0" = 0
+	"Kisha #0" = 0
+	"Kodama #0" = 0
+	"Koïzé #0" = 0
+	"Kusoy #0" = 0
+	"Lahiltoul #0" = 0
+	"M'Bali #0" = 0
+	"Maammarou #0" = 0
+	"Maghan #0" = 0
+	"Mahmud #0" = 0
+	"Majan #0" = 0
+	"Malla #0" = 0
+	"Mamadi #0" = 0
+	"Mamoudou #0" = 0
+	"Manding-Bory #0" = 0
+	"Maÿroumfa #0" = 0
+	"Morobani #0" = 0
+	"Musa #0" = 0
+	"Nuh #0" = 0
+	"Ouali #0" = 0
+	"Ouankoÿ #0" = 0
+	"Reidja #0" = 0
+	"Sakoura #0" = 0
+	"Salman #0" = 0
+	"Samsou-Béri #0" = 0
+	"Samsou-Keïna #0" = 0
+	"Sandaki #0" = 0
+	"Soumaba #0" = 0
+	"Soundiata #0" = 0
+	"Sulayman #0" = 0
+	"Tib #0" = 0
+	"Tomo #0" = 0
+	"Tunka #0" = 0
+	"Yaqub #0" = 0
+	"Zenku #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

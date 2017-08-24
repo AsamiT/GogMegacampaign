@@ -1,0 +1,26 @@
+# Ikh Bogd
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 718
+1395.10.20 = {
+	monarch = {
+		name = "Saru"
+		birth_date = 1390.2.22
+		dynasty = "Kumulid"
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 2
+	add_prestige = 462
+}

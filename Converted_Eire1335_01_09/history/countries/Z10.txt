@@ -1,0 +1,26 @@
+# Jemtland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 10
+1430.6.26 = {
+	monarch = {
+		name = "Vilfred"
+		birth_date = 1416.6.13
+		dynasty = "Friis"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 10
+	add_treasury = 5
+	add_prestige = 60
+}

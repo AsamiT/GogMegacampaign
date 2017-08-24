@@ -1,0 +1,25 @@
+# Makuria
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 1228
+1428.5.4 = {
+	monarch = {
+		name = "Farhan II"
+		birth_date = 1420.3.8
+		dynasty = "Bahri"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1228
+	add_treasury = 48
+	add_prestige = 105
+}

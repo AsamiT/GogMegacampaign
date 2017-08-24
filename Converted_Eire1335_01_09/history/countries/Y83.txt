@@ -1,0 +1,23 @@
+# Jamalid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+capital = 380
+1401.8.26 = {
+	monarch = {
+		name = "Suhail"
+		birth_date = 1398.4.5
+		dynasty = "Jamalid"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 380
+	add_treasury = 17
+	add_prestige = 450
+}

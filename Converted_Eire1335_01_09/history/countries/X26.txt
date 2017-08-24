@@ -1,0 +1,33 @@
+# Rashtrakuta
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+capital = 522
+1442.5.24 = {
+	monarch = {
+		name = "Jagatpal"
+		birth_date = 1419.7.2
+		dynasty = "Rashtrakuta"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Saugandeva"
+		monarch_name = "Saugandeva"
+		dynasty = "Rashtrakuta"
+		birth_date = 1438.6.23
+		death_date = 1518.6.23
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 522
+	add_treasury = 43
+	add_prestige = 314
+}

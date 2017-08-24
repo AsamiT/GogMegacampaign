@@ -1,0 +1,25 @@
+# Törtogulid
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1075
+1439.8.2 = {
+	monarch = {
+		name = "Begluk"
+		birth_date = 1420.1.7
+		dynasty = "Törtogulid"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1075
+	add_treasury = 17
+	add_prestige = 76
+}

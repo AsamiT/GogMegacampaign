@@ -1,0 +1,25 @@
+# Samogitia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 29
+1424.9.6 = {
+	monarch = {
+		name = "Riku"
+		birth_date = 1420.2.9
+		dynasty = "Akhtuba"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 29
+	add_treasury = 14
+	add_prestige = 64
+}

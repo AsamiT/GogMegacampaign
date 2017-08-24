@@ -1,0 +1,36 @@
+# Norge
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 371
+1437.3.27 = {
+	monarch = {
+		name = "Alv II"
+		birth_date = 1421.7.9
+		dynasty = "Gisking"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = navigator_personality
+	heir = {
+		name = "Bjørn"
+		monarch_name = "Bjørn"
+		dynasty = "Gisking"
+		birth_date = 1424.4.19
+		death_date = 1504.4.19
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 371
+	add_treasury = 9
+	add_prestige = 108
+}

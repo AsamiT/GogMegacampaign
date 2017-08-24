@@ -1,0 +1,35 @@
+# Kacchapaghata
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+capital = 740
+1433.9.10 = {
+	monarch = {
+		name = "Siladitya"
+		birth_date = 1417.7.9
+		dynasty = "Kacchapaghata"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1437.12.27 = {
+	heir = {
+		name = "Siladitya"
+		monarch_name = "Siladitya II"
+		dynasty = "Kacchapaghata"
+		birth_date = 1437.12.27
+		death_date = 1517.12.27
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 740
+	add_treasury = 4
+	add_prestige = 164
+}

@@ -1,0 +1,23 @@
+# Fakkan
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+capital = 429
+1434.11.23 = {
+	monarch = {
+		name = "Bulend"
+		birth_date = 1429.4.6
+		dynasty = "Fakkan"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 429
+	add_treasury = 112
+	add_prestige = 329
+}

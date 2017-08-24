@@ -1,0 +1,26 @@
+# Wahabid
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 229
+1427.2.20 = {
+	monarch = {
+		name = "Umar"
+		birth_date = 1404.3.21
+		dynasty = "Wahabid"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 229
+	add_treasury = 42
+	add_prestige = 356
+}

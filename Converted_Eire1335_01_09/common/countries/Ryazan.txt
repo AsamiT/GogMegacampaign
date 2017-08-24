@@ -1,0 +1,171 @@
+# Ryazan
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 110 115 45 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Yelizaveta" "Gorislava" "Darya" "Feodosia" "Agrafena" "Mikhail" "Yefrosinia" "Alexandr" "Alexei" "Konstantin" 
+	"Mitrofan" "Irina" "Ulita" "Liudmila" "Iziaslav" "Boris" "Ingvar" "Briachislav" "Vladimir" "Stepan" 
+	"Yefimiy" "Sbyslava" "Daniil" "Kirill" "Pereyaslava" "Sofia" "Rostislav" "Sviatoslava" "Vseslava" "Rogneda" 
+	"Andrei" "Koz'ma" "Vasilko" "Veleslava" "Vasiliy" "Yaroslav" "Yuriy" "Grigoriy" "Ulyana" "Praxida" 
+	"Dobronega" "Vysheslav" "Rodislav" "Dobroslava" "Gremislava" "Anna" "Yefimia" "Gleb" "Olga" "Demid" 
+	"Yekaterina" "Praskovya" "Feodora" "Boleslava" "Iakov" "Zvenislava" "Rogvolod" "Vasilisa" "Zabava" "Yaroslava" 
+	"Olena" "Fevronia" "Anastasia" "Parush" "Kinyak" "Koshel" "Vechkas" "Sviatopolk" "Mstislav" "Sviatoslav" 
+	"Vsevolod" "Radoslav" "Igor" "Svetozar" "Fedot" "Putiata" "Afanasiy" "Davyd" "Dmitriy" "Dobrynia" 
+	"Feodor" "Gavriil" "Iliya" "Ivan" "Lev" "Matfei" "Nikita" "Oleg" "Pavel" "Roman" 
+	"Ruslan" "Stanislav" "Sudislav" "Terentiy" "Trifon" "Viacheslav" "Vladislav" "Voislav" "Volodar" "Vseslav" 
+	"Vyshata" "Yaropolk" "Yelisey" "Yemelyan" "Yeremey" "Yevstafiy" }
+monarch_names = {
+	"Yelizaveta #0" = -1
+	"Gorislava #0" = -1
+	"Darya #0" = -1
+	"Feodosia #0" = -1
+	"Agrafena #0" = -1
+	"Mikhail #0" = 1
+	"Yefrosinia #0" = -1
+	"Alexandr #0" = 1
+	"Alexei #0" = 1
+	"Konstantin #2" = 27
+	"Mitrofan #0" = 1
+	"Irina #0" = -1
+	"Ulita #0" = -1
+	"Liudmila #0" = -1
+	"Iziaslav #0" = 1
+	"Boris #0" = 1
+	"Ingvar #0" = 1
+	"Briachislav #0" = 1
+	"Vladimir #0" = 1
+	"Stepan #0" = 1
+	"Yefimiy #0" = 1
+	"Sbyslava #0" = -1
+	"Daniil #1" = 27
+	"Kirill #0" = 1
+	"Pereyaslava #0" = -1
+	"Sofia #0" = -1
+	"Rostislav #0" = 1
+	"Sviatoslava #0" = -1
+	"Vseslava #0" = -1
+	"Rogneda #0" = -1
+	"Andrei #0" = 1
+	"Koz'ma #0" = 1
+	"Vasilko #0" = 1
+	"Veleslava #0" = -1
+	"Vasiliy #0" = 1
+	"Yaroslav #1" = 21
+	"Yuriy #0" = 1
+	"Grigoriy #0" = 1
+	"Ulyana #0" = -1
+	"Praxida #0" = -1
+	"Dobronega #0" = -1
+	"Vysheslav #0" = 1
+	"Rodislav #0" = 1
+	"Dobroslava #0" = -1
+	"Gremislava #0" = -1
+	"Anna #0" = -1
+	"Yefimia #0" = -1
+	"Gleb #1" = 18
+	"Olga #0" = -1
+	"Demid #0" = 1
+	"Yekaterina #0" = -1
+	"Praskovya #0" = -1
+	"Feodora #0" = -1
+	"Boleslava #0" = -1
+	"Iakov #0" = 1
+	"Zvenislava #0" = -1
+	"Rogvolod #0" = 1
+	"Vasilisa #0" = -1
+	"Zabava #0" = -1
+	"Yaroslava #0" = -1
+	"Olena #0" = -1
+	"Fevronia #0" = -1
+	"Anastasia #0" = -1
+	"Parush #1" = 0
+	"Kinyak #1" = 0
+	"Koshel #1" = 0
+	"Vechkas #1" = 0
+	"Sviatopolk #1" = 0
+	"Mstislav #1" = 0
+	"Sviatoslav #1" = 0
+	"Vsevolod #1" = 0
+	"Radoslav #2" = 0
+	"Igor #1" = 0
+	"Svetozar #1" = 0
+	"Fedot #1" = 0
+	"Putiata #1" = 0
+	"Afanasiy #0" = 0
+	"Davyd #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Feodor #0" = 0
+	"Gavriil #0" = 0
+	"Iliya #0" = 0
+	"Ivan #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Roman #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Sudislav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Viacheslav #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vyshata #0" = 0
+	"Yaropolk #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

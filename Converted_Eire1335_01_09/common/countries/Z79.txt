@@ -1,0 +1,160 @@
+# Gildun
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 166 100 72 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	exploration_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Aisha" "Wahida" "Kera" "Abdul" "Rafiqa" "Azim" "Umar" "Balashk" "Zahra" "Uzza" 
+	"Aggur" "Berenguer" "Umm" "Niptasan" "Aiza" "Ayt'ere" "Awdia" "Karidenna" "Ahu" "Tudert" 
+	"D'r'ifa" "Shakira" "Yaghmurasen" "Suraya" "Gildun" "Kamila" "Udalard" "Ghumer" "Joan" "Youkhanna" 
+	"Abbas" "Basilie" "Az'regh" "Siddiqa" "Cala" "Iccaam" "Micipsa" "Amira" "Mahtar" "Ittû" 
+	"Kenwa" "Tasa" "Firmus" "Bghnat" "Fariza" "Timmi" "Bahiyya" "Wenza" "Bilqis" "Baria" 
+	"Ajdir" "Tilelli" "Bera" "Rampon" "Bernard" "Berengar" "Suniefredo" "Guilhelm" "Aldedramn" "Isembard" 
+	"Odelric" "Hunifred" "Wifredo" "Suneario" "Borrell" "Ramon-Borrell" "Berenguer-Ramon" "Ramon-Berenguer" "Ermengol" "Guillem" 
+	"Ramon" "Seghada" "Abbad" "Abdul-Hakam" "João" "Alfons" "Arnau" "Artau" "Bernat" "Bernat-Guillem" 
+	"Dalmau" "Felip" "Ferran" "Frederic" "Gausfred" "Gerard" "Gombau" "Guerau" "Guifré" "Guillem-Ramon" 
+	"Guislabert" "Hug" "Jaume" "Jofré" "Ott" "Pere" "Ponç" "Ponç-Hug" "Ramon-Folc" "Roger" 
+	"Sanç" "Sunyer" }
+monarch_names = {
+	"Aisha #0" = -1
+	"Wahida #0" = -1
+	"Kera #0" = -1
+	"Abdul #0" = 1
+	"Rafiqa #0" = -1
+	"Azim #1" = 21
+	"Umar #0" = 1
+	"Balashk #0" = 1
+	"Zahra #0" = -1
+	"Uzza #0" = 1
+	"Aggur #0" = 1
+	"Berenguer #0" = 1
+	"Umm #0" = -1
+	"Niptasan #0" = 1
+	"Aiza #0" = -1
+	"Ayt'ere #0" = 1
+	"Awdia #1" = 21
+	"Karidenna #0" = 1
+	"Ahu #0" = -1
+	"Tudert #0" = -1
+	"D'r'ifa #0" = -1
+	"Shakira #0" = -1
+	"Yaghmurasen #0" = 1
+	"Suraya #0" = -1
+	"Gildun #1" = 18
+	"Kamila #0" = -1
+	"Udalard #0" = 1
+	"Ghumer #0" = 1
+	"Joan #1" = 18
+	"Youkhanna #1" = 24
+	"Abbas #1" = 18
+	"Basilie #0" = -1
+	"Az'regh #0" = 1
+	"Siddiqa #0" = -1
+	"Cala #0" = -1
+	"Iccaam #0" = 1
+	"Micipsa #0" = 1
+	"Amira #0" = -1
+	"Mahtar #0" = 1
+	"Ittû #0" = -1
+	"Kenwa #0" = -1
+	"Tasa #0" = -1
+	"Firmus #0" = 1
+	"Bghnat #0" = -1
+	"Fariza #0" = -1
+	"Timmi #0" = -1
+	"Bahiyya #0" = -1
+	"Wenza #0" = -1
+	"Bilqis #0" = -1
+	"Baria #0" = -1
+	"Ajdir #0" = 1
+	"Tilelli #0" = -1
+	"Bera #1" = 0
+	"Rampon #1" = 0
+	"Bernard #2" = 0
+	"Berengar #1" = 0
+	"Suniefredo #1" = 0
+	"Guilhelm #1" = 0
+	"Aldedramn #1" = 0
+	"Isembard #1" = 0
+	"Odelric #1" = 0
+	"Hunifred #1" = 0
+	"Wifredo #2" = 0
+	"Suneario #1" = 0
+	"Borrell #1" = 0
+	"Ramon-Borrell #1" = 0
+	"Berenguer-Ramon #2" = 0
+	"Ramon-Berenguer #3" = 0
+	"Ermengol #2" = 0
+	"Guillem #2" = 0
+	"Ramon #1" = 0
+	"Seghada #1" = 0
+	"Abbad #1" = 0
+	"Abdul-Hakam #1" = 0
+	"João #1" = 0
+	"Alfons #0" = 0
+	"Arnau #0" = 0
+	"Artau #0" = 0
+	"Bernat #0" = 0
+	"Bernat-Guillem #0" = 0
+	"Dalmau #0" = 0
+	"Felip #0" = 0
+	"Ferran #0" = 0
+	"Frederic #0" = 0
+	"Gausfred #0" = 0
+	"Gerard #0" = 0
+	"Gombau #0" = 0
+	"Guerau #0" = 0
+	"Guifré #0" = 0
+	"Guillem-Ramon #0" = 0
+	"Guislabert #0" = 0
+	"Hug #0" = 0
+	"Jaume #0" = 0
+	"Jofré #0" = 0
+	"Ott #0" = 0
+	"Pere #0" = 0
+	"Ponç #0" = 0
+	"Ponç-Hug #0" = 0
+	"Ramon-Folc #0" = 0
+	"Roger #0" = 0
+	"Sanç #0" = 0
+	"Sunyer #0" = 0
+}
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" "La Garsa"  
+}
+

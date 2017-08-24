@@ -1,0 +1,26 @@
+# Polotsk
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 275
+1427.11.26 = {
+	monarch = {
+		name = "Temur II"
+		birth_date = 1417.6.11
+		dynasty = "Bujakhin"
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 275
+	add_treasury = 13
+	add_prestige = 65
+}

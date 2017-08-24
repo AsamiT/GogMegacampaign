@@ -1,0 +1,36 @@
+# Dahiya
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 507
+1433.2.27 = {
+	monarch = {
+		name = "Katayavema II"
+		birth_date = 1423.1.3
+		dynasty = "Dahiya"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	heir = {
+		name = "Laxmidevi"
+		monarch_name = "Laxmidevi"
+		dynasty = "Dahiya"
+		birth_date = 1429.2.3
+		death_date = 1509.2.3
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 507
+	add_treasury = 9
+	add_prestige = 198
+}

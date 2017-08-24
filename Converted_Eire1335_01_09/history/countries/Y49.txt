@@ -1,0 +1,38 @@
+# Terebovl
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 281
+1433.2.3 = {
+	monarch = {
+		name = "Simeon"
+		birth_date = 1419.8.5
+		dynasty = "Volhynsky"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.1.9 = {
+	heir = {
+		name = "Karlo"
+		monarch_name = "Karlo"
+		dynasty = "Volhynsky"
+		birth_date = 1444.1.9
+		death_date = 1524.1.9
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 281
+	add_treasury = 39
+	add_prestige = 19
+}

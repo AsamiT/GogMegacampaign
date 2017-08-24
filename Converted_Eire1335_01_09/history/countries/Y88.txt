@@ -1,0 +1,25 @@
+# Geregerid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = shiite
+clear_scripted_personalities = yes
+capital = 1227
+1441.5.10 = {
+	monarch = {
+		name = "Murad II"
+		birth_date = 1428.2.10
+		dynasty = "Geregerid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 22
+	add_prestige = 35
+}

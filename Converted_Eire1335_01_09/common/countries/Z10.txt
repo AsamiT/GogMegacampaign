@@ -1,0 +1,163 @@
+# Jemtland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 45 85 245 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Dyre" "Ragnar" "Dagmar" "Helena" "Gregers" "Vilfred" "Nils" "Gyla" "Björn" "Katarina" 
+	"Thomas" "Ida" "Halvor" "Sivard" "Anders" "Pridbjørn" "Mogens" "Karin" "Faste" "Benedikt" 
+	"Agnethe" "Estrid" "Sigfred" "Rune" "Erika" "Oluf" "Knud" "Kristiina" "Birgitta" "Lykke" 
+	"Torgils" "Christian" "Runa" "Lise" "Bodil" "Sofie" "Ture" "Benedikte" "Esben" "Margrethe" 
+	"Mads" "Joakim" "Leif" "Jutta" "Hans" "Abel" "Asger" "Bjørn" "Bo" "Christoffer" 
+	"Edvard" "Einar" "Erik" "Ernst" "Fredrik" "Frode" "Glum" "Gotfred" "Grim" "Gunnar" 
+	"Hårik" "Halfdan" "Harald" "Hemming" "Henrik" "Hjalmar" "Holger" "Ingolf" "Jørgen" "Jørn" 
+	"Jakob" "Jens" "Johann" "Karl" "Kristian" "Lennart" "Ludvig" "Malthe" "Mikkel" "Niels" 
+	"Olav" "Peder" "Poul" "Ragnvald" "Rolf" "Rørik" "Severin" "Sigtryg" "Sigurd" "Steen" 
+	"Svend" "Thorvald" "Torben" "Torbjørn" "Tord" "Ubbe" "Uffe" "Ulf" "Valdemar" "Valentin" 
+	"Yngvar" }
+monarch_names = {
+	"Dyre #0" = 1
+	"Ragnar #0" = 1
+	"Dagmar #0" = -1
+	"Helena #0" = -1
+	"Gregers #0" = 1
+	"Vilfred #1" = 21
+	"Nils #0" = 1
+	"Gyla #0" = -1
+	"Björn #0" = 1
+	"Katarina #0" = -1
+	"Thomas #0" = 1
+	"Ida #0" = -1
+	"Halvor #0" = 1
+	"Sivard #0" = 1
+	"Anders #0" = 1
+	"Pridbjørn #0" = 1
+	"Mogens #0" = 1
+	"Karin #0" = -1
+	"Faste #0" = 1
+	"Benedikt #0" = 1
+	"Agnethe #0" = -1
+	"Estrid #0" = -1
+	"Sigfred #0" = 1
+	"Rune #0" = 1
+	"Erika #0" = -1
+	"Oluf #0" = 1
+	"Knud #0" = 1
+	"Kristiina #0" = -1
+	"Birgitta #0" = -1
+	"Lykke #0" = -1
+	"Torgils #0" = 1
+	"Christian #0" = 1
+	"Runa #0" = -1
+	"Lise #0" = -1
+	"Bodil #0" = -1
+	"Sofie #0" = -1
+	"Ture #0" = 1
+	"Benedikte #0" = -1
+	"Esben #0" = 1
+	"Margrethe #0" = -1
+	"Mads #1" = 0
+	"Joakim #1" = 0
+	"Leif #1" = 0
+	"Jutta #1" = -1
+	"Hans #1" = 0
+	"Abel #0" = 0
+	"Asger #0" = 0
+	"Bjørn #0" = 0
+	"Bo #0" = 0
+	"Christoffer #0" = 0
+	"Edvard #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Ernst #0" = 0
+	"Fredrik #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gotfred #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Hårik #0" = 0
+	"Halfdan #0" = 0
+	"Harald #0" = 0
+	"Hemming #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holger #0" = 0
+	"Ingolf #0" = 0
+	"Jørgen #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Kristian #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Malthe #0" = 0
+	"Mikkel #0" = 0
+	"Niels #0" = 0
+	"Olav #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rørik #0" = 0
+	"Severin #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Steen #0" = 0
+	"Svend #0" = 0
+	"Thorvald #0" = 0
+	"Torben #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Ubbe #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Valentin #0" = 0
+	"Yngvar #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

@@ -1,0 +1,26 @@
+# Yildoz
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 434
+1407.4.26 = {
+	monarch = {
+		name = "Alaeddin II"
+		birth_date = 1407.2.8
+		dynasty = "Yildoz"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 434
+	add_treasury = 44
+	add_prestige = 108
+}

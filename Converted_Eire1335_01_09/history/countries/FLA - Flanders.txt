@@ -1,0 +1,27 @@
+# Flanders
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = cathar
+clear_scripted_personalities = yes
+capital = 87
+1433.4.13 = {
+	monarch = {
+		name = "Melisènda"
+		birth_date = 1398.8.19
+		dynasty = "de Blanchegard"
+		female = yes
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 87
+	add_treasury = 26
+	add_prestige = 87
+}

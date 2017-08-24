@@ -1,0 +1,26 @@
+# Pskov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 311
+1421.5.5 = {
+	monarch = {
+		name = "Säde"
+		birth_date = 1407.12.3
+		dynasty = "Karasi"
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 311
+	add_treasury = 9
+	add_prestige = 60
+}

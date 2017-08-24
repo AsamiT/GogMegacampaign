@@ -1,0 +1,26 @@
+# Krain
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 130
+1435.11.13 = {
+	monarch = {
+		name = "Markward"
+		birth_date = 1418.6.4
+		dynasty = "Gross"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 130
+	add_treasury = 15
+	add_prestige = 47
+	elector = no
+}

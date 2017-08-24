@@ -1,0 +1,23 @@
+# Kashgar
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = hinduism
+capital = 2124
+1441.4.15 = {
+	monarch = {
+		name = "Begluk"
+		birth_date = 1430.2.15
+		dynasty = "Yarkandid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2124
+	add_treasury = 88
+	add_prestige = 36
+}

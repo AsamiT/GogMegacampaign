@@ -1,0 +1,23 @@
+# Daksina Kosala
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+capital = 553
+1409.8.31 = {
+	monarch = {
+		name = "Sankaravarman"
+		birth_date = 1404.9.10
+		dynasty = "Somavamsi"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 553
+	add_treasury = 23
+	add_prestige = 516
+}

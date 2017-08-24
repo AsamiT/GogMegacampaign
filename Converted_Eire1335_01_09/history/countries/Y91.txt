@@ -1,0 +1,35 @@
+# Rawwadid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 417
+1433.10.28 = {
+	monarch = {
+		name = "Alah-Verdi II"
+		birth_date = 1390.3.8
+		dynasty = "Rawwadid"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Babek"
+		monarch_name = "Babek"
+		dynasty = "Rawwadid"
+		birth_date = 1427.8.5
+		death_date = 1507.8.5
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 417
+	add_treasury = 53
+	add_prestige = 361
+}

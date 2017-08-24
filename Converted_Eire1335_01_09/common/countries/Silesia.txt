@@ -1,0 +1,232 @@
+# Silesia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 84 166 93 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Subetei" "Kokochu" "Godan" "Khogaghchin" "Khorijin" "Temur" "Oghul" "Doquz" "Bughu" "Witosz" 
+	"Slezaslaw" "Gardomir" "Zdamir" "Uniedrog" "Malogost" "Mirogod" "Odolan" "Wlost" "Nadbor" "Wojuta" 
+	"Wielislaw" "Jerzy" "Dobieslaw" "Zbyszko" "Wladyslaw" "Doman" "Sambor" "Janko" "Konstancja" "Stoigniew" 
+	"Goszczon" "Milosz" "Waclaw" "Temujin" "Ogodei" "Khal" "Khuyildar" "Altan" "Kogsegu" "Nayaga" 
+	"Abagha" "Achigh" "Aguchu" "Ajai" "Ajinai" "Akhutai" "Alagh" "Alchi" "Alchidai" "Ambaghai" 
+	"Arkhai" "Arasen" "Babur" "Badai" "Bagaridai" "Bala" "Barghujin" "Bartan" "Batu" "Bedugun" 
+	"Begter" "Belgutei" "Belgunutei" "Bilge" "Berke" "Bodonchar" "Bogen" "Bogorchu" "Bolkhadar" "Borjigidai" 
+	"Boroghul" "Bugidai" "Bugunutei" "Bujeg" "Bukha" "Bulughan" "Buri" "Burkhan" "Burundai" "Chagatai" 
+	"Chaghagan" "Chanai" "Chigu" "Chidukhul" "Chilagun" "Chiledu" "Chormakhan" "Chulgetei" "Dagun" "Daritai" 
+	"Dayir" "Dodai" "Duua" "Eljigedei" "Ghazan" "Ghunan" "Guchu" "Gughlug" "Guyug" "Harghasun" 
+	"Horkhudagh" "Hulegu" "Husun" "Inalchi" "Inancha" "Iturgen" "Jajiradai" "Jamugha" "Jebe" "Jochi" 
+	"Jurchedei" "Khabichi" "Khachi" "Khachigun" "Khadagh" "Khagatai" "Khaidu" "Khorchi" "Khorilartai" "Khubilai" 
+	"Khudu" "Khutula" "Megetu" "Megujin" "Menggei" "Mongke" "Morokha" "Munglig" "Nakhu" "Narin" 
+	"Nogai" "Odchigin" "Okhotur" "Oljaitu" "Oronartai" "Shiraghul" "Shirgugetu" "Suyiketu" "Taghai" "Tamachi" 
+	"Targhutai" "Temuge" "Todogen" "Toghoril" "Toghtoga" "Tokhtamis" "Tolui" "Torolchi" "Tumen" "Uighurtai" 
+	"Ukhuna" "Usun" "Yedi" "Yegu" "Yeke" "Yesugei" "Yesunge" "Yokhunan" "Kadan" }
+monarch_names = {
+	"Subetei #0" = 1
+	"Kokochu #0" = 1
+	"Godan #0" = 1
+	"Khogaghchin #0" = -1
+	"Khorijin #0" = -1
+	"Temur #1" = 18
+	"Oghul #0" = -1
+	"Doquz #0" = -1
+	"Bughu #0" = 1
+	"Witosz #3" = 0
+	"Slezaslaw #1" = 0
+	"Gardomir #1" = 0
+	"Zdamir #1" = 0
+	"Uniedrog #2" = 0
+	"Malogost #1" = 0
+	"Mirogod #1" = 0
+	"Odolan #1" = 0
+	"Wlost #1" = 0
+	"Nadbor #1" = 0
+	"Wojuta #1" = 0
+	"Wielislaw #1" = 0
+	"Jerzy #1" = 0
+	"Dobieslaw #1" = 0
+	"Zbyszko #1" = 0
+	"Wladyslaw #1" = 0
+	"Doman #1" = 0
+	"Sambor #1" = 0
+	"Janko #1" = 0
+	"Konstancja #1" = -1
+	"Stoigniew #1" = 0
+	"Goszczon #1" = 0
+	"Milosz #1" = 0
+	"Waclaw #1" = 0
+	"Temujin #1" = 0
+	"Ogodei #1" = 0
+	"Khal #1" = 0
+	"Khuyildar #2" = 0
+	"Altan #1" = 0
+	"Kogsegu #1" = 0
+	"Nayaga #1" = 0
+	"Abagha #0" = 0
+	"Achigh #0" = 0
+	"Aguchu #0" = 0
+	"Ajai #0" = 0
+	"Ajinai #0" = 0
+	"Akhutai #0" = 0
+	"Alagh #0" = 0
+	"Alchi #0" = 0
+	"Alchidai #0" = 0
+	"Ambaghai #0" = 0
+	"Arkhai #0" = 0
+	"Arasen #0" = 0
+	"Babur #0" = 0
+	"Badai #0" = 0
+	"Bagaridai #0" = 0
+	"Bala #0" = 0
+	"Barghujin #0" = 0
+	"Bartan #0" = 0
+	"Batu #0" = 0
+	"Bedugun #0" = 0
+	"Begter #0" = 0
+	"Belgutei #0" = 0
+	"Belgunutei #0" = 0
+	"Bilge #0" = 0
+	"Berke #0" = 0
+	"Bodonchar #0" = 0
+	"Bogen #0" = 0
+	"Bogorchu #0" = 0
+	"Bolkhadar #0" = 0
+	"Borjigidai #0" = 0
+	"Boroghul #0" = 0
+	"Bugidai #0" = 0
+	"Bugunutei #0" = 0
+	"Bujeg #0" = 0
+	"Bukha #0" = 0
+	"Bulughan #0" = 0
+	"Buri #0" = 0
+	"Burkhan #0" = 0
+	"Burundai #0" = 0
+	"Chagatai #0" = 0
+	"Chaghagan #0" = 0
+	"Chanai #0" = 0
+	"Chigu #0" = 0
+	"Chidukhul #0" = 0
+	"Chilagun #0" = 0
+	"Chiledu #0" = 0
+	"Chormakhan #0" = 0
+	"Chulgetei #0" = 0
+	"Dagun #0" = 0
+	"Daritai #0" = 0
+	"Dayir #0" = 0
+	"Dodai #0" = 0
+	"Duua #0" = 0
+	"Eljigedei #0" = 0
+	"Ghazan #0" = 0
+	"Ghunan #0" = 0
+	"Guchu #0" = 0
+	"Gughlug #0" = 0
+	"Guyug #0" = 0
+	"Harghasun #0" = 0
+	"Horkhudagh #0" = 0
+	"Hulegu #0" = 0
+	"Husun #0" = 0
+	"Inalchi #0" = 0
+	"Inancha #0" = 0
+	"Iturgen #0" = 0
+	"Jajiradai #0" = 0
+	"Jamugha #0" = 0
+	"Jebe #0" = 0
+	"Jochi #0" = 0
+	"Jurchedei #0" = 0
+	"Khabichi #0" = 0
+	"Khachi #0" = 0
+	"Khachigun #0" = 0
+	"Khadagh #0" = 0
+	"Khagatai #0" = 0
+	"Khaidu #0" = 0
+	"Khorchi #0" = 0
+	"Khorilartai #0" = 0
+	"Khubilai #0" = 0
+	"Khudu #0" = 0
+	"Khutula #0" = 0
+	"Megetu #0" = 0
+	"Megujin #0" = 0
+	"Menggei #0" = 0
+	"Mongke #0" = 0
+	"Morokha #0" = 0
+	"Munglig #0" = 0
+	"Nakhu #0" = 0
+	"Narin #0" = 0
+	"Nogai #0" = 0
+	"Odchigin #0" = 0
+	"Okhotur #0" = 0
+	"Oljaitu #0" = 0
+	"Oronartai #0" = 0
+	"Shiraghul #0" = 0
+	"Shirgugetu #0" = 0
+	"Suyiketu #0" = 0
+	"Taghai #0" = 0
+	"Tamachi #0" = 0
+	"Targhutai #0" = 0
+	"Temuge #0" = 0
+	"Todogen #0" = 0
+	"Toghoril #0" = 0
+	"Toghtoga #0" = 0
+	"Tokhtamis #0" = 0
+	"Tolui #0" = 0
+	"Torolchi #0" = 0
+	"Tumen #0" = 0
+	"Uighurtai #0" = 0
+	"Ukhuna #0" = 0
+	"Usun #0" = 0
+	"Yedi #0" = 0
+	"Yegu #0" = 0
+	"Yeke #0" = 0
+	"Yesugei #0" = 0
+	"Yesunge #0" = 0
+	"Yokhunan #0" = 0
+	"Kadan #0" = 0
+}
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+

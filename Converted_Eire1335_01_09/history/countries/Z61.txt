@@ -1,0 +1,25 @@
+# Ödenburg
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+capital = 135
+1428.1.17 = {
+	monarch = {
+		name = "Osterhild"
+		birth_date = 1402.6.17
+		dynasty = "Witte"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 135
+	add_treasury = 30
+	add_prestige = 75
+	elector = no
+}

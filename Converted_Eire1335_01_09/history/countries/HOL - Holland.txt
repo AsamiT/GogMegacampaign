@@ -1,0 +1,27 @@
+# Holland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 96
+1427.1.5 = {
+	monarch = {
+		name = "Adalhard"
+		birth_date = 1409.11.23
+		dynasty = "von Pluyvoise"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 96
+	add_treasury = 25
+	add_prestige = 135
+	elector = no
+}

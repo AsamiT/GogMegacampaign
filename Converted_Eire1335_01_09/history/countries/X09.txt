@@ -1,0 +1,39 @@
+# Sanchore
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 545
+1412.3.9 = {
+	monarch = {
+		name = "Prithvi"
+		birth_date = 1407.9.20
+		dynasty = "Sanchore"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1426.12.19 = {
+	heir = {
+		name = "Prithvi"
+		monarch_name = "Prithvi II"
+		dynasty = "Sanchore"
+		birth_date = 1426.12.19
+		death_date = 1506.12.19
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 545
+	add_treasury = 107
+	add_prestige = 414
+}

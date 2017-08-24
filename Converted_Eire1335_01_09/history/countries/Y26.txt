@@ -1,0 +1,26 @@
+# Vitebsk
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = sunni
+clear_scripted_personalities = yes
+capital = 293
+1403.10.6 = {
+	monarch = {
+		name = "Khutula"
+		birth_date = 1401.7.9
+		dynasty = "Chaghagan"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 293
+	add_treasury = 31
+	add_prestige = 258
+}

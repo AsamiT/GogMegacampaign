@@ -1,0 +1,35 @@
+# Mesopotamia
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+capital = 383
+1431.12.18 = {
+	monarch = {
+		name = "Dukak"
+		birth_date = 1417.2.5
+		dynasty = "Fakkan"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+1436.5.15 = {
+	heir = {
+		name = "Mengucek"
+		monarch_name = "Mengucek"
+		dynasty = "Fakkan"
+		birth_date = 1436.5.15
+		death_date = 1516.5.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 383
+	add_treasury = 96
+	add_prestige = 300
+}

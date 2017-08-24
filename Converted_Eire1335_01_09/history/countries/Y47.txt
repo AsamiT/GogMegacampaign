@@ -1,0 +1,37 @@
+# Steiermark
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 132
+1399.8.21 = {
+	monarch = {
+		name = "Erich"
+		birth_date = 1386.11.16
+		dynasty = "Brunswick"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+}
+1439.2.7 = {
+	heir = {
+		name = "Heribert"
+		monarch_name = "Heribert"
+		dynasty = "Brunswick"
+		birth_date = 1439.2.7
+		death_date = 1519.2.7
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 132
+	add_treasury = 26
+	add_prestige = 194
+}

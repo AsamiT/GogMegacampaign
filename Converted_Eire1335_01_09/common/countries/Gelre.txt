@@ -1,0 +1,289 @@
+# Gelre
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 200 100 25 }
+historical_idea_groups = {
+	trade_ideas
+	exploration_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Philipp" "Frida" "Gerlach" "Winfrida" "Otto" "Mechthild" "Walther" "Henrike" "Sybille" "Berta" 
+	"Ursula" "Rutger" "Gerard" "Diederik" "Hendrik" "Gozewijn" "Willem" "Dietrich" "Richwara" "Agnes" 
+	"Francesca" "Mathieu" "Gertrude" "Yonefij" "Odelt" "Herman" "Giselbert" "Simon" "Lutbert" "IJsbrecht" 
+	"Ide" "Theodolf" "Anna" "Binhilde" "Franz" "Wila" "Gunhilda" "Norbert" "Markward" "Sofie" 
+	"Ilsa" "Margarete" "Eufemia" "Jasminne" "Beatrijs" "Barend" "Folkmar" "Gerhard" "Godfried" "Bavo" 
+	"Almodis" "Agathe" "Walram" "Gerberga" "Ekbert" "Reynilde" "Hedwig" "Jacoba" "Kriemhild" "Willemine" 
+	"Siegfried" "Gargamel" "Rodulf" "Ida" "Luthard" "Ekkehard" "Alberich" "Mafalda" "Beatrix" "Reinhard" 
+	"Wigerich" "Viola" "Oda" "Walpurga" "Ermengard" "Mélusine" "Ingeltrude" "Blanca" "Ernst" "Adela" 
+	"Liutbert" "Katharina" "Geoffrey" "Richara" "Marquart" "Ferdinand" "Humbert" "Georg" "Irmeltrud" "Peter" 
+	"Elisabeth" "Berchte" "Leopold" "Jutta" "Heribert" "Brunhilde" "Kaspar" "Foulques" "Emma" "Liutbrand" 
+	"Arsinde" "Manfred" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" "Adolf" "Alarich" "Albrecht" 
+	"Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" "Arnold" "Arnulf" "Augustin" "Baldarich" 
+	"Baldewin" "Baldomar" "Baldur" "Berengar" "Bernhard" "Berthold" "Burchard" "Christopher" "Dieter" "Dietmar" 
+	"Dietpold" "Dietwin" "Eberhard" "Eginolf" "Ehrenfried" "Emelrich" "Emich" "Emmerich" "Engelbert" "Erich" 
+	"Filibert" "Folkhard" "Friedrich" "Gautselin" "Gebhard" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" 
+	"Gunzelin" "Günther" "Hans" "Hartmann" "Hartwig" "Heinrich" "Helferich" "Hermann" "Hesso" "Hugo" 
+	"Hupold" "Jakob" "Johann" "Jürgen" "Karl" "Karlmann" "Konrad" "Kuno" "Lambert" "Landolf" 
+	"Liudolf" "Liutpold" "Lothar" "Ludolf" "Ludwig" "Magnus" "Manegold" "Martin" "Matthias" "Meinhard" 
+	"Michael" "Nikolaus" "Poppo" "Radbot" "Reinhold" "Rudolf" "Ruprecht" "Sieghard" "Siegmund" "Sigismund" 
+	"Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" "Ulrich" "Viktor" "Waldemar" "Welf" "Wenzel" 
+	"Werner" "Wido" "Wilhelm" "Wolfgang" "Wolfram" }
+monarch_names = {
+	"Philipp #0" = 1
+	"Frida #0" = -1
+	"Gerlach #0" = 1
+	"Winfrida #0" = -1
+	"Otto #0" = 1
+	"Mechthild #0" = -1
+	"Walther #1" = 27
+	"Henrike #0" = -1
+	"Sybille #0" = -1
+	"Berta #0" = -1
+	"Ursula #1" = -19
+	"Rutger #0" = 1
+	"Gerard #0" = 1
+	"Diederik #0" = 1
+	"Hendrik #0" = 1
+	"Gozewijn #0" = 1
+	"Willem #0" = 1
+	"Dietrich #0" = 1
+	"Richwara #0" = -1
+	"Agnes #0" = -1
+	"Francesca #0" = -1
+	"Mathieu #0" = 1
+	"Gertrude #0" = -1
+	"Yonefij #0" = -1
+	"Odelt #0" = -1
+	"Herman #0" = 1
+	"Giselbert #0" = 1
+	"Simon #0" = 1
+	"Lutbert #0" = 1
+	"IJsbrecht #0" = 1
+	"Ide #0" = -1
+	"Theodolf #0" = 1
+	"Anna #0" = -1
+	"Binhilde #0" = -1
+	"Franz #0" = 1
+	"Wila #0" = -1
+	"Gunhilda #0" = -1
+	"Norbert #0" = 1
+	"Markward #0" = 1
+	"Sofie #0" = -1
+	"Ilsa #0" = -1
+	"Margarete #0" = -1
+	"Eufemia #0" = -1
+	"Jasminne #0" = -1
+	"Beatrijs #0" = -1
+	"Barend #0" = 1
+	"Folkmar #0" = 1
+	"Gerhard #0" = 1
+	"Godfried #0" = 1
+	"Bavo #0" = 1
+	"Almodis #0" = -1
+	"Agathe #0" = -1
+	"Walram #0" = 1
+	"Gerberga #0" = -1
+	"Ekbert #0" = 1
+	"Reynilde #0" = -1
+	"Hedwig #0" = -1
+	"Jacoba #0" = -1
+	"Kriemhild #0" = -1
+	"Willemine #0" = -1
+	"Siegfried #0" = 1
+	"Gargamel #0" = 1
+	"Rodulf #0" = 1
+	"Ida #0" = -1
+	"Luthard #0" = 1
+	"Ekkehard #0" = 1
+	"Alberich #0" = 1
+	"Mafalda #0" = -1
+	"Beatrix #0" = -1
+	"Reinhard #0" = 1
+	"Wigerich #0" = 1
+	"Viola #0" = -1
+	"Oda #0" = -1
+	"Walpurga #0" = -1
+	"Ermengard #0" = -1
+	"Mélusine #0" = -1
+	"Ingeltrude #0" = -1
+	"Blanca #0" = -1
+	"Ernst #0" = 1
+	"Adela #0" = -1
+	"Liutbert #0" = 1
+	"Katharina #0" = -1
+	"Geoffrey #0" = 1
+	"Richara #0" = -1
+	"Marquart #0" = 1
+	"Ferdinand #0" = 1
+	"Humbert #0" = 1
+	"Georg #0" = 1
+	"Irmeltrud #0" = -1
+	"Peter #0" = 1
+	"Elisabeth #1" = -19
+	"Berchte #0" = -1
+	"Leopold #0" = 1
+	"Jutta #0" = -1
+	"Heribert #0" = 1
+	"Brunhilde #0" = -1
+	"Kaspar #1" = 0
+	"Foulques #1" = 0
+	"Emma #1" = -1
+	"Liutbrand #2" = 0
+	"Arsinde #1" = -1
+	"Manfred #1" = 0
+	"Adalbero #0" = 0
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Adolf #0" = 0
+	"Alarich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Arnulf #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Burchard #0" = 0
+	"Christopher #0" = 0
+	"Dieter #0" = 0
+	"Dietmar #0" = 0
+	"Dietpold #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Eginolf #0" = 0
+	"Ehrenfried #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Günther #0" = 0
+	"Hans #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Heinrich #0" = 0
+	"Helferich #0" = 0
+	"Hermann #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Hupold #0" = 0
+	"Jakob #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Konrad #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Liudolf #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Magnus #0" = 0
+	"Manegold #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Thomas #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Wido #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Adelaar Ajax Alkmaar Amelia Amsterdam Atalanta
+	Bantam Batavia Beschermer Brederode Brouwer Brutus
+	Campen Cerberus Comeestar
+	Daphne Delfland Delft "Den Swarten Raven" Delphin Deventer Duyfken
+	Eendracht Eenhorn Embuscade Engel Erasmus
+	Gaesterland "Gekroende Liefde" Gelijkheid Gouda "Gouden Arend" "Gouden Leeuw" "Groot Frisia" "Groote Sint Joris" "Grote Zon"
+	Haarlem Heldin Hercules "De Halve Maen" Hollandia "Hollandsche Tuyn" "Huis te Oosterwijk" "Huis te Zwieten" "Huys van Nassau"
+	"Jong Prins te Paard" Jupiter "Kleine Zon"
+	"Kleene Sint Joris" Komeeetster "Kronede Arend"
+	Leyden "Liefde van Hoorn"
+	"Maagd van Dordrecht" Mars Mauritius Middelburg Minerva Moon Monnikendam Muiderberg
+	Nassau "Nieuw Vlissingen" 
+	Olifant Onrust Ooievaar Oranje
+	Patientia Posthorn "Prins Friso" "Prins Willem" 
+	Rotterdam Rozendaal
+	Schakerloo Schermer Spiegel Staten-Generaal Statenlande Ster "St. Iago de Victoria" "St. Marten" "St. Matthuis"
+	Tholen Tyger 
+	"Vereenigde Provincieën" Vlissingen Vrede Vrijheid
+	Waakzaamheid "Walcheren" "Wapen van Holland" "Wapen van Medenblik" Wassenaar Winhond "Witte Leeuw" Woerden Zeerijp
+	"Zeven Provincien" Zierikzee Zon Zuidholland "Zwarte Leeuw" 
+}
+

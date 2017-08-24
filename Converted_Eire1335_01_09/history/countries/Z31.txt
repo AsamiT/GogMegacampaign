@@ -1,0 +1,26 @@
+# Aut Lorena
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 166
+1405.6.24 = {
+	monarch = {
+		name = "Ava"
+		birth_date = 1397.8.22
+		dynasty = "Stuyvesant"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 166
+	add_treasury = 42
+	add_prestige = 267
+}

@@ -1,0 +1,151 @@
+# Tifilwitid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 150 218 21 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Raisa" "Mundir" "Umm" "Abdul-Hakam" "Wahida" "Shakira" "Ayyub" "Isra" "Lubb" "Suraya" 
+	"Naila" "Butayna" "Jyad" "Ghada" "Tifilwit" "Ya'far" "Munya" "Layla" "Abdul-Rahman" "Hilal" 
+	"Amr" "Tariq" "Hakam" "Ahu" "Karima" "Safiya" "Sa'd" "Khadija" "Suleyman" "Habiba" 
+	"Ibtisam" "Yasmin" "Nur" "Fahriya" "Siddray" "Rafiqa" "Thashim" "Utman" "Nadia" "Abda" 
+	"Yahaff" "Abdul-Hazm" "Rashid" "Fatima" "Rasiq" "Ma'n" "Gamila" "Tahira" "Randa" "Wannaqo" 
+	"Malika" "Isma'il" "Muhammad" "Rahat" "Afulay" "Abdul-Aziz" "Adfuns" "Giordano" "Umar" "Raf" 
+	"Berenguela" "Sanyo" "Abu-Bakr" "Dima" "Fahra" "Musa" "Maha" "Hisham" "Abbad" "Galind" 
+	"Abbas" "Abdallah" "Abdul-Hasan" "Abdul-Razzaq" "Abdul" "Abu" "Ahmad" "Ali" "Balashk" "Bilal" 
+	"Fadl" "Fath" "Garsiya" "Ibrahim" "Mubashir" "Muyahid" "Yahya" "Yusuf" }
+monarch_names = {
+	"Raisa #0" = -1
+	"Mundir #1" = 30
+	"Umm #0" = -1
+	"Abdul-Hakam #0" = 1
+	"Wahida #0" = -1
+	"Shakira #0" = -1
+	"Ayyub #1" = 18
+	"Isra #0" = -1
+	"Lubb #0" = 1
+	"Suraya #0" = -1
+	"Naila #0" = -1
+	"Butayna #0" = -1
+	"Jyad #0" = 1
+	"Ghada #0" = -1
+	"Tifilwit #0" = 1
+	"Ya'far #0" = 1
+	"Munya #0" = -1
+	"Layla #0" = -1
+	"Abdul-Rahman #1" = 24
+	"Hilal #2" = 24
+	"Amr #0" = 1
+	"Tariq #0" = 1
+	"Hakam #2" = 30
+	"Ahu #0" = -1
+	"Karima #0" = -1
+	"Safiya #0" = -1
+	"Sa'd #0" = 1
+	"Khadija #0" = -1
+	"Suleyman #0" = 1
+	"Habiba #0" = -1
+	"Ibtisam #0" = -1
+	"Yasmin #0" = -1
+	"Nur #0" = -1
+	"Fahriya #0" = -1
+	"Siddray #2" = 27
+	"Rafiqa #0" = -1
+	"Thashim #0" = -1
+	"Utman #0" = 1
+	"Nadia #0" = -1
+	"Abda #0" = -1
+	"Yahaff #0" = 1
+	"Abdul-Hazm #0" = 1
+	"Rashid #0" = 1
+	"Fatima #0" = -1
+	"Rasiq #2" = 27
+	"Ma'n #0" = 1
+	"Gamila #0" = -1
+	"Tahira #0" = -1
+	"Randa #0" = -1
+	"Wannaqo #0" = 1
+	"Malika #0" = -1
+	"Isma'il #0" = 1
+	"Muhammad #2" = 18
+	"Rahat #0" = -1
+	"Afulay #0" = 1
+	"Abdul-Aziz #0" = 1
+	"Adfuns #0" = 1
+	"Giordano #0" = 1
+	"Umar #0" = 1
+	"Raf #1" = 21
+	"Berenguela #0" = -1
+	"Sanyo #0" = 1
+	"Abu-Bakr #0" = 1
+	"Dima #0" = -1
+	"Fahra #0" = -1
+	"Musa #0" = 1
+	"Maha #0" = -1
+	"Hisham #1" = 0
+	"Abbad #1" = 0
+	"Galind #1" = 0
+	"Abbas #0" = 0
+	"Abdallah #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abdul #0" = 0
+	"Abu #0" = 0
+	"Ahmad #0" = 0
+	"Ali #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Garsiya #0" = 0
+	"Ibrahim #0" = 0
+	"Mubashir #0" = 0
+	"Muyahid #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

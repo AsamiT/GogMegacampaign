@@ -1,0 +1,23 @@
+# Auvèrnha
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = cathar
+capital = 199
+1442.3.9 = {
+	monarch = {
+		name = "Guilhèm II"
+		birth_date = 1432.3.21
+		dynasty = "de Poissy"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 199
+	add_treasury = 39
+	add_prestige = 14
+}

@@ -1,0 +1,259 @@
+# Jadon
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 115 190 30 }
+
+
+
+
+leader_names = {
+
+	"Dhruvadevi" "Naravarman" "Maharani" "Harpal" "Prabhavati" "Dattadevi" "Ganapatideva" "Mahidevi" "Jhetpal" "Dhruvasvamini" 
+	"Sanyukta" "Hemavati" "Rangraj" "Dharmapala" "Singhapala" "Jagapala" "Narapala" "Sangramapala" "Kunthapala" "Bhaumapala" 
+	"Sukhapala" "Pukhapala" "Viramapala" "Jaitapala" "Vijayapala" "Puppadevi" "Kumaradevi" "Sonpala" "Damayanti" "Tamanpal" 
+	"Ksitipala" "Somalladevi" "Sultanpala" "Jagatpala" "Gopala" "Gopal" "Dehanagadevi" "Bhopal" "Bhuyikadevi" "Narpal" 
+	"Shrimitradevi" "Jhetpala" "Anangpal" "Shurapala" "Lakshman" "Prabhavatigupta" "Yasovarman" "Vigrahapala" "Akal" "Gandadeva" 
+	"Kailaspala" "Hirapala" "Kalayandevi" "Bhoj" "Mahipala" "Chand" "Nattadevi" "Prithipala" "Kakanvati" "Doth" 
+	"Dugarendra" "Kumarapala" "Ksemankaradeva" "Sivakaradeva" "Subhakaradeva" "Santikaradeva" "Tribhuvana Mahadevi" "Gauri" "Dandi Mahadevi" "Vakula Mahadevi" 
+	"Dharma Mahadevi" "Bhimaratha" "Dharmaratha" "Indranatha" "Yayati" "Udyotakesari" "Janmejaya" "Puranjaya" "Durjaya" "Kalaha" 
+	"Prasannamatra" "Gayada" "Nayapala" "Padam-Singh" "Anangabhima" "Anantasaktivarman" "Anantavarman" "Apsaradeva" "Arthapatiraja" "Ayasobhita" 
+	"Balabhadra" "Barjena" "Betta" "Bhanu" "Bhavadattavarman" "Bhimasena" "Bhramarbara" "Bhupendra" "Bhupendravarman" "Chandravarman" 
+	"Charamparaja" "Damodara" "Danai" "Danarnava" "Dayita" "Dayitavarman" "Devananda" "Devendravarman" "Dharmaraja" "Dharmarstha" 
+	"Dhruvananda" "Dibyasingha" "Digbhanja" "Durgaraja" "Durjayabhanja" "Gangadhara" "Gandhata" "Gangakavilasa" "Gopinatha" "Gunamaharnava" 
+	"Gunarnava" "Gundama" "Hamvira" "Harekrushna" "Hastivarman" "Hemantavarman" "Indravarman" "Jahangir" "Jayananda" "Jayaraja" 
+	"Jayasimha" "Jayasthambha" "Jayavarma" "Jayavarmadeva" "Kakharua" "Kalahastambha" "Kalasa" "Kalua" "Kalyankalasa" "Kamarnava" 
+	"Kanchana" "Kanchanastambha" "Kapilendra" "Kapilendradeva" "Karnadeva" "Khadaga" "Kotta" "Kottabhanja" "Kulastambha" "Lakshmikaradeva" 
+	"Madhavaraja" "Madhavavarman" "Madhukamarnava" "Mahendraditya" "Mahendravarman" "Mahinda" "Manamatra" "Matradhyarya" "Mukunda" "Nahusa" 
+	"Nandaprabhanjana" "Nandaprabhanjanavarman" "Nandavarman" "Narasimha" "Narendra" "Netta" "Nettabhanja" "Padmanava" "Paramananda" "Prataparudra" 
+	"Pravaraja" "Prithivarman" "Prithivimaharaja" "Prithvibhanja" "Prithvidena" "Pulindasena" "Purushottama" "Rajabhanja" "Rajaraja" "Ramachandra" 
+	"Ramachandradeva" "Ranabhanja" "Ranabhita" "Ranadurjaya" "Ranga" "Rangabhanja" "Sailobhava" "Sainyabita" "Saktivarman" "Samantavarman" 
+	"Sambhuyasa" "Sankaravarman" "Sarabha" "Satru" "Satrubhanja" "Satyavarman" "Sila" "Silabhanja" "Sivananda" "Skandavarman" 
+	"Sobhanaraja" "Solyana" "Sudevaraja" "Suravala" "Teja" "Tejavarsha" "Tustikara" "Udaya" "Udayavarsha" "Udita" 
+	"Umavarman" "Unmattasimha" "Utidavarsha" "Vaaraharaja" "Vajrahasta" "Vidhyadhara" "Vidhyadharabhanja" "Vijaya" "Vinayaditya" "Vinita" 
+	"Vishakavarman" "Vrishadhvaja" "Vyaghraraja" }
+monarch_names = {
+	"Dhruvadevi #0" = -1
+	"Naravarman #0" = 1
+	"Maharani #0" = -1
+	"Harpal #0" = 1
+	"Prabhavati #0" = -1
+	"Dattadevi #0" = -1
+	"Ganapatideva #0" = 1
+	"Mahidevi #0" = -1
+	"Jhetpal #0" = 1
+	"Dhruvasvamini #0" = -1
+	"Sanyukta #0" = -1
+	"Hemavati #0" = -1
+	"Rangraj #4" = 39
+	"Dharmapala #0" = 1
+	"Singhapala #0" = 1
+	"Jagapala #0" = 1
+	"Narapala #0" = 1
+	"Sangramapala #0" = 1
+	"Kunthapala #0" = 1
+	"Bhaumapala #0" = 1
+	"Sukhapala #0" = 1
+	"Pukhapala #0" = 1
+	"Viramapala #0" = 1
+	"Jaitapala #0" = 1
+	"Vijayapala #0" = 1
+	"Puppadevi #0" = -1
+	"Kumaradevi #0" = -1
+	"Sonpala #0" = 1
+	"Damayanti #1" = -25
+	"Tamanpal #0" = 1
+	"Ksitipala #0" = 1
+	"Somalladevi #0" = -1
+	"Sultanpala #0" = 1
+	"Jagatpala #0" = 1
+	"Gopala #0" = 1
+	"Gopal #0" = 1
+	"Dehanagadevi #0" = -1
+	"Bhopal #0" = 1
+	"Bhuyikadevi #0" = -1
+	"Narpal #0" = 1
+	"Shrimitradevi #0" = -1
+	"Jhetpala #0" = 1
+	"Anangpal #0" = 1
+	"Shurapala #0" = 1
+	"Lakshman #0" = -1
+	"Prabhavatigupta #0" = -1
+	"Yasovarman #0" = 1
+	"Vigrahapala #0" = 1
+	"Akal #0" = -1
+	"Gandadeva #0" = 1
+	"Kailaspala #0" = 1
+	"Hirapala #0" = 1
+	"Kalayandevi #0" = -1
+	"Bhoj #0" = 1
+	"Mahipala #0" = 1
+	"Chand #0" = 1
+	"Nattadevi #0" = -1
+	"Prithipala #0" = 1
+	"Kakanvati #0" = -1
+	"Doth #0" = 1
+	"Dugarendra #0" = 1
+	"Kumarapala #0" = 1
+	"Ksemankaradeva #1" = 0
+	"Sivakaradeva #3" = 0
+	"Subhakaradeva #5" = 0
+	"Santikaradeva #3" = 0
+	"Tribhuvana Mahadevi #2" = -1
+	"Gauri #1" = -1
+	"Dandi Mahadevi #1" = -1
+	"Vakula Mahadevi #1" = -1
+	"Dharma Mahadevi #1" = -1
+	"Bhimaratha #1" = 0
+	"Dharmaratha #1" = 0
+	"Indranatha #1" = 0
+	"Yayati #1" = 0
+	"Udyotakesari #1" = 0
+	"Janmejaya #1" = 0
+	"Puranjaya #1" = 0
+	"Durjaya #1" = 0
+	"Kalaha #1" = 0
+	"Prasannamatra #1" = 0
+	"Gayada #1" = 0
+	"Nayapala #1" = 0
+	"Padam-Singh #1" = 0
+	"Anangabhima #0" = 0
+	"Anantasaktivarman #0" = 0
+	"Anantavarman #0" = 0
+	"Apsaradeva #0" = 0
+	"Arthapatiraja #0" = 0
+	"Ayasobhita #0" = 0
+	"Balabhadra #0" = 0
+	"Barjena #0" = 0
+	"Betta #0" = 0
+	"Bhanu #0" = 0
+	"Bhavadattavarman #0" = 0
+	"Bhimasena #0" = 0
+	"Bhramarbara #0" = 0
+	"Bhupendra #0" = 0
+	"Bhupendravarman #0" = 0
+	"Chandravarman #0" = 0
+	"Charamparaja #0" = 0
+	"Damodara #0" = 0
+	"Danai #0" = 0
+	"Danarnava #0" = 0
+	"Dayita #0" = 0
+	"Dayitavarman #0" = 0
+	"Devananda #0" = 0
+	"Devendravarman #0" = 0
+	"Dharmaraja #0" = 0
+	"Dharmarstha #0" = 0
+	"Dhruvananda #0" = 0
+	"Dibyasingha #0" = 0
+	"Digbhanja #0" = 0
+	"Durgaraja #0" = 0
+	"Durjayabhanja #0" = 0
+	"Gangadhara #0" = 0
+	"Gandhata #0" = 0
+	"Gangakavilasa #0" = 0
+	"Gopinatha #0" = 0
+	"Gunamaharnava #0" = 0
+	"Gunarnava #0" = 0
+	"Gundama #0" = 0
+	"Hamvira #0" = 0
+	"Harekrushna #0" = 0
+	"Hastivarman #0" = 0
+	"Hemantavarman #0" = 0
+	"Indravarman #0" = 0
+	"Jahangir #0" = 0
+	"Jayananda #0" = 0
+	"Jayaraja #0" = 0
+	"Jayasimha #0" = 0
+	"Jayasthambha #0" = 0
+	"Jayavarma #0" = 0
+	"Jayavarmadeva #0" = 0
+	"Kakharua #0" = 0
+	"Kalahastambha #0" = 0
+	"Kalasa #0" = 0
+	"Kalua #0" = 0
+	"Kalyankalasa #0" = 0
+	"Kamarnava #0" = 0
+	"Kanchana #0" = 0
+	"Kanchanastambha #0" = 0
+	"Kapilendra #0" = 0
+	"Kapilendradeva #0" = 0
+	"Karnadeva #0" = 0
+	"Khadaga #0" = 0
+	"Kotta #0" = 0
+	"Kottabhanja #0" = 0
+	"Kulastambha #0" = 0
+	"Lakshmikaradeva #0" = 0
+	"Madhavaraja #0" = 0
+	"Madhavavarman #0" = 0
+	"Madhukamarnava #0" = 0
+	"Mahendraditya #0" = 0
+	"Mahendravarman #0" = 0
+	"Mahinda #0" = 0
+	"Manamatra #0" = 0
+	"Matradhyarya #0" = 0
+	"Mukunda #0" = 0
+	"Nahusa #0" = 0
+	"Nandaprabhanjana #0" = 0
+	"Nandaprabhanjanavarman #0" = 0
+	"Nandavarman #0" = 0
+	"Narasimha #0" = 0
+	"Narendra #0" = 0
+	"Netta #0" = 0
+	"Nettabhanja #0" = 0
+	"Padmanava #0" = 0
+	"Paramananda #0" = 0
+	"Prataparudra #0" = 0
+	"Pravaraja #0" = 0
+	"Prithivarman #0" = 0
+	"Prithivimaharaja #0" = 0
+	"Prithvibhanja #0" = 0
+	"Prithvidena #0" = 0
+	"Pulindasena #0" = 0
+	"Purushottama #0" = 0
+	"Rajabhanja #0" = 0
+	"Rajaraja #0" = 0
+	"Ramachandra #0" = 0
+	"Ramachandradeva #0" = 0
+	"Ranabhanja #0" = 0
+	"Ranabhita #0" = 0
+	"Ranadurjaya #0" = 0
+	"Ranga #0" = 0
+	"Rangabhanja #0" = 0
+	"Sailobhava #0" = 0
+	"Sainyabita #0" = 0
+	"Saktivarman #0" = 0
+	"Samantavarman #0" = 0
+	"Sambhuyasa #0" = 0
+	"Sankaravarman #0" = 0
+	"Sarabha #0" = 0
+	"Satru #0" = 0
+	"Satrubhanja #0" = 0
+	"Satyavarman #0" = 0
+	"Sila #0" = 0
+	"Silabhanja #0" = 0
+	"Sivananda #0" = 0
+	"Skandavarman #0" = 0
+	"Sobhanaraja #0" = 0
+	"Solyana #0" = 0
+	"Sudevaraja #0" = 0
+	"Suravala #0" = 0
+	"Teja #0" = 0
+	"Tejavarsha #0" = 0
+	"Tustikara #0" = 0
+	"Udaya #0" = 0
+	"Udayavarsha #0" = 0
+	"Udita #0" = 0
+	"Umavarman #0" = 0
+	"Unmattasimha #0" = 0
+	"Utidavarsha #0" = 0
+	"Vaaraharaja #0" = 0
+	"Vajrahasta #0" = 0
+	"Vidhyadhara #0" = 0
+	"Vidhyadharabhanja #0" = 0
+	"Vijaya #0" = 0
+	"Vinayaditya #0" = 0
+	"Vinita #0" = 0
+	"Vishakavarman #0" = 0
+	"Vrishadhvaja #0" = 0
+	"Vyaghraraja #0" = 0
+}
+

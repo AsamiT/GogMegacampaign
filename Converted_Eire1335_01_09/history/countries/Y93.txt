@@ -1,0 +1,38 @@
+# Altishahr
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 710
+1404.12.26 = {
+	monarch = {
+		name = "Koza"
+		birth_date = 1403.1.22
+		dynasty = "Idiqut"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1420.5.27 = {
+	heir = {
+		name = "Kozel"
+		monarch_name = "Kozel II"
+		dynasty = "Idiqut"
+		birth_date = 1420.5.27
+		death_date = 1500.5.27
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 710
+	add_treasury = 71
+	add_prestige = 586
+}

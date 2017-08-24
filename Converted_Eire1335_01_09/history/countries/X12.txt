@@ -1,0 +1,23 @@
+# Vishnugopid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+capital = 2034
+1423.10.5 = {
+	monarch = {
+		name = "Abaji"
+		birth_date = 1402.8.3
+		dynasty = "Vishnugopid"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2034
+	add_treasury = 10
+	add_prestige = 239
+}

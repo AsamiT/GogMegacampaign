@@ -1,0 +1,21 @@
+# Ötüken
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = turkish
+religion = hinduism
+1403.11.10 = {
+	monarch = {
+		name = "Saru"
+		birth_date = 1396.4.4
+		dynasty = "Dilie"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 1
+	add_prestige = 297
+}

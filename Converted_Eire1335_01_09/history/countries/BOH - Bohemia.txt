@@ -1,0 +1,26 @@
+# Bohemia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 63
+1436.8.7 = {
+	monarch = {
+		name = "Ruprecht II"
+		birth_date = 1404.6.12
+		dynasty = "van Vlaanderen"
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 63
+	add_treasury = 8
+	add_prestige = 225
+	elector = yes
+}

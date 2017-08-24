@@ -1,0 +1,35 @@
+# Atrakid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 470
+1431.6.12 = {
+	monarch = {
+		name = "Atrak"
+		birth_date = 1378.6.1
+		dynasty = "Atrakid"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	heir = {
+		name = "Etrek"
+		monarch_name = "Etrek"
+		dynasty = "Atrakid"
+		birth_date = 1411.7.9
+		death_date = 1491.7.9
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 470
+	add_treasury = 13
+	add_prestige = 34
+}

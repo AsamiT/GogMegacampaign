@@ -1,0 +1,26 @@
+# Holstein
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 45
+1431.9.7 = {
+	monarch = {
+		name = "Steen"
+		birth_date = 1410.4.7
+		dynasty = "Reventlow"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 45
+	add_treasury = 44
+	add_prestige = 137
+}

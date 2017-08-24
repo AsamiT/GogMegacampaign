@@ -1,0 +1,25 @@
+# Racakonda
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = telegu
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 542
+1431.3.26 = {
+	monarch = {
+		name = "Ramachandra"
+		birth_date = 1419.12.4
+		dynasty = "Kakatiya"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 542
+	add_treasury = 49
+	add_prestige = 222
+}

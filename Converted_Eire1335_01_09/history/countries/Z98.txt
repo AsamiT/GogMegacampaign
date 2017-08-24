@@ -1,0 +1,25 @@
+# Arche ton Rhomaion
+government = administrative_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 151
+1438.5.20 = {
+	monarch = {
+		name = "Maurikios II"
+		birth_date = 1428.11.1
+		dynasty = "Doukas"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 0
+	add_prestige = 396
+}

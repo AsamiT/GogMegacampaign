@@ -1,0 +1,23 @@
+# Kimak
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = hinduism
+capital = 478
+1435.9.19 = {
+	monarch = {
+		name = "Bilge II"
+		birth_date = 1430.11.3
+		dynasty = "Turaid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 478
+	add_treasury = 0
+	add_prestige = 25
+}

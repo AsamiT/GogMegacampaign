@@ -1,0 +1,23 @@
+# Courland
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = orthodox
+capital = 39
+1432.10.26 = {
+	monarch = {
+		name = "Onni"
+		birth_date = 1424.7.8
+		dynasty = "Ingeri"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 39
+	add_treasury = 15
+	add_prestige = 3
+}

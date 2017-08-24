@@ -1,0 +1,25 @@
+# Mumu
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 375
+1440.10.7 = {
+	monarch = {
+		name = "Flaithbertach"
+		birth_date = 1419.8.16
+		dynasty = "de Crediton"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 375
+	add_treasury = 24
+	add_prestige = 24
+}

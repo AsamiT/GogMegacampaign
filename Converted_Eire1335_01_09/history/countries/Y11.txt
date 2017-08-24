@@ -1,0 +1,25 @@
+# Mosul
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 411
+1424.9.18 = {
+	monarch = {
+		name = "Kyros"
+		birth_date = 1400.8.10
+		dynasty = "of Baqofah"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 411
+	add_treasury = 43
+	add_prestige = 76
+}

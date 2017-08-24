@@ -1,0 +1,23 @@
+# Alger
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = sunni
+capital = 338
+1430.7.30 = {
+	monarch = {
+		name = "Bisi"
+		birth_date = 1423.11.4
+		dynasty = "Soumabid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 338
+	add_treasury = 69
+	add_prestige = 91
+}

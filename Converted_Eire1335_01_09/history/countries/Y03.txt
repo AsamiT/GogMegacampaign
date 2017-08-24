@@ -1,0 +1,23 @@
+# Edessa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 377
+1433.12.10 = {
+	monarch = {
+		name = "Tiberios II"
+		birth_date = 1418.7.11
+		dynasty = "Aulenos"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 377
+	add_treasury = 27
+	add_prestige = 99
+}

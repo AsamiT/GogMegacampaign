@@ -1,0 +1,25 @@
+# Izzid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 382
+1421.6.23 = {
+	monarch = {
+		name = "Dawlat"
+		birth_date = 1384.12.2
+		dynasty = "Izzid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 382
+	add_treasury = 33
+	add_prestige = 165
+}

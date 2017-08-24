@@ -1,0 +1,23 @@
+# Yaik
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+capital = 2420
+1425.9.29 = {
+	monarch = {
+		name = "Husun II"
+		birth_date = 1412.2.21
+		dynasty = "Mönkh-Erdene"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 2420
+	add_treasury = 1
+	add_prestige = -4
+}

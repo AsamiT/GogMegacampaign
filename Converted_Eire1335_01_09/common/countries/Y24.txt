@@ -1,0 +1,126 @@
+# Varangian Guard
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 180 180 180 }
+
+
+
+
+leader_names = {
+
+	"Alfgeir" "Buðli" "Aldedramn" "Guðmundr" "Folki" "Hroðulfr" "Dag" "Haukr" "Rögnvaldr" "Hakon" 
+	"Anders" "Markus" "Birger" "Hemming" "Sturla" "Bengt" "Falki" "Sigurðr" "Alfr" "Yngvar" 
+	"Ragnarr" "Gunnarr" "Abel" "Asger" "Benedikt" "Bjørn" "Bo" "Christian" "Christoffer" "Edvard" 
+	"Einar" "Erik" "Ernst" "Esben" "Fredrik" "Frode" "Glum" "Gotfred" "Gregers" "Grim" 
+	"Gunnar" "Hårik" "Halfdan" "Halvor" "Hans" "Harald" "Henrik" "Hjalmar" "Holger" "Ingolf" 
+	"Jørgen" "Jørn" "Jakob" "Jens" "Joakim" "Johann" "Karl" "Knud" "Kristian" "Leif" 
+	"Lennart" "Ludvig" "Malthe" "Mads" "Mikkel" "Mogens" "Niels" "Olav" "Oluf" "Peder" 
+	"Poul" "Pridbjørn" "Ragnar" "Ragnvald" "Rolf" "Rune" "Rørik" "Severin" "Sigfred" "Sigtryg" 
+	"Sigurd" "Sivard" "Steen" "Svend" "Thorvald" "Torben" "Torbjørn" "Tord" "Torgils" "Ture" 
+	"Ubbe" "Uffe" "Ulf" "Valdemar" "Valentin" "Vilfred" }
+monarch_names = {
+	"Alfgeir #1" = 0
+	"Buðli #1" = 0
+	"Aldedramn #1" = 0
+	"Guðmundr #1" = 0
+	"Folki #2" = 0
+	"Hroðulfr #1" = 0
+	"Dag #1" = 0
+	"Haukr #1" = 0
+	"Rögnvaldr #2" = 0
+	"Hakon #1" = 0
+	"Anders #1" = 0
+	"Markus #1" = 0
+	"Birger #1" = 0
+	"Hemming #1" = 0
+	"Sturla #1" = 0
+	"Bengt #1" = 0
+	"Falki #1" = 0
+	"Sigurðr #1" = 0
+	"Alfr #1" = 0
+	"Yngvar #2" = 0
+	"Ragnarr #1" = 0
+	"Gunnarr #1" = 0
+	"Abel #0" = 0
+	"Asger #0" = 0
+	"Benedikt #0" = 0
+	"Bjørn #0" = 0
+	"Bo #0" = 0
+	"Christian #0" = 0
+	"Christoffer #0" = 0
+	"Edvard #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Ernst #0" = 0
+	"Esben #0" = 0
+	"Fredrik #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gotfred #0" = 0
+	"Gregers #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Hårik #0" = 0
+	"Halfdan #0" = 0
+	"Halvor #0" = 0
+	"Hans #0" = 0
+	"Harald #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holger #0" = 0
+	"Ingolf #0" = 0
+	"Jørgen #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Joakim #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Knud #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Malthe #0" = 0
+	"Mads #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rune #0" = 0
+	"Rørik #0" = 0
+	"Severin #0" = 0
+	"Sigfred #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Sivard #0" = 0
+	"Steen #0" = 0
+	"Svend #0" = 0
+	"Thorvald #0" = 0
+	"Torben #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Torgils #0" = 0
+	"Ture #0" = 0
+	"Ubbe #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Valentin #0" = 0
+	"Vilfred #0" = 0
+
+
+	"Iliana #0" = -1
+	"Ulfhildr #0" = -1
+	"Sara #0" = -1
+	"Bothildr #0" = -1
+	"Gyða #0" = -1
+}
+

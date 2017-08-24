@@ -1,0 +1,35 @@
+# Chuvash
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 2423
+1439.7.16 = {
+	monarch = {
+		name = "Shoksha"
+		birth_date = 1382.12.10
+		dynasty = "of  Chuvash"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Malyaka"
+		monarch_name = "Malyaka"
+		dynasty = "NO_DYNASTY"
+		birth_date = 1384.7.23
+		death_date = 1464.7.23
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2423
+	add_treasury = 45
+	add_prestige = 30
+}

@@ -1,0 +1,25 @@
+# Ungvar
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 4236
+1405.4.2 = {
+	monarch = {
+		name = "Endre"
+		birth_date = 1397.8.17
+		dynasty = "Aba"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 4236
+	add_treasury = 15
+	add_prestige = 362
+}

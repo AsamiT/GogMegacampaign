@@ -1,0 +1,36 @@
+# Eisenburg
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 135
+1435.8.26 = {
+	monarch = {
+		name = "Nikolaus"
+		birth_date = 1424.8.27
+		dynasty = "von Heldrungen"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Sofie"
+		monarch_name = "Sofie"
+		dynasty = "von Heldrungen"
+		birth_date = 1426.10.27
+		death_date = 1506.10.27
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 135
+	add_treasury = 15
+	add_prestige = 15
+}

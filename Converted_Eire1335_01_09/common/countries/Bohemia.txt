@@ -1,0 +1,270 @@
+# Bohemia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 176 110 32 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Eginolf" "Folkmar" "Kuno" "Ruprecht" "Günther" "Ekbert" "Eufemia" "Reinhold" "Liederik" "Ingelram" 
+	"Odoaker" "Karel" "Boudewijn" "Rudolf" "Gunhilde" "Arnulf" "Elstrude" "Hildegard" "Eudes" "Judith" 
+	"Agnes" "Robrecht" "Adele" "Mathilde" "Wenna" "Elisa" "Hugo" "Margareta" "Nicolas" "Irmgard" 
+	"Adriaen" "Ermingarde" "Helena" "Godila" "Klara" "Thietmar" "Johanna" "Imagina" "Reynilde" "Waldemar" 
+	"Jürgen" "Juliana" "Cecily" "Ernst" "Binhilde" "Wolfram" "Jakob" "Richwara" "Sofie" "Romilda" 
+	"Siegmund" "Gertrude" "Adelinde" "Markward" "Adam" "Henrike" "Georg" "Ingeltrude" "Adolf" "Oda" 
+	"Katharina" "Helferich" "Ademar" "Ekkehard" "Landolf" "Walpurga" "Adalbero" "Konrád" "Svatobor" "Mikulás" 
+	"Simon" "Hermann" "Ermengard" "Werner" "Gerhild" "Adalbert" "Adalhard" "Alarich" "Alberich" "Albrecht" 
+	"Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" "Arnold" "Augustin" "Baldarich" "Baldewin" 
+	"Baldomar" "Baldur" "Berengar" "Bernhard" "Berthold" "Burchard" "Christopher" "Dieter" "Dietmar" "Dietpold" 
+	"Dietrich" "Dietwin" "Eberhard" "Ehrenfried" "Emelrich" "Emich" "Emmerich" "Engelbert" "Erich" "Ferdinand" 
+	"Filibert" "Folkhard" "Franz" "Friedrich" "Gautselin" "Gebhard" "Gerhard" "Gerlach" "Giselbert" "Gottfried" 
+	"Gotthard" "Gottschalk" "Gotzelo" "Guntram" "Gunzelin" "Hans" "Hartmann" "Hartwig" "Heinrich" "Heribert" 
+	"Hesso" "Humbert" "Hupold" "Johann" "Karl" "Karlmann" "Kaspar" "Konrad" "Lambert" "Leopold" 
+	"Liudolf" "Liutbert" "Liutbrand" "Liutpold" "Lothar" "Ludolf" "Ludwig" "Lutbert" "Magnus" "Manegold" 
+	"Manfred" "Martin" "Matthias" "Meinhard" "Michael" "Nikolaus" "Norbert" "Otto" "Peter" "Philipp" 
+	"Poppo" "Radbot" "Reinhard" "Rutger" "Siegfried" "Sieghard" "Sigismund" "Stefan" "Theodorich" "Thomas" 
+	"Udalrich" "Ulrich" "Viktor" "Walram" "Walther" "Welf" "Wenzel" "Wido" "Wigerich" "Wilhelm" 
+	"Wolfgang" }
+monarch_names = {
+	"Eginolf #1" = 24
+	"Folkmar #0" = 1
+	"Kuno #0" = 1
+	"Ruprecht #2" = 45
+	"Günther #0" = 1
+	"Ekbert #0" = 1
+	"Eufemia #0" = -1
+	"Reinhold #0" = 1
+	"Liederik #0" = 1
+	"Ingelram #0" = 1
+	"Odoaker #0" = 1
+	"Karel #0" = 1
+	"Boudewijn #0" = 1
+	"Rudolf #0" = 1
+	"Gunhilde #0" = -1
+	"Arnulf #0" = 1
+	"Elstrude #0" = -1
+	"Hildegard #0" = -1
+	"Eudes #0" = 1
+	"Judith #0" = -1
+	"Agnes #0" = -1
+	"Robrecht #0" = 1
+	"Adele #0" = -1
+	"Mathilde #0" = -1
+	"Wenna #0" = -1
+	"Elisa #0" = -1
+	"Hugo #0" = 1
+	"Margareta #0" = -1
+	"Nicolas #0" = 1
+	"Irmgard #0" = -1
+	"Adriaen #0" = 1
+	"Ermingarde #0" = -1
+	"Helena #0" = -1
+	"Godila #0" = -1
+	"Klara #0" = -1
+	"Thietmar #0" = 1
+	"Johanna #0" = -1
+	"Imagina #0" = -1
+	"Reynilde #0" = -1
+	"Waldemar #0" = 1
+	"Jürgen #0" = 1
+	"Juliana #0" = -1
+	"Cecily #0" = -1
+	"Ernst #1" = 18
+	"Binhilde #0" = -1
+	"Wolfram #0" = 1
+	"Jakob #0" = 1
+	"Richwara #0" = -1
+	"Sofie #0" = -1
+	"Romilda #0" = -1
+	"Siegmund #0" = 1
+	"Gertrude #0" = -1
+	"Adelinde #0" = -1
+	"Markward #0" = 1
+	"Adam #0" = 1
+	"Henrike #0" = -1
+	"Georg #0" = 1
+	"Ingeltrude #0" = -1
+	"Adolf #0" = 1
+	"Oda #1" = -19
+	"Katharina #0" = -1
+	"Helferich #0" = 1
+	"Ademar #0" = 1
+	"Ekkehard #0" = 1
+	"Landolf #0" = 1
+	"Walpurga #0" = -1
+	"Adalbero #0" = 1
+	"Konrád #1" = 0
+	"Svatobor #1" = 0
+	"Mikulás #1" = 0
+	"Simon #1" = 0
+	"Hermann #1" = 0
+	"Ermengard #1" = -1
+	"Werner #1" = 0
+	"Gerhild #1" = -1
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Burchard #0" = 0
+	"Christopher #0" = 0
+	"Dieter #0" = 0
+	"Dietmar #0" = 0
+	"Dietpold #0" = 0
+	"Dietrich #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Ehrenfried #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Hans #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Heinrich #0" = 0
+	"Heribert #0" = 0
+	"Hesso #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Kaspar #0" = 0
+	"Konrad #0" = 0
+	"Lambert #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Lutbert #0" = 0
+	"Magnus #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Otto #0" = 0
+	"Peter #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Sigismund #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thomas #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Wido #0" = 0
+	"Wigerich #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+}
+ship_names = {
+	"Svatý Vaclav"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Mikulás"
+	"Svatý Jirí"
+	"Svatá Anezká"
+	"Nejsvetejsí Trojice"
+	"Král Karel"
+	"Král Boleslav"
+	"Král Premysl"
+	"Panna Maria Vitezná"
+	"Jan Hus"
+	"Jan Zizka"
+	"Prokop Holý"
+	"Kníze Bretislav"
+	"Premysl Orac"
+	Ctirad
+	Cechy
+	Morava
+	Libuse
+	Odvázný
+	Neporazitelný
+	Rychlý
+	Bystrý
+	Orel
+	Sokol
+	Slezsko
+	Sipka
+	Hvezda
+}
+

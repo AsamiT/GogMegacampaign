@@ -1,0 +1,23 @@
+# Ugra
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 1755
+1398.6.22 = {
+	monarch = {
+		name = "Daniil"
+		birth_date = 1394.1.4
+		dynasty = "Stepanovich"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1755
+	add_treasury = 16
+	add_prestige = 231
+}

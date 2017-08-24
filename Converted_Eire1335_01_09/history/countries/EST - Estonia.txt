@@ -1,0 +1,25 @@
+# Estonia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 33
+1419.7.29 = {
+	monarch = {
+		name = "Uku II"
+		birth_date = 1417.1.3
+		dynasty = "Virumaa"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 33
+	add_treasury = 5
+	add_prestige = 91
+}

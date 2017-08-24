@@ -1,0 +1,37 @@
+# Kuni
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1082
+1417.11.4 = {
+	monarch = {
+		name = "Asep"
+		birth_date = 1395.12.2
+		dynasty = "Törtogulid"
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Itlar"
+		monarch_name = "Itlar II"
+		dynasty = "Törtogulid"
+		birth_date = 1417.3.13
+		death_date = 1497.3.13
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1082
+	add_treasury = 258
+	add_prestige = 72
+}

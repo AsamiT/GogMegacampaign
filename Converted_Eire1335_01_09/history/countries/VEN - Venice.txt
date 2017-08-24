@@ -1,0 +1,26 @@
+# Venice
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 112
+1443.9.2 = {
+	monarch = {
+		name = "Aldrich"
+		birth_date = 1407.12.4
+		dynasty = "von Trier"
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 112
+	add_treasury = 25
+	add_prestige = 46
+	elector = no
+}

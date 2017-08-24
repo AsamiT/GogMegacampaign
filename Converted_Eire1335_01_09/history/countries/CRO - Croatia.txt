@@ -1,0 +1,26 @@
+# Croatia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1826
+1443.8.20 = {
+	monarch = {
+		name = "Karlmann"
+		birth_date = 1409.9.13
+		dynasty = "von Komburg"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1826
+	add_treasury = 22
+	add_prestige = 106
+	elector = no
+}

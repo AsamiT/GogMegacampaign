@@ -1,0 +1,24 @@
+# Transylvania
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = orthodox
+capital = 157
+1423.12.28 = {
+	monarch = {
+		name = "Józsa"
+		birth_date = 1399.3.6
+		dynasty = "Dõry"
+		female = yes
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 157
+	add_treasury = -9
+	add_prestige = 110
+}

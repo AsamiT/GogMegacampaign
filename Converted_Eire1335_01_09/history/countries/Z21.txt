@@ -1,0 +1,23 @@
+# The Isles
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = orthodox
+capital = 252
+1422.10.13 = {
+	monarch = {
+		name = "Adgar"
+		birth_date = 1394.7.1
+		dynasty = "Tegaingl"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 252
+	add_treasury = 18
+	add_prestige = 219
+}

@@ -1,0 +1,26 @@
+# Altay
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 713
+1418.12.26 = {
+	monarch = {
+		name = "Kopti II"
+		birth_date = 1395.10.26
+		dynasty = "Kuntuvdi"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 713
+	add_treasury = 18
+	add_prestige = 248
+}

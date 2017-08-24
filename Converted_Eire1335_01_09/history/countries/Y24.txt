@@ -1,0 +1,25 @@
+# Varangian Guard
+government = oligarchic_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1
+1437.2.6 = {
+	monarch = {
+		name = "Gunnarr"
+		birth_date = 1376.1.26
+		dynasty = "af  Uppland"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1
+	add_treasury = 595
+	add_prestige = 75
+}

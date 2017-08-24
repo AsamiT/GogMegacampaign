@@ -1,0 +1,25 @@
+# Laigin
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 374
+1444.1.9 = {
+	monarch = {
+		name = "Faílbe"
+		birth_date = 1411.5.9
+		dynasty = "Ó Braonain"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 374
+	add_treasury = 28
+	add_prestige = 31
+}

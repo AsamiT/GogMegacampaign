@@ -1,0 +1,27 @@
+# Peitieus
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = catholic
+clear_scripted_personalities = yes
+capital = 180
+1432.9.2 = {
+	monarch = {
+		name = "Mahaut"
+		birth_date = 1425.10.21
+		dynasty = "d'Éolienne"
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 180
+	add_treasury = 42
+	add_prestige = 40
+}

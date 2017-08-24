@@ -1,0 +1,24 @@
+# Sicily
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 142
+1409.6.21 = {
+	monarch = {
+		name = "Epiphania"
+		birth_date = 1400.11.13
+		dynasty = "Kontostephanos"
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 142
+	add_treasury = 104
+	add_prestige = 278
+}

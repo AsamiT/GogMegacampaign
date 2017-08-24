@@ -1,0 +1,35 @@
+# Uglich
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 294
+1437.5.11 = {
+	monarch = {
+		name = "Viacheslav"
+		birth_date = 1413.11.28
+		dynasty = "Sobakin"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Yeremey"
+		monarch_name = "Yeremey"
+		dynasty = "Sobakin"
+		birth_date = 1416.2.28
+		death_date = 1496.2.28
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 294
+	add_treasury = 36
+	add_prestige = 108
+}

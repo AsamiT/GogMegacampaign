@@ -1,0 +1,23 @@
+# Anatolia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = cathar
+capital = 324
+1440.7.3 = {
+	monarch = {
+		name = "Yeshayah"
+		birth_date = 1423.1.12
+		dynasty = "of Isauria"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 324
+	add_treasury = 69
+	add_prestige = 68
+}

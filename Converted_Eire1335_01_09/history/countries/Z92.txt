@@ -1,0 +1,25 @@
+# Gandaradityid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 521
+1442.7.12 = {
+	monarch = {
+		name = "Gandaraditya"
+		birth_date = 1395.11.21
+		dynasty = "Gandaradityid"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 521
+	add_treasury = 589
+	add_prestige = 250
+}

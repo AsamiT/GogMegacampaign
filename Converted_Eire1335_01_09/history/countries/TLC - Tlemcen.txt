@@ -1,0 +1,25 @@
+# Tlemcen
+government = administrative_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 337
+1436.7.15 = {
+	monarch = {
+		name = "Rorgon"
+		birth_date = 1394.8.6
+		dynasty = "de Salins"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 337
+	add_treasury = 124
+	add_prestige = 93
+}

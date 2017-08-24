@@ -1,0 +1,26 @@
+# Maru
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 514
+1432.3.23 = {
+	monarch = {
+		name = "Vasudeva"
+		birth_date = 1400.4.21
+		dynasty = "Chauhan"
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 514
+	add_treasury = 32
+	add_prestige = 603
+}

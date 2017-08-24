@@ -1,0 +1,23 @@
+# Yaminid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+capital = 365
+1426.3.5 = {
+	monarch = {
+		name = "Nuraddin"
+		birth_date = 1425.6.9
+		dynasty = "Yaminid"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 365
+	add_treasury = 27
+	add_prestige = 60
+}

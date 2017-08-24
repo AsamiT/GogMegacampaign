@@ -1,0 +1,243 @@
+# Smolensk
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 226 241 182 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Botokhui" "Töregene" "Alan" "Chagur" "Gurbesu" "Khogaghchin" "Yedi" "Al-Alta" "Alagh" "Khorijin" 
+	"Khutulun" "Nomolun" "Yesui" "Inalchi" "Barghujin" "Bodonchar" "Chakha" "Khudu" "Khulan" "Morokha" 
+	"Ebegei" "Yesugun" "Borte" "Belgunutei" "Hogelun" "Khojin" "Arasen" "Oljaitu" "Daritai" "Checheyigen" 
+	"Khugurchin" "Berke" "Stanislav" "Igor" "Velimir" "Gostomysl" "Vladimir" "Sviatopolk" "Yaroslav" "Viacheslav" 
+	"Iziaslav" "Mstislav" "Vsevolod" "Vasilko" "Putiata" "Konstantin" "Vseslav" "Svetozar" "Voislav" "Juvage" 
+	"Azuolas" "Svitrigaila" "Temujin" "Jochi" "Kogsegu" "Abagha" "Achigh" "Aguchu" "Ajai" "Ajinai" 
+	"Akhutai" "Alchi" "Alchidai" "Altan" "Ambaghai" "Arkhai" "Babur" "Badai" "Bagaridai" "Bala" 
+	"Bartan" "Batu" "Bedugun" "Begter" "Belgutei" "Bilge" "Bogen" "Bogorchu" "Bolkhadar" "Borjigidai" 
+	"Boroghul" "Bughu" "Bugidai" "Bugunutei" "Bujeg" "Bukha" "Bulughan" "Buri" "Burkhan" "Burundai" 
+	"Chagatai" "Chaghagan" "Chanai" "Chigu" "Chidukhul" "Chilagun" "Chiledu" "Chormakhan" "Chulgetei" "Dagun" 
+	"Dayir" "Dodai" "Duua" "Eljigedei" "Ghazan" "Ghunan" "Guchu" "Gughlug" "Guyug" "Harghasun" 
+	"Horkhudagh" "Hulegu" "Husun" "Inancha" "Iturgen" "Jajiradai" "Jamugha" "Jebe" "Jurchedei" "Khabichi" 
+	"Khachi" "Khachigun" "Khadagh" "Khagatai" "Khaidu" "Khal" "Khorchi" "Khorilartai" "Khubilai" "Khutula" 
+	"Khuyildar" "Kokochu" "Megetu" "Megujin" "Menggei" "Mongke" "Munglig" "Nakhu" "Narin" "Nayaga" 
+	"Nogai" "Odchigin" "Ogodei" "Okhotur" "Oronartai" "Shiraghul" "Shirgugetu" "Subetei" "Suyiketu" "Taghai" 
+	"Tamachi" "Targhutai" "Temuge" "Temur" "Todogen" "Toghoril" "Toghtoga" "Tokhtamis" "Tolui" "Torolchi" 
+	"Tumen" "Uighurtai" "Ukhuna" "Usun" "Yegu" "Yeke" "Yesugei" "Yesunge" "Yokhunan" "Kadan" 
+	"Godan" }
+monarch_names = {
+	"Botokhui #0" = -1
+	"Töregene #0" = -1
+	"Alan #0" = -1
+	"Chagur #0" = -1
+	"Gurbesu #0" = -1
+	"Khogaghchin #0" = -1
+	"Yedi #1" = 21
+	"Al-Alta #0" = -1
+	"Alagh #0" = 1
+	"Khorijin #0" = -1
+	"Khutulun #0" = -1
+	"Nomolun #0" = -1
+	"Yesui #0" = -1
+	"Inalchi #0" = 1
+	"Barghujin #1" = 21
+	"Bodonchar #0" = 1
+	"Chakha #0" = -1
+	"Khudu #1" = 18
+	"Khulan #0" = -1
+	"Morokha #1" = 18
+	"Ebegei #0" = -1
+	"Yesugun #0" = -1
+	"Borte #0" = -1
+	"Belgunutei #0" = 1
+	"Hogelun #0" = -1
+	"Khojin #0" = -1
+	"Arasen #0" = 1
+	"Oljaitu #1" = 18
+	"Daritai #1" = 18
+	"Checheyigen #0" = -1
+	"Khugurchin #0" = -1
+	"Berke #1" = 18
+	"Stanislav #3" = 0
+	"Igor #2" = 0
+	"Velimir #1" = 0
+	"Gostomysl #1" = 0
+	"Vladimir #2" = 0
+	"Sviatopolk #1" = 0
+	"Yaroslav #2" = 0
+	"Viacheslav #1" = 0
+	"Iziaslav #1" = 0
+	"Mstislav #1" = 0
+	"Vsevolod #2" = 0
+	"Vasilko #1" = 0
+	"Putiata #2" = 0
+	"Konstantin #1" = 0
+	"Vseslav #1" = 0
+	"Svetozar #1" = 0
+	"Voislav #1" = 0
+	"Juvage #1" = 0
+	"Azuolas #1" = 0
+	"Svitrigaila #1" = 0
+	"Temujin #1" = 0
+	"Jochi #1" = 0
+	"Kogsegu #1" = 0
+	"Abagha #0" = 0
+	"Achigh #0" = 0
+	"Aguchu #0" = 0
+	"Ajai #0" = 0
+	"Ajinai #0" = 0
+	"Akhutai #0" = 0
+	"Alchi #0" = 0
+	"Alchidai #0" = 0
+	"Altan #0" = 0
+	"Ambaghai #0" = 0
+	"Arkhai #0" = 0
+	"Babur #0" = 0
+	"Badai #0" = 0
+	"Bagaridai #0" = 0
+	"Bala #0" = 0
+	"Bartan #0" = 0
+	"Batu #0" = 0
+	"Bedugun #0" = 0
+	"Begter #0" = 0
+	"Belgutei #0" = 0
+	"Bilge #0" = 0
+	"Bogen #0" = 0
+	"Bogorchu #0" = 0
+	"Bolkhadar #0" = 0
+	"Borjigidai #0" = 0
+	"Boroghul #0" = 0
+	"Bughu #0" = 0
+	"Bugidai #0" = 0
+	"Bugunutei #0" = 0
+	"Bujeg #0" = 0
+	"Bukha #0" = 0
+	"Bulughan #0" = 0
+	"Buri #0" = 0
+	"Burkhan #0" = 0
+	"Burundai #0" = 0
+	"Chagatai #0" = 0
+	"Chaghagan #0" = 0
+	"Chanai #0" = 0
+	"Chigu #0" = 0
+	"Chidukhul #0" = 0
+	"Chilagun #0" = 0
+	"Chiledu #0" = 0
+	"Chormakhan #0" = 0
+	"Chulgetei #0" = 0
+	"Dagun #0" = 0
+	"Dayir #0" = 0
+	"Dodai #0" = 0
+	"Duua #0" = 0
+	"Eljigedei #0" = 0
+	"Ghazan #0" = 0
+	"Ghunan #0" = 0
+	"Guchu #0" = 0
+	"Gughlug #0" = 0
+	"Guyug #0" = 0
+	"Harghasun #0" = 0
+	"Horkhudagh #0" = 0
+	"Hulegu #0" = 0
+	"Husun #0" = 0
+	"Inancha #0" = 0
+	"Iturgen #0" = 0
+	"Jajiradai #0" = 0
+	"Jamugha #0" = 0
+	"Jebe #0" = 0
+	"Jurchedei #0" = 0
+	"Khabichi #0" = 0
+	"Khachi #0" = 0
+	"Khachigun #0" = 0
+	"Khadagh #0" = 0
+	"Khagatai #0" = 0
+	"Khaidu #0" = 0
+	"Khal #0" = 0
+	"Khorchi #0" = 0
+	"Khorilartai #0" = 0
+	"Khubilai #0" = 0
+	"Khutula #0" = 0
+	"Khuyildar #0" = 0
+	"Kokochu #0" = 0
+	"Megetu #0" = 0
+	"Megujin #0" = 0
+	"Menggei #0" = 0
+	"Mongke #0" = 0
+	"Munglig #0" = 0
+	"Nakhu #0" = 0
+	"Narin #0" = 0
+	"Nayaga #0" = 0
+	"Nogai #0" = 0
+	"Odchigin #0" = 0
+	"Ogodei #0" = 0
+	"Okhotur #0" = 0
+	"Oronartai #0" = 0
+	"Shiraghul #0" = 0
+	"Shirgugetu #0" = 0
+	"Subetei #0" = 0
+	"Suyiketu #0" = 0
+	"Taghai #0" = 0
+	"Tamachi #0" = 0
+	"Targhutai #0" = 0
+	"Temuge #0" = 0
+	"Temur #0" = 0
+	"Todogen #0" = 0
+	"Toghoril #0" = 0
+	"Toghtoga #0" = 0
+	"Tokhtamis #0" = 0
+	"Tolui #0" = 0
+	"Torolchi #0" = 0
+	"Tumen #0" = 0
+	"Uighurtai #0" = 0
+	"Ukhuna #0" = 0
+	"Usun #0" = 0
+	"Yegu #0" = 0
+	"Yeke #0" = 0
+	"Yesugei #0" = 0
+	"Yesunge #0" = 0
+	"Yokhunan #0" = 0
+	"Kadan #0" = 0
+	"Godan #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

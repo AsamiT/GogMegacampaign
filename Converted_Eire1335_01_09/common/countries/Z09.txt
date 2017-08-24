@@ -1,0 +1,153 @@
+# Jylland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 224 74 74 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Sofie" "Margrethe" "Anna" "Gudrun" "Christian" "Gunnar" "Eirikr" "Bagsecg" "Harald" "Signe" 
+	"Johanne" "Torgils" "Tord" "Edvard" "Grethe" "Johann" "Benedikt" "Bo" "Christina" "Hårik" 
+	"Steen" "Agnethe" "Francés" "Mads" "Abel" "Anders" "Asger" "Bjørn" "Christoffer" "Einar" 
+	"Erik" "Ernst" "Esben" "Fredrik" "Frode" "Glum" "Gotfred" "Gregers" "Grim" "Halfdan" 
+	"Halvor" "Hans" "Hemming" "Henrik" "Hjalmar" "Holger" "Ingolf" "Jørgen" "Jørn" "Jakob" 
+	"Jens" "Joakim" "Karl" "Knud" "Kristian" "Leif" "Lennart" "Ludvig" "Malthe" "Mikkel" 
+	"Mogens" "Niels" "Olav" "Oluf" "Peder" "Poul" "Pridbjørn" "Ragnar" "Ragnvald" "Rolf" 
+	"Rune" "Rørik" "Severin" "Sigfred" "Sigtryg" "Sigurd" "Sivard" "Svend" "Thorvald" "Torben" 
+	"Torbjørn" "Ture" "Ubbe" "Uffe" "Ulf" "Valdemar" "Valentin" "Vilfred" "Yngvar" }
+monarch_names = {
+	"Sofie #0" = -1
+	"Margrethe #0" = -1
+	"Anna #0" = -1
+	"Gudrun #2" = -19
+	"Christian #0" = 1
+	"Gunnar #1" = 18
+	"Eirikr #1" = 0
+	"Bagsecg #1" = 0
+	"Harald #2" = 0
+	"Signe #1" = -1
+	"Johanne #1" = -1
+	"Torgils #1" = 0
+	"Tord #1" = 0
+	"Edvard #1" = 0
+	"Grethe #1" = -1
+	"Johann #1" = 0
+	"Benedikt #1" = 0
+	"Bo #1" = 0
+	"Christina #1" = -1
+	"Hårik #2" = 0
+	"Steen #1" = 0
+	"Agnethe #1" = -1
+	"Francés #1" = 0
+	"Mads #1" = 0
+	"Abel #0" = 0
+	"Anders #0" = 0
+	"Asger #0" = 0
+	"Bjørn #0" = 0
+	"Christoffer #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Ernst #0" = 0
+	"Esben #0" = 0
+	"Fredrik #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gotfred #0" = 0
+	"Gregers #0" = 0
+	"Grim #0" = 0
+	"Halfdan #0" = 0
+	"Halvor #0" = 0
+	"Hans #0" = 0
+	"Hemming #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holger #0" = 0
+	"Ingolf #0" = 0
+	"Jørgen #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Joakim #0" = 0
+	"Karl #0" = 0
+	"Knud #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Malthe #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rune #0" = 0
+	"Rørik #0" = 0
+	"Severin #0" = 0
+	"Sigfred #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Sivard #0" = 0
+	"Svend #0" = 0
+	"Thorvald #0" = 0
+	"Torben #0" = 0
+	"Torbjørn #0" = 0
+	"Ture #0" = 0
+	"Ubbe #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Valentin #0" = 0
+	"Vilfred #0" = 0
+	"Yngvar #0" = 0
+}
+ship_names = {
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+}
+

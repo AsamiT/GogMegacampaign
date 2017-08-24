@@ -1,0 +1,25 @@
+# Bahri
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 1227
+1439.5.14 = {
+	monarch = {
+		name = "Jalaaladdin II"
+		birth_date = 1416.12.21
+		dynasty = "Bahri"
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 13
+	add_prestige = 176
+}

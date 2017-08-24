@@ -1,0 +1,150 @@
+# Yaroslavl
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 178 192 134 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Verkhoslava" "Viacheslav" "Yaroslav" "Marina" "Yaropolk" "Fedot" "Terentiy" "Voislav" "Gavriil" "Vyshata" 
+	"Yeremey" "Vsevolod" "Putiata" "Nikita" "Yelizaveta" "Maria" "Gleb" "Davyd" "Rogvolod" "Svetozar" 
+	"Pereyaslava" "Afanasiy" "Rodislav" "Zabava" "Stepan" "Yekaterina" "Vladimir" "Vysheslav" "Sviatoslava" "Veleslava" 
+	"Darya" "Viacheslava" "Praskovya" "Dobrava" "Grigoriy" "Olena" "Briachislav" "Gradislava" "Tatyana" "Dmitriy" 
+	"Surt" "Kardaz" "Nishkepaz" "Tyueykezhut" "Alexandr" "Alexei" "Andrei" "Boris" "Daniil" "Demid" 
+	"Dobrynia" "Feodor" "Iakov" "Igor" "Iliya" "Ingvar" "Ivan" "Iziaslav" "Kirill" "Konstantin" 
+	"Koz'ma" "Lev" "Matfei" "Mikhail" "Mitrofan" "Mstislav" "Oleg" "Pavel" "Radoslav" "Roman" 
+	"Rostislav" "Ruslan" "Stanislav" "Sudislav" "Sviatopolk" "Sviatoslav" "Trifon" "Vasiliy" "Vasilko" "Vladislav" 
+	"Volodar" "Vseslav" "Yefimiy" "Yelisey" "Yemelyan" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Verkhoslava #0" = -1
+	"Viacheslav #0" = 1
+	"Yaroslav #0" = 1
+	"Marina #0" = -1
+	"Yaropolk #1" = 21
+	"Fedot #1" = 24
+	"Terentiy #0" = 1
+	"Voislav #0" = 1
+	"Gavriil #0" = 1
+	"Vyshata #0" = 1
+	"Yeremey #0" = 1
+	"Vsevolod #0" = 1
+	"Putiata #0" = 1
+	"Nikita #0" = 1
+	"Yelizaveta #0" = -1
+	"Maria #0" = -1
+	"Gleb #0" = 1
+	"Davyd #0" = 1
+	"Rogvolod #0" = 1
+	"Svetozar #0" = 1
+	"Pereyaslava #0" = -1
+	"Afanasiy #0" = 1
+	"Rodislav #1" = 18
+	"Zabava #0" = -1
+	"Stepan #0" = 1
+	"Yekaterina #0" = -1
+	"Vladimir #0" = 1
+	"Vysheslav #0" = 1
+	"Sviatoslava #0" = -1
+	"Veleslava #0" = -1
+	"Darya #0" = -1
+	"Viacheslava #0" = -1
+	"Praskovya #0" = -1
+	"Dobrava #0" = -1
+	"Grigoriy #0" = 1
+	"Olena #0" = -1
+	"Briachislav #0" = 1
+	"Gradislava #0" = -1
+	"Tatyana #0" = -1
+	"Dmitriy #0" = 1
+	"Surt #1" = 0
+	"Kardaz #1" = 0
+	"Nishkepaz #1" = 0
+	"Tyueykezhut #1" = 0
+	"Alexandr #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Daniil #0" = 0
+	"Demid #0" = 0
+	"Dobrynia #0" = 0
+	"Feodor #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Radoslav #0" = 0
+	"Roman #0" = 0
+	"Rostislav #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Sudislav #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vasilko #0" = 0
+	"Vladislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

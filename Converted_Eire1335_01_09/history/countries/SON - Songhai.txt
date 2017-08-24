@@ -1,0 +1,26 @@
+# Songhay
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1142
+1400.8.1 = {
+	monarch = {
+		name = "Kalabi"
+		birth_date = 1395.11.19
+		dynasty = "Buraid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1142
+	add_treasury = 16
+	add_prestige = 125
+}

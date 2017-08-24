@@ -1,0 +1,26 @@
+# Paramara
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 526
+1423.11.11 = {
+	monarch = {
+		name = "Dugarendra"
+		birth_date = 1417.6.15
+		dynasty = "Paramara"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = 8
+	add_prestige = 240
+}

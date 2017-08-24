@@ -1,0 +1,10 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "Torda" "Ramberti" "Pepoli" "Cambiano" "da Dovara" "Pettiti" "Pio" "Pirovano" "Zaccaria" "della Suburra" "di Brunforte" "Gonzaga" "da Morrone" "Migliorati" "Valente" "Pellegrino" "Tittoni" "di lombardia" "di Corsica" "di Benevento" "di Messina" "di Agrigento" "di Lecce" "di Bozen" "di Maghnia" "di Oujda" "di Auriate" "Biancolaccio" "di Melilla" "di Marrakech" "di Essaouira" "di Pavia" "di Acqui" "di Vicopisano" "di Livorno" "di Faenza" "di Massa" "di Alfonsine" "Scrofegni" "di Voghera" "di Susa" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { }
+	}
+}

@@ -1,0 +1,204 @@
+# Wallachia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 238 192 69 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Alexeia" "Zoe" "Costin" "Artemios" "Niketas" "Maximos" "Georgia" "Gacco" "Laidulf" "Unigild" 
+	"Vacho" "Gaila" "Adelgrima" "Wilgefortis" "Appa" "Adelperga" "Rosamund" "Radwald" "Cunigunda" "Giso" 
+	"Hrodgaud" "Antonino" "Odoin" "Giseltrude" "Flavia" "Nonna" "Tereza" "Odoaker" "Victor" "Lucrezia" 
+	"Emilia" "Milos" "Elena" "Sophia" "Tomasina" "Diogenes" "Iacob" "Adele" "Antonia" "Ajjar" 
+	"Uran" "Kormisosh" "Vinekh" "Pagan" "Vakrim" "Boris" "Rasate" "Kegen" "Kortan" "Kaisarios" 
+	"Chrysogone" "Iordanes" "Zenobios" "Methodios" "Konstantios" "Ioannikios" "Adrian" "Alexandru" "Anghel" "Aron" 
+	"Bajan" "Balc" "Barbat" "Basarab" "Bogdan" "Carol" "Ciprian" "Ciubar" "Claudiu" "Corneliu" 
+	"Damjan" "Dan" "Dragos" "Dumitru" "Emerik" "Florin" "Franjo" "Gavril" "Gheorghe" "Grigore" 
+	"Iancu" "Ieremia" "Ilie" "Ioan" "Iorghu" "Iosif" "Iuga" "Janos" "Ladislau" "Latcu" 
+	"Laurentiu" "Litovoi" "Lucian" "Marin" "Mihai" "Mircea" "Moise" "Nicolaie" "Petre" "Pirvu" 
+	"Radovan" "Radu" "Roman" "Sas" "Seneslav" "Sergiu" "Simion" "Stefan" "Stelian" "Teodor" 
+	"Tepes" "Tibor" "Tihomir" "Timotei" "Tudor" "Valentin" "Valeriu" "Vasile" "Veaceslav" "Vilhelm" 
+	"Vintila" "Vlad" }
+monarch_names = {
+	"Alexeia #0" = -1
+	"Zoe #0" = -1
+	"Costin #1" = 24
+	"Artemios #0" = 1
+	"Niketas #0" = 1
+	"Maximos #1" = 21
+	"Georgia #0" = -1
+	"Gacco #0" = 1
+	"Laidulf #0" = 1
+	"Unigild #0" = 1
+	"Vacho #0" = 1
+	"Gaila #0" = -1
+	"Adelgrima #0" = -1
+	"Wilgefortis #0" = -1
+	"Appa #0" = -1
+	"Adelperga #0" = -1
+	"Rosamund #0" = -1
+	"Radwald #0" = 1
+	"Cunigunda #0" = -1
+	"Giso #0" = -1
+	"Hrodgaud #0" = 1
+	"Antonino #0" = 1
+	"Odoin #1" = 18
+	"Giseltrude #0" = -1
+	"Flavia #0" = -1
+	"Nonna #0" = -1
+	"Tereza #0" = -1
+	"Odoaker #0" = 1
+	"Victor #1" = 18
+	"Lucrezia #0" = -1
+	"Emilia #0" = -1
+	"Milos #1" = 18
+	"Elena #1" = -19
+	"Sophia #0" = -1
+	"Tomasina #0" = -1
+	"Diogenes #0" = 1
+	"Iacob #0" = 1
+	"Adele #0" = -1
+	"Antonia #0" = -1
+	"Ajjar #1" = 0
+	"Uran #1" = 0
+	"Kormisosh #1" = 0
+	"Vinekh #1" = 0
+	"Pagan #1" = 0
+	"Vakrim #1" = 0
+	"Boris #1" = 0
+	"Rasate #1" = 0
+	"Kegen #1" = 0
+	"Kortan #1" = 0
+	"Kaisarios #1" = 0
+	"Chrysogone #1" = -1
+	"Iordanes #1" = 0
+	"Zenobios #1" = 0
+	"Methodios #2" = 0
+	"Konstantios #1" = 0
+	"Ioannikios #1" = 0
+	"Adrian #0" = 0
+	"Alexandru #0" = 0
+	"Anghel #0" = 0
+	"Aron #0" = 0
+	"Bajan #0" = 0
+	"Balc #0" = 0
+	"Barbat #0" = 0
+	"Basarab #0" = 0
+	"Bogdan #0" = 0
+	"Carol #0" = 0
+	"Ciprian #0" = 0
+	"Ciubar #0" = 0
+	"Claudiu #0" = 0
+	"Corneliu #0" = 0
+	"Damjan #0" = 0
+	"Dan #0" = 0
+	"Dragos #0" = 0
+	"Dumitru #0" = 0
+	"Emerik #0" = 0
+	"Florin #0" = 0
+	"Franjo #0" = 0
+	"Gavril #0" = 0
+	"Gheorghe #0" = 0
+	"Grigore #0" = 0
+	"Iancu #0" = 0
+	"Ieremia #0" = 0
+	"Ilie #0" = 0
+	"Ioan #0" = 0
+	"Iorghu #0" = 0
+	"Iosif #0" = 0
+	"Iuga #0" = 0
+	"Janos #0" = 0
+	"Ladislau #0" = 0
+	"Latcu #0" = 0
+	"Laurentiu #0" = 0
+	"Litovoi #0" = 0
+	"Lucian #0" = 0
+	"Marin #0" = 0
+	"Mihai #0" = 0
+	"Mircea #0" = 0
+	"Moise #0" = 0
+	"Nicolaie #0" = 0
+	"Petre #0" = 0
+	"Pirvu #0" = 0
+	"Radovan #0" = 0
+	"Radu #0" = 0
+	"Roman #0" = 0
+	"Sas #0" = 0
+	"Seneslav #0" = 0
+	"Sergiu #0" = 0
+	"Simion #0" = 0
+	"Stefan #0" = 0
+	"Stelian #0" = 0
+	"Teodor #0" = 0
+	"Tepes #0" = 0
+	"Tibor #0" = 0
+	"Tihomir #0" = 0
+	"Timotei #0" = 0
+	"Tudor #0" = 0
+	"Valentin #0" = 0
+	"Valeriu #0" = 0
+	"Vasile #0" = 0
+	"Veaceslav #0" = 0
+	"Vilhelm #0" = 0
+	"Vintila #0" = 0
+	"Vlad #0" = 0
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
+}
+

@@ -1,0 +1,161 @@
+# Moskva
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 207 222 123 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Yelizaveta" "Gorislava" "Darya" "Feodosia" "Agrafena" "Mikhail" "Yefrosinia" "Alexandr" "Alexei" "Konstantin" 
+	"Mitrofan" "Irina" "Ulita" "Liudmila" "Iziaslav" "Boris" "Ingvar" "Briachislav" "Vladimir" "Stepan" 
+	"Yefimiy" "Sbyslava" "Daniil" "Kirill" "Pereyaslava" "Sofia" "Rostislav" "Sviatoslava" "Vseslava" "Rogneda" 
+	"Andrei" "Koz'ma" "Vasilko" "Veleslava" "Vasiliy" "Yaroslav" "Yuriy" "Grigoriy" "Ulyana" "Praxida" 
+	"Dobronega" "Vysheslav" "Rodislav" "Dobroslava" "Gremislava" "Anna" "Yefimia" "Gleb" "Olga" "Demid" 
+	"Yekaterina" "Praskovya" "Feodora" "Boleslava" "Iakov" "Zvenislava" "Rogvolod" "Vasilisa" "Zabava" "Yaroslava" 
+	"Olena" "Fevronia" "Anastasia" "Inzhay" "Putiata" "Afanasiy" "Davyd" "Dmitriy" "Dobrynia" "Fedot" 
+	"Feodor" "Gavriil" "Igor" "Iliya" "Ivan" "Lev" "Matfei" "Mstislav" "Nikita" "Oleg" 
+	"Pavel" "Radoslav" "Roman" "Ruslan" "Stanislav" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" 
+	"Trifon" "Viacheslav" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vsevolod" "Vyshata" "Yaropolk" "Yelisey" 
+	"Yemelyan" "Yeremey" "Yevstafiy" }
+monarch_names = {
+	"Yelizaveta #0" = -1
+	"Gorislava #0" = -1
+	"Darya #0" = -1
+	"Feodosia #0" = -1
+	"Agrafena #0" = -1
+	"Mikhail #1" = 27
+	"Yefrosinia #0" = -1
+	"Alexandr #0" = 1
+	"Alexei #0" = 1
+	"Konstantin #0" = 1
+	"Mitrofan #0" = 1
+	"Irina #0" = -1
+	"Ulita #0" = -1
+	"Liudmila #0" = -1
+	"Iziaslav #1" = 27
+	"Boris #0" = 1
+	"Ingvar #0" = 1
+	"Briachislav #0" = 1
+	"Vladimir #0" = 1
+	"Stepan #0" = 1
+	"Yefimiy #0" = 1
+	"Sbyslava #0" = -1
+	"Daniil #0" = 1
+	"Kirill #0" = 1
+	"Pereyaslava #0" = -1
+	"Sofia #0" = -1
+	"Rostislav #0" = 1
+	"Sviatoslava #0" = -1
+	"Vseslava #0" = -1
+	"Rogneda #0" = -1
+	"Andrei #0" = 1
+	"Koz'ma #0" = 1
+	"Vasilko #0" = 1
+	"Veleslava #0" = -1
+	"Vasiliy #0" = 1
+	"Yaroslav #0" = 1
+	"Yuriy #0" = 1
+	"Grigoriy #0" = 1
+	"Ulyana #0" = -1
+	"Praxida #0" = -1
+	"Dobronega #0" = -1
+	"Vysheslav #0" = 1
+	"Rodislav #0" = 1
+	"Dobroslava #0" = -1
+	"Gremislava #0" = -1
+	"Anna #0" = -1
+	"Yefimia #0" = -1
+	"Gleb #0" = 1
+	"Olga #0" = -1
+	"Demid #0" = 1
+	"Yekaterina #0" = -1
+	"Praskovya #0" = -1
+	"Feodora #0" = -1
+	"Boleslava #0" = -1
+	"Iakov #0" = 1
+	"Zvenislava #0" = -1
+	"Rogvolod #0" = 1
+	"Vasilisa #0" = -1
+	"Zabava #0" = -1
+	"Yaroslava #0" = -1
+	"Olena #0" = -1
+	"Fevronia #0" = -1
+	"Anastasia #0" = -1
+	"Inzhay #1" = 0
+	"Putiata #1" = 0
+	"Afanasiy #0" = 0
+	"Davyd #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gavriil #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ivan #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Radoslav #0" = 0
+	"Roman #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Viacheslav #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Yaropolk #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+}
+ship_names = {
+	"Dmitri Donskoi" "Vasiliy I" "D. Aleksandrovich"
+	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
+	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
+	Klin Iausa
+}
+

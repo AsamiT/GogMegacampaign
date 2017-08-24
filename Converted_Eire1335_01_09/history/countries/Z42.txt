@@ -1,0 +1,26 @@
+# Greater Poland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 43
+1404.11.8 = {
+	monarch = {
+		name = "Adalhard"
+		birth_date = 1390.4.26
+		dynasty = "Premyslid"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 43
+	add_treasury = 43
+	add_prestige = 424
+	elector = no
+}

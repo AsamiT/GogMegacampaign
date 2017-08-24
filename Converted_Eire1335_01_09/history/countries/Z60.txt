@@ -1,0 +1,27 @@
+# Lombardy
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = dutch
+religion = catholic
+clear_scripted_personalities = yes
+capital = 97
+1412.8.17 = {
+	monarch = {
+		name = "Gerard"
+		birth_date = 1397.12.12
+		dynasty = "Brunonen"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 97
+	add_treasury = 228
+	add_prestige = -181
+	elector = no
+}

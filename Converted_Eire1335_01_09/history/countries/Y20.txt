@@ -1,0 +1,23 @@
+# Kartli
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 2196
+1419.6.22 = {
+	monarch = {
+		name = "Theophylaktos"
+		birth_date = 1415.8.6
+		dynasty = "Kaukadenos"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2196
+	add_treasury = 30
+	add_prestige = 126
+}

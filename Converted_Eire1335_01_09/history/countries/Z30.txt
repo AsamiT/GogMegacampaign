@@ -1,0 +1,23 @@
+# Normandia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = normand
+religion = cathar
+capital = 167
+1418.9.28 = {
+	monarch = {
+		name = "Jaufret"
+		birth_date = 1402.2.22
+		dynasty = "d'Agde"
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 167
+	add_treasury = 51
+	add_prestige = 260
+}

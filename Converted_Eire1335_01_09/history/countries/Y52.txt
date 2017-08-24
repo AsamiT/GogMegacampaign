@@ -1,0 +1,23 @@
+# Novgorod Seversky
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+capital = 1945
+1443.8.13 = {
+	monarch = {
+		name = "Radoslav"
+		birth_date = 1439.6.23
+		dynasty = "Sviatoslavich"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1945
+	add_treasury = 24
+	add_prestige = 65
+}

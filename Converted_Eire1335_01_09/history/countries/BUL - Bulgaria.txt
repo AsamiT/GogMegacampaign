@@ -1,0 +1,25 @@
+# Bulgaria
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 358
+1438.5.20 = {
+	monarch = {
+		name = "Lazaros"
+		birth_date = 1401.1.13
+		dynasty = "Doukas"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 358
+	add_treasury = 89
+	add_prestige = 330
+}

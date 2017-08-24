@@ -1,0 +1,35 @@
+# Italy
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 104
+1435.11.13 = {
+	monarch = {
+		name = "Cataldo"
+		birth_date = 1405.5.12
+		dynasty = "di Bozen"
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Germano"
+		monarch_name = "Germano"
+		dynasty = "di Bozen"
+		birth_date = 1407.4.12
+		death_date = 1487.4.12
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 104
+	add_treasury = 128
+	add_prestige = 416
+}

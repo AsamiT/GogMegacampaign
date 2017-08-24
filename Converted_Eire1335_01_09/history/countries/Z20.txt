@@ -1,0 +1,26 @@
+# Mercia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4110
+1419.9.5 = {
+	monarch = {
+		name = "Colban"
+		birth_date = 1410.7.2
+		dynasty = "de Kidderminster"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4110
+	add_treasury = 32
+	add_prestige = 41
+}

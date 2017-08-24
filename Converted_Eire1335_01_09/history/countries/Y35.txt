@@ -1,0 +1,23 @@
+# Turkestan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = zoroastrian
+capital = 2351
+1435.9.4 = {
+	monarch = {
+		name = "Husun"
+		birth_date = 1427.6.15
+		dynasty = "Akhlamadid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2351
+	add_treasury = 3
+	add_prestige = 86
+}

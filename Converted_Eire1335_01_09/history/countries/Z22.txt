@@ -1,0 +1,38 @@
+# Borgonha-França
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = cathar
+clear_scripted_personalities = yes
+capital = 201
+1420.11.7 = {
+	monarch = {
+		name = "Dàvi"
+		birth_date = 1398.3.18
+		dynasty = "Stuyvesant"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1434.3.17 = {
+	heir = {
+		name = "Dàvi"
+		monarch_name = "Dàvi II"
+		dynasty = "Stuyvesant"
+		birth_date = 1434.3.17
+		death_date = 1514.3.17
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 201
+	add_treasury = 3
+	add_prestige = 644
+}

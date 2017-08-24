@@ -1,0 +1,26 @@
+# Chandela
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 559
+1429.6.10 = {
+	monarch = {
+		name = "Jasapala III"
+		birth_date = 1409.8.20
+		dynasty = "Chandela"
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 559
+	add_treasury = 36
+	add_prestige = 183
+}

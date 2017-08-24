@@ -1,0 +1,26 @@
+# Münster
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = romanian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 86
+1443.12.5 = {
+	monarch = {
+		name = "Pirvu"
+		birth_date = 1380.2.15
+		dynasty = "de  Münster"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 86
+	add_treasury = 21
+	add_prestige = 40
+	elector = no
+}

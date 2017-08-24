@@ -1,0 +1,25 @@
+# The Ecumenical Patriarchate
+government = theocratic_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 151
+1439.1.2 = {
+	monarch = {
+		name = "Makarios"
+		birth_date = 1410.6.29
+		dynasty = "Epanokomites"
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 16
+	add_prestige = 51
+}

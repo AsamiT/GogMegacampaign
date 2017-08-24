@@ -1,0 +1,24 @@
+# Vegl
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+capital = 1826
+1422.9.22 = {
+	monarch = {
+		name = "Konrad"
+		birth_date = 1406.10.23
+		dynasty = "von Buxthoeven"
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 1826
+	add_treasury = 48
+	add_prestige = 70
+	elector = no
+}

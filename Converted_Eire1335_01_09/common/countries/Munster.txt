@@ -1,0 +1,133 @@
+# Münster
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 205 103 80 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Adrian" "Alexandru" "Anghel" "Aron" "Bajan" "Balc" "Barbat" "Basarab" "Bogdan" "Carol" 
+	"Ciprian" "Ciubar" "Claudiu" "Corneliu" "Costin" "Damjan" "Dan" "Dragos" "Dumitru" "Emerik" 
+	"Florin" "Franjo" "Gavril" "Gheorghe" "Grigore" "Iacob" "Iancu" "Ieremia" "Ilie" "Ioan" 
+	"Iorghu" "Iosif" "Iuga" "Janos" "Ladislau" "Latcu" "Laurentiu" "Litovoi" "Lucian" "Marin" 
+	"Mihai" "Milos" "Mircea" "Moise" "Nicolaie" "Petre" "Pirvu" "Radovan" "Radu" "Roman" 
+	"Sas" "Seneslav" "Sergiu" "Simion" "Stefan" "Stelian" "Teodor" "Tepes" "Tibor" "Tihomir" 
+	"Timotei" "Tudor" "Valentin" "Valeriu" "Vasile" "Veaceslav" "Victor" "Vilhelm" "Vintila" "Vlad" }
+monarch_names = {
+	"Adrian #0" = 0
+	"Alexandru #0" = 0
+	"Anghel #0" = 0
+	"Aron #0" = 0
+	"Bajan #0" = 0
+	"Balc #0" = 0
+	"Barbat #0" = 0
+	"Basarab #0" = 0
+	"Bogdan #0" = 0
+	"Carol #0" = 0
+	"Ciprian #0" = 0
+	"Ciubar #0" = 0
+	"Claudiu #0" = 0
+	"Corneliu #0" = 0
+	"Costin #0" = 0
+	"Damjan #0" = 0
+	"Dan #0" = 0
+	"Dragos #0" = 0
+	"Dumitru #0" = 0
+	"Emerik #0" = 0
+	"Florin #0" = 0
+	"Franjo #0" = 0
+	"Gavril #0" = 0
+	"Gheorghe #0" = 0
+	"Grigore #0" = 0
+	"Iacob #0" = 0
+	"Iancu #0" = 0
+	"Ieremia #0" = 0
+	"Ilie #0" = 0
+	"Ioan #0" = 0
+	"Iorghu #0" = 0
+	"Iosif #0" = 0
+	"Iuga #0" = 0
+	"Janos #0" = 0
+	"Ladislau #0" = 0
+	"Latcu #0" = 0
+	"Laurentiu #0" = 0
+	"Litovoi #0" = 0
+	"Lucian #0" = 0
+	"Marin #0" = 0
+	"Mihai #0" = 0
+	"Milos #0" = 0
+	"Mircea #0" = 0
+	"Moise #0" = 0
+	"Nicolaie #0" = 0
+	"Petre #0" = 0
+	"Pirvu #0" = 0
+	"Radovan #0" = 0
+	"Radu #0" = 0
+	"Roman #0" = 0
+	"Sas #0" = 0
+	"Seneslav #0" = 0
+	"Sergiu #0" = 0
+	"Simion #0" = 0
+	"Stefan #0" = 0
+	"Stelian #0" = 0
+	"Teodor #0" = 0
+	"Tepes #0" = 0
+	"Tibor #0" = 0
+	"Tihomir #0" = 0
+	"Timotei #0" = 0
+	"Tudor #0" = 0
+	"Valentin #0" = 0
+	"Valeriu #0" = 0
+	"Vasile #0" = 0
+	"Veaceslav #0" = 0
+	"Victor #0" = 0
+	"Vilhelm #0" = 0
+	"Vintila #0" = 0
+	"Vlad #0" = 0
+
+
+	"Maria #0" = -1
+	"Voica #0" = -1
+	"Ana #0" = -1
+	"Ionela #0" = -1
+	"Iulia #0" = -1
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

@@ -1,0 +1,26 @@
+# Bavaria
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 65
+1422.11.10 = {
+	monarch = {
+		name = "Adolf"
+		birth_date = 1421.7.24
+		dynasty = "Hupoldinger"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 65
+	add_treasury = 51
+	add_prestige = 216
+	elector = yes
+}

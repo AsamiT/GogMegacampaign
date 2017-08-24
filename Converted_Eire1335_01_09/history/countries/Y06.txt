@@ -1,0 +1,26 @@
+# Moesia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2750
+1420.10.20 = {
+	monarch = {
+		name = "Demetrios"
+		birth_date = 1387.5.5
+		dynasty = "Aaron"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2750
+	add_treasury = 53
+	add_prestige = 267
+}

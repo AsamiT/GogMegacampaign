@@ -1,0 +1,24 @@
+# Arwa
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+capital = 154
+1412.12.1 = {
+	monarch = {
+		name = "Udalrich"
+		birth_date = 1374.5.31
+		dynasty = "von Signau"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 154
+	add_treasury = 17
+	add_prestige = 54
+	elector = no
+}

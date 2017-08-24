@@ -1,0 +1,284 @@
+# Meissen
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 188 181 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Edna" "Beladora" "Tudur" "Ælfræd" "Henrike" "Cairell" "Eadgifu" "Gradlon" "Concar" "Iudon" 
+	"Custentin" "Gestin" "Argant" "Alfrond" "Iudhael" "Rivod" "Louenan" "Ulfret" "Oreguen" "Diles" 
+	"Budic" "Oanez" "Alan" "Hodierne" "Hoël" "Bernez" "Courantmonoc" "Guérech" "Berta" "Judhael" 
+	"Clemen" "Guincalon" "Iofa" "Derrien" "Mazhe" "Clodouan" "Medrod" "Gaela" "Erouana" "Guencor" 
+	"Evrard" "Leueer" "Marguarite" "Sulgen" "Mathias" "Guobrian" "Guenguerthlon" "Aeluit" "Oncum" "Adeltrudis" 
+	"Arganteilin" "Argantlon" "Maenceneu" "Fuandrec" "Gilbert" "Anauprost" "Roenuolou" "Sulleisoc" "Nougui" "Rannoeu" 
+	"Clotwoïon" "Guenguiu" "Brian" "Aróc" "Franz" "Ursula" "Dorothea" "Tephaine" "Murdoch" "Guethenan" 
+	"Baldomar" "Wilhelmina" "Nodiunet" "Radomil" "Günther" "Ekkehard" "Günzelin" "Hermann" "Wilhelm" "Otto" 
+	"Adelheid" "Otakar" "Adalbero" "Romilda" "Ekbert" "Ingeltrude" "Aliç" "Adalbert" "Adalhard" "Adam" 
+	"Ademar" "Adolf" "Alarich" "Alberich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" 
+	"Anselm" "Arnold" "Arnulf" "Augustin" "Baldarich" "Baldewin" "Baldur" "Berengar" "Bernhard" "Berthold" 
+	"Burchard" "Christopher" "Dieter" "Dietmar" "Dietpold" "Dietrich" "Dietwin" "Eberhard" "Eginolf" "Ehrenfried" 
+	"Emelrich" "Emich" "Emmerich" "Engelbert" "Erich" "Ernst" "Ferdinand" "Filibert" "Folkhard" "Folkmar" 
+	"Friedrich" "Gautselin" "Gebhard" "Georg" "Gerhard" "Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" 
+	"Gotzelo" "Guntram" "Gunzelin" "Hans" "Hartmann" "Hartwig" "Heinrich" "Helferich" "Heribert" "Hesso" 
+	"Hugo" "Humbert" "Hupold" "Jakob" "Johann" "Jürgen" "Karl" "Karlmann" "Kaspar" "Konrad" 
+	"Kuno" "Lambert" "Landolf" "Leopold" "Liudolf" "Liutbert" "Liutbrand" "Liutpold" "Lothar" "Ludolf" 
+	"Ludwig" "Lutbert" "Magnus" "Manegold" "Manfred" "Markward" "Martin" "Matthias" "Meinhard" "Michael" 
+	"Nikolaus" "Norbert" "Peter" "Philipp" "Poppo" "Radbot" "Reinhard" "Reinhold" "Rudolf" "Ruprecht" 
+	"Rutger" "Siegfried" "Sieghard" "Siegmund" "Sigismund" "Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" 
+	"Udalrich" "Ulrich" "Viktor" "Waldemar" "Walram" "Walther" "Welf" "Wenzel" "Werner" "Wido" 
+	"Wigerich" "Wolfgang" "Wolfram" }
+monarch_names = {
+	"Edna #0" = -1
+	"Beladora #0" = -1
+	"Tudur #0" = 1
+	"Ælfræd #0" = 1
+	"Henrike #1" = -19
+	"Cairell #0" = 1
+	"Eadgifu #0" = -1
+	"Gradlon #0" = 1
+	"Concar #0" = 1
+	"Iudon #0" = 1
+	"Custentin #0" = 1
+	"Gestin #0" = 1
+	"Argant #0" = 1
+	"Alfrond #0" = 1
+	"Iudhael #0" = 1
+	"Rivod #0" = 1
+	"Louenan #0" = 1
+	"Ulfret #0" = 1
+	"Oreguen #0" = -1
+	"Diles #0" = 1
+	"Budic #0" = 1
+	"Oanez #0" = -1
+	"Alan #0" = 1
+	"Hodierne #0" = -1
+	"Hoël #0" = 1
+	"Bernez #0" = 1
+	"Courantmonoc #0" = 1
+	"Guérech #0" = 1
+	"Berta #0" = -1
+	"Judhael #0" = -1
+	"Clemen #0" = 1
+	"Guincalon #0" = 1
+	"Iofa #0" = -1
+	"Derrien #0" = 1
+	"Mazhe #0" = 1
+	"Clodouan #1" = 30
+	"Medrod #0" = 1
+	"Gaela #0" = -1
+	"Erouana #0" = -1
+	"Guencor #0" = -1
+	"Evrard #0" = 1
+	"Leueer #0" = -1
+	"Marguarite #0" = -1
+	"Sulgen #0" = 1
+	"Mathias #0" = 1
+	"Guobrian #0" = 1
+	"Guenguerthlon #0" = -1
+	"Aeluit #0" = -1
+	"Oncum #0" = -1
+	"Adeltrudis #0" = -1
+	"Arganteilin #0" = -1
+	"Argantlon #0" = -1
+	"Maenceneu #0" = 1
+	"Fuandrec #0" = -1
+	"Gilbert #0" = 1
+	"Anauprost #0" = -1
+	"Roenuolou #1" = 18
+	"Sulleisoc #0" = -1
+	"Nougui #0" = 1
+	"Rannoeu #0" = -1
+	"Clotwoïon #0" = 1
+	"Guenguiu #0" = -1
+	"Brian #0" = 1
+	"Aróc #0" = -1
+	"Franz #1" = 18
+	"Ursula #0" = -1
+	"Dorothea #1" = -22
+	"Tephaine #0" = -1
+	"Murdoch #0" = 1
+	"Guethenan #0" = 1
+	"Baldomar #1" = 18
+	"Wilhelmina #1" = -19
+	"Nodiunet #0" = -1
+	"Radomil #1" = 0
+	"Günther #1" = 0
+	"Ekkehard #2" = 0
+	"Günzelin #1" = 0
+	"Hermann #1" = 0
+	"Wilhelm #1" = 0
+	"Otto #2" = 0
+	"Adelheid #1" = -1
+	"Otakar #1" = 0
+	"Adalbero #1" = 0
+	"Romilda #1" = -1
+	"Ekbert #1" = 0
+	"Ingeltrude #2" = -1
+	"Aliç #1" = -1
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Adolf #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Arnulf #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Burchard #0" = 0
+	"Christopher #0" = 0
+	"Dieter #0" = 0
+	"Dietmar #0" = 0
+	"Dietpold #0" = 0
+	"Dietrich #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Eginolf #0" = 0
+	"Ehrenfried #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Hans #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Heinrich #0" = 0
+	"Helferich #0" = 0
+	"Heribert #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Jakob #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Kaspar #0" = 0
+	"Konrad #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Lutbert #0" = 0
+	"Magnus #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Peter #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Simon #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Thomas #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Wido #0" = 0
+	"Wigerich #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

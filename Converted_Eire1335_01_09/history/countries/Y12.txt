@@ -1,0 +1,25 @@
+# Galilee
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1855
+1410.9.15 = {
+	monarch = {
+		name = "Timotheos"
+		birth_date = 1402.11.9
+		dynasty = "of Abu-al-Hasan"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1855
+	add_treasury = 32
+	add_prestige = 128
+}

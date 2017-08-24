@@ -1,0 +1,242 @@
+# Edessa
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 182 110 45 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	naval_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Anthousa" "Sophia" "Andronikos" "Euphrosyne" "Tiberios" "Isidoros" "Pyrros" "Photios" "Hippolytos" "Agne" 
+	"Staurakios" "Georgia" "Asim" "Muslim" "Ishaq" "Abd al-Malik" "Isa" "Bakkar" "Amir" "Abu'l Husayn" 
+	"Baz" "Hesen Ebû Elî" "Seîd Ebû Elî Mumehidê Dewle" "Ehmed Ebû Nesr Nesrê Dewle" "Nesr Ebûlqasim Nîzamedîn" "Mensûr Nesr-ed-dewle" "Yaman" "Alp Arslan" "Ertan" "Ioannikios" 
+	"Matthaios" "Damianos" "Kaisarios" "Eudoxia" "Niketas" "Kallinikos" "Antonios" "Adrianos" "Akakios" "Alexandros" 
+	"Alexios" "Anastasios" "Anatolios" "Andreas" "Anthemios" "Anthimos" "Antiochos" "Apollonios" "Arsenios" "Artemios" 
+	"Athanasios" "Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" 
+	"Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" 
+	"Euphemios" "Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" 
+	"Gregorios" "Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Hypatios" "Iakobos" "Ignatios" "Innokentios" 
+	"Ioannes" "Iordanes" "Ioseph" "Isaakios" "Isaias" "Ioulianos" "Ioustinianos" "Ioustinos" "Kallistos" "Komitas" 
+	"Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" "Laurentios" "Lazaros" "Leon" 
+	"Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Maurikios" "Maximos" "Megistos" "Meletios" "Methodios" 
+	"Michael" "Narses" "Neophytos" "Nikephoros" "Nikodemos" "Nikolaos" "Niphon" "Orestes" "Pamphilios" "Pankratios" 
+	"Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" "Philaretos" "Philippos" "Philotheos" "Phokas" "Polykarpos" 
+	"Porphyrios" "Prokopios" "Raphail" "Romanos" "Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" 
+	"Symeon" "Symmachos" "Theocharistos" "Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" 
+	"Theophylaktos" "Thomas" "Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
+monarch_names = {
+	"Anthousa #0" = -1
+	"Sophia #1" = -19
+	"Andronikos #0" = 1
+	"Euphrosyne #0" = -1
+	"Tiberios #2" = 21
+	"Isidoros #0" = 1
+	"Pyrros #0" = 1
+	"Photios #0" = 1
+	"Hippolytos #0" = 1
+	"Agne #0" = -1
+	"Staurakios #0" = 1
+	"Georgia #0" = -1
+	"Asim #1" = 0
+	"Muslim #1" = 0
+	"Ishaq #1" = 0
+	"Abd al-Malik #1" = 0
+	"Isa #1" = 0
+	"Bakkar #1" = 0
+	"Amir #1" = 0
+	"Abu'l Husayn #1" = 0
+	"Baz #1" = 0
+	"Hesen Ebû Elî #1" = 0
+	"Seîd Ebû Elî Mumehidê Dewle #1" = 0
+	"Ehmed Ebû Nesr Nesrê Dewle #1" = 0
+	"Nesr Ebûlqasim Nîzamedîn #1" = 0
+	"Mensûr Nesr-ed-dewle #1" = 0
+	"Yaman #1" = 0
+	"Alp Arslan #1" = 0
+	"Ertan #1" = 0
+	"Ioannikios #2" = 0
+	"Matthaios #1" = 0
+	"Damianos #1" = 0
+	"Kaisarios #1" = 0
+	"Eudoxia #1" = -1
+	"Niketas #1" = 0
+	"Kallinikos #1" = 0
+	"Antonios #1" = 0
+	"Adrianos #0" = 0
+	"Akakios #0" = 0
+	"Alexandros #0" = 0
+	"Alexios #0" = 0
+	"Anastasios #0" = 0
+	"Anatolios #0" = 0
+	"Andreas #0" = 0
+	"Anthemios #0" = 0
+	"Anthimos #0" = 0
+	"Antiochos #0" = 0
+	"Apollonios #0" = 0
+	"Arsenios #0" = 0
+	"Artemios #0" = 0
+	"Athanasios #0" = 0
+	"Bardas #0" = 0
+	"Bartholomaios #0" = 0
+	"Basileios #0" = 0
+	"Belisarios #0" = 0
+	"Boethios #0" = 0
+	"Bosporios #0" = 0
+	"Christophoros #0" = 0
+	"Chrysanthos #0" = 0
+	"Chrysogonos #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Dionysios #0" = 0
+	"Dorotheos #0" = 0
+	"Eirenaios #0" = 0
+	"Eudoxios #0" = 0
+	"Eustratios #0" = 0
+	"Eugenios #0" = 0
+	"Euphemios #0" = 0
+	"Eusebios #0" = 0
+	"Eustathios #0" = 0
+	"Evangelos #0" = 0
+	"Gabriel #0" = 0
+	"Gennadios #0" = 0
+	"Georgios #0" = 0
+	"Gerasimos #0" = 0
+	"Germanos #0" = 0
+	"Gregoras #0" = 0
+	"Gregorios #0" = 0
+	"Hektorios #0" = 0
+	"Helias #0" = 0
+	"Herakleios #0" = 0
+	"Hierotheos #0" = 0
+	"Himerios #0" = 0
+	"Hypatios #0" = 0
+	"Iakobos #0" = 0
+	"Ignatios #0" = 0
+	"Innokentios #0" = 0
+	"Ioannes #0" = 0
+	"Iordanes #0" = 0
+	"Ioseph #0" = 0
+	"Isaakios #0" = 0
+	"Isaias #0" = 0
+	"Ioulianos #0" = 0
+	"Ioustinianos #0" = 0
+	"Ioustinos #0" = 0
+	"Kallistos #0" = 0
+	"Komitas #0" = 0
+	"Konstantinos #0" = 0
+	"Konstantios #0" = 0
+	"Konstas #0" = 0
+	"Kosmas #0" = 0
+	"Kyriakos #0" = 0
+	"Kyrillos #0" = 0
+	"Kyros #0" = 0
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Leon #0" = 0
+	"Leontios #0" = 0
+	"Loukas #0" = 0
+	"Makarios #0" = 0
+	"Manuel #0" = 0
+	"Markos #0" = 0
+	"Maurikios #0" = 0
+	"Maximos #0" = 0
+	"Megistos #0" = 0
+	"Meletios #0" = 0
+	"Methodios #0" = 0
+	"Michael #0" = 0
+	"Narses #0" = 0
+	"Neophytos #0" = 0
+	"Nikephoros #0" = 0
+	"Nikodemos #0" = 0
+	"Nikolaos #0" = 0
+	"Niphon #0" = 0
+	"Orestes #0" = 0
+	"Pamphilios #0" = 0
+	"Pankratios #0" = 0
+	"Pantoleon #0" = 0
+	"Paschalis #0" = 0
+	"Pavlos #0" = 0
+	"Pelagios #0" = 0
+	"Petros #0" = 0
+	"Philaretos #0" = 0
+	"Philippos #0" = 0
+	"Philotheos #0" = 0
+	"Phokas #0" = 0
+	"Polykarpos #0" = 0
+	"Porphyrios #0" = 0
+	"Prokopios #0" = 0
+	"Raphail #0" = 0
+	"Romanos #0" = 0
+	"Sabas #0" = 0
+	"Samuel #0" = 0
+	"Serapion #0" = 0
+	"Sebastianos #0" = 0
+	"Sergios #0" = 0
+	"Stephanos #0" = 0
+	"Symeon #0" = 0
+	"Symmachos #0" = 0
+	"Theocharistos #0" = 0
+	"Theodoros #0" = 0
+	"Theodosios #0" = 0
+	"Theodotos #0" = 0
+	"Theodoulos #0" = 0
+	"Theoktistos #0" = 0
+	"Theophanes #0" = 0
+	"Theophilos #0" = 0
+	"Theophylaktos #0" = 0
+	"Thomas #0" = 0
+	"Traianos #0" = 0
+	"Timotheos #0" = 0
+	"Tryphon #0" = 0
+	"Valerios #0" = 0
+	"Zacharias #0" = 0
+	"Zenobios #0" = 0
+	"Zenon #0" = 0
+}
+ship_names = {
+	Aramu Argishtis Ararat Ani Artsakh
+	Dvin
+	Erimena
+	Haik Haldi
+	Ishpuinis
+	Kars
+	Lutipri
+	Musasir Menuas Manzikert
+	Parisos
+	"Rusas II"
+	Siwini Selardi "Sarduri I" "Sarduris II"
+	Vaspurakan
+	Yerevan
+}
+

@@ -1,0 +1,25 @@
+# Tabaristan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = shiite
+clear_scripted_personalities = yes
+capital = 2215
+1441.12.18 = {
+	monarch = {
+		name = "Milad"
+		birth_date = 1425.12.15
+		dynasty = "Fatimid"
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2215
+	add_treasury = 3
+	add_prestige = 373
+}

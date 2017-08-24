@@ -1,0 +1,23 @@
+# Krete
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 163
+1435.8.7 = {
+	monarch = {
+		name = "Euphemios"
+		birth_date = 1400.5.22
+		dynasty = "Spartenos"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 163
+	add_treasury = 103
+	add_prestige = 79
+}

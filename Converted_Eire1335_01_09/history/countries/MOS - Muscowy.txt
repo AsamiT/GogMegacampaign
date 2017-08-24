@@ -1,0 +1,25 @@
+# Moskva
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 295
+1426.6.25 = {
+	monarch = {
+		name = "Iziaslav"
+		birth_date = 1415.8.22
+		dynasty = "Zakharyinich"
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 295
+	add_treasury = 22
+	add_prestige = 173
+}

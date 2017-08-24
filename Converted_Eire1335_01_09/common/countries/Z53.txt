@@ -1,0 +1,223 @@
+# Westrogothia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 46 30 205 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	trade_ideas
+	aristocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Gotzelo" "Winfrida" "Adalbert" "Werner" "Walpurga" "Gunzelin" "Oddr" "Hrafn" "Hrane" "Ulfr" 
+	"Rögnvaldr" "Stenkil" "Halsten" "Håkan" "Anders" "Torsten" "Gyla" "Dag" "Alfhild" "Andreas" 
+	"Hrabis" "Dietrich" "Filibert" "Floris" "Burchard" "Georg" "Adalbero" "Adalhard" "Adam" "Ademar" 
+	"Adolf" "Alarich" "Alberich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Anselm" "Arnold" 
+	"Arnulf" "Augustin" "Baldarich" "Baldewin" "Baldomar" "Baldur" "Berengar" "Bernhard" "Berthold" "Christopher" 
+	"Dieter" "Dietmar" "Dietpold" "Dietwin" "Eberhard" "Eginolf" "Ehrenfried" "Ekbert" "Ekkehard" "Emelrich" 
+	"Emich" "Emmerich" "Engelbert" "Erich" "Ernst" "Ferdinand" "Folkhard" "Folkmar" "Franz" "Friedrich" 
+	"Gautselin" "Gebhard" "Gerhard" "Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" "Guntram" "Günther" 
+	"Hans" "Hartmann" "Hartwig" "Heinrich" "Helferich" "Heribert" "Hermann" "Hesso" "Hugo" "Humbert" 
+	"Hupold" "Jakob" "Johann" "Jürgen" "Karl" "Karlmann" "Kaspar" "Konrad" "Kuno" "Lambert" 
+	"Landolf" "Leopold" "Liudolf" "Liutbert" "Liutbrand" "Liutpold" "Lothar" "Ludolf" "Ludwig" "Lutbert" 
+	"Magnus" "Manegold" "Manfred" "Markward" "Martin" "Matthias" "Meinhard" "Michael" "Nikolaus" "Norbert" 
+	"Otto" "Peter" "Philipp" "Poppo" "Radbot" "Reinhard" "Reinhold" "Rudolf" "Ruprecht" "Rutger" 
+	"Siegfried" "Sieghard" "Siegmund" "Sigismund" "Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" 
+	"Ulrich" "Viktor" "Waldemar" "Walram" "Walther" "Welf" "Wenzel" "Wido" "Wigerich" "Wilhelm" 
+	"Wolfgang" "Wolfram" }
+monarch_names = {
+	"Gotzelo #0" = 1
+	"Winfrida #0" = -1
+	"Adalbert #1" = 18
+	"Werner #0" = 1
+	"Walpurga #0" = -1
+	"Gunzelin #0" = 1
+	"Oddr #1" = 0
+	"Hrafn #2" = 0
+	"Hrane #1" = 0
+	"Ulfr #1" = 0
+	"Rögnvaldr #1" = 0
+	"Stenkil #1" = 0
+	"Halsten #1" = 0
+	"Håkan #1" = 0
+	"Anders #2" = 0
+	"Torsten #1" = 0
+	"Gyla #1" = -1
+	"Dag #1" = 0
+	"Alfhild #1" = -1
+	"Andreas #1" = 0
+	"Hrabis #1" = 0
+	"Dietrich #1" = 0
+	"Filibert #1" = 0
+	"Floris #3" = 0
+	"Burchard #1" = 0
+	"Georg #1" = 0
+	"Adalbero #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Adolf #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Arnulf #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Christopher #0" = 0
+	"Dieter #0" = 0
+	"Dietmar #0" = 0
+	"Dietpold #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Eginolf #0" = 0
+	"Ehrenfried #0" = 0
+	"Ekbert #0" = 0
+	"Ekkehard #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Guntram #0" = 0
+	"Günther #0" = 0
+	"Hans #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Heinrich #0" = 0
+	"Helferich #0" = 0
+	"Heribert #0" = 0
+	"Hermann #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Jakob #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Kaspar #0" = 0
+	"Konrad #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Lutbert #0" = 0
+	"Magnus #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Otto #0" = 0
+	"Peter #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Simon #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Thomas #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Wido #0" = 0
+	"Wigerich #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+
+
+	"Inga #0" = -1
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+}
+

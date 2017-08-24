@@ -1,0 +1,18 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "von Weimar" "von Andechs" "von Versfleth" "von Saarbrucken" "von Württemberg" "von Tübingen" "von Nassau" "von Nörvenich" "Brunonen" "Brunswick" "Wettin" "von Otakar" "Oeningen" "von Stad" "von Ringelheim" "Witte" "von Hagen" "Runese" "Pleskow" "von Goltern" "von Waldeck" "von Ravensberg" "von Weyhe" "von Hoya" "von Salza" "von Heldrungen" "von Feuchtwangen" "von Trier" "von Buxthoeven" "von Lunen" "Pernstein" "von Ziegenhain" "von Komburg" "von Pluyvoise" "von Wassel" "von Grenchen" "von Grünberg" "von Lichtenberg" "von Signau" "Gross" "Gualch" "von Schweipünt" "von Nörvenich" "von Kärnten" "von Eschenloch" "von Schrapelnau" "von Arneburg" "von Seeburg" "von Bamberg" "von Tyrol" "Ezzonen" "Hupoldinger" "von Karlstein" "von Wangen" "von Görz" "von Dürkheim" "von Avesnes" "von Querfurt" "von Asperg" "von Hesbaie" "von Lens" "von Laibach" "von Brancion" "von Stahleck" "von Nagysurány" "von Veere" "von Znojmo" "von Gälakvist" "von Mannheim" "von Zutphen" "von Pluyvoise" "von Andechs" "von Aarschot" "von Goslar" "von Saint-Pol" "von Arlon" "von Budejovice" "von Montfort-l'Amaury" "von Meaux" "von Henneberg" "von Marburg" "von Tatabánya" "von Jawor" "von Altenburg" "von Überlingen" "von Willemstad" "von Giecz" "von Eidsvoll" "von Milicz" "von Modor" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "de Dampierre" "d'Éolienne" "de Savoie" "de Bissy" "de Salins" "de Barthe" "de Comminges" "Stuyvesant" "de Conversano" "de Bethune" "de Le Puiset" "de Brindas" "de Montélimar" "de Thiers" "de Montguyon" "de Totnes" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { "van Vlaanderen" }
+	}
+}

@@ -1,0 +1,25 @@
+# Epirus
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 144
+1407.9.14 = {
+	monarch = {
+		name = "Philotheos"
+		birth_date = 1392.9.10
+		dynasty = "Palaiologos"
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 144
+	add_treasury = 57
+	add_prestige = 189
+}

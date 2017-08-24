@@ -1,0 +1,25 @@
+# Oultrejourdain
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 381
+1424.4.8 = {
+	monarch = {
+		name = "Ra'uf"
+		birth_date = 1415.6.9
+		dynasty = "Fatimid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 381
+	add_treasury = -42
+	add_prestige = 504
+}

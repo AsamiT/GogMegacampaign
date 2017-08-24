@@ -1,0 +1,26 @@
+# Osnabrück
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 56
+1442.3.14 = {
+	monarch = {
+		name = "Alois"
+		birth_date = 1394.3.10
+		dynasty = "von  Osnabrück"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 56
+	add_treasury = 19
+	add_prestige = 22
+	elector = no
+}

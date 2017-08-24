@@ -1,0 +1,25 @@
+# Samarasimhid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2227
+1399.3.18 = {
+	monarch = {
+		name = "Rangraja"
+		birth_date = 1398.11.18
+		dynasty = "Samarasimhid"
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2227
+	add_treasury = 27
+	add_prestige = 292
+}

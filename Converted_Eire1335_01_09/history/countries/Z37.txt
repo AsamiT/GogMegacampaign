@@ -1,0 +1,36 @@
+# Ostlandet
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1878
+1443.9.14 = {
+	monarch = {
+		name = "Floris"
+		birth_date = 1409.9.9
+		dynasty = "von Pluyvoise"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Jürgen"
+		monarch_name = "Jürgen"
+		dynasty = "von Pluyvoise"
+		birth_date = 1435.3.12
+		death_date = 1515.3.12
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1878
+	add_treasury = 4
+	add_prestige = 280
+	elector = no
+}

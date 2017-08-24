@@ -1,0 +1,165 @@
+# Lesser Poland
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 245 163 176 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Dömötör" "Piroska" "Attila" "Siemowit" "Nadbor" "Lech" "Lechoslaw" "Ostrowod" "Pelczybog" "Boleslaw" 
+	"Mieszko" "Bezprym" "Kazimierz" "Bozydar" "Wladyslaw" "Adelajda" "László" "Aleksander" "Elemér" "Vilmos" 
+	"Czenzi" "Berta" "Aranka" "Árpád" "Móric" "Jørn" "Algirdas" "Antanas" "Antavas" "Aras" 
+	"Arunas" "Azuolas" "Budrys" "Bukantas" "Butavas" "Butigeidis" "Butvydas" "Daugvilas" "Daumantas" "Dausprungas" 
+	"Dravenis" "Erdenis" "Erdvilas" "Gedigaudas" "Gediminas" "Gedivilas" "Gintaras" "Gintautas" "Girdenis" "Irmantas" 
+	"Jaunutis" "Jogaila" "Jovirdas" "Kantibutas" "Karijotas" "Kesgaila" "Kestutis" "Korigaila" "Korybutas" "Lasukas" 
+	"Lingvenis" "Liudas" "Lubartas" "Lutuveras" "Merkelis" "Mindaugas" "Minigaila" "Mantvydas" "Movkoldas" "Narimantas" 
+	"Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Rimvydas" "Ringaudas" "Sarunas" "Skirgaila" "Songaila" "Svarnas" 
+	"Svitrigaila" "Tarvydas" "Tovtivilas" "Traidenis" "Treniotas" "Vainius" "Vaisvilkas" "Valimantas" "Vidmantas" "Vingoldas" 
+	"Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" "Vytautas" "Vytenis" "Zivinbudas" "Zygimantas" }
+monarch_names = {
+	"Dömötör #1" = 18
+	"Piroska #0" = -1
+	"Attila #0" = 1
+	"Siemowit #1" = 0
+	"Nadbor #1" = 0
+	"Lech #1" = 0
+	"Lechoslaw #1" = 0
+	"Ostrowod #1" = 0
+	"Pelczybog #1" = 0
+	"Boleslaw #3" = 0
+	"Mieszko #1" = 0
+	"Bezprym #1" = 0
+	"Kazimierz #1" = 0
+	"Bozydar #2" = 0
+	"Wladyslaw #1" = 0
+	"Adelajda #1" = -1
+	"László #1" = 0
+	"Aleksander #1" = 0
+	"Elemér #2" = 0
+	"Vilmos #1" = 0
+	"Czenzi #1" = -1
+	"Berta #1" = -1
+	"Aranka #1" = -1
+	"Árpád #1" = 0
+	"Móric #1" = 0
+	"Jørn #1" = 0
+	"Algirdas #0" = 0
+	"Antanas #0" = 0
+	"Antavas #0" = 0
+	"Aras #0" = 0
+	"Arunas #0" = 0
+	"Azuolas #0" = 0
+	"Budrys #0" = 0
+	"Bukantas #0" = 0
+	"Butavas #0" = 0
+	"Butigeidis #0" = 0
+	"Butvydas #0" = 0
+	"Daugvilas #0" = 0
+	"Daumantas #0" = 0
+	"Dausprungas #0" = 0
+	"Dravenis #0" = 0
+	"Erdenis #0" = 0
+	"Erdvilas #0" = 0
+	"Gedigaudas #0" = 0
+	"Gediminas #0" = 0
+	"Gedivilas #0" = 0
+	"Gintaras #0" = 0
+	"Gintautas #0" = 0
+	"Girdenis #0" = 0
+	"Irmantas #0" = 0
+	"Jaunutis #0" = 0
+	"Jogaila #0" = 0
+	"Jovirdas #0" = 0
+	"Kantibutas #0" = 0
+	"Karijotas #0" = 0
+	"Kesgaila #0" = 0
+	"Kestutis #0" = 0
+	"Korigaila #0" = 0
+	"Korybutas #0" = 0
+	"Lasukas #0" = 0
+	"Lingvenis #0" = 0
+	"Liudas #0" = 0
+	"Lubartas #0" = 0
+	"Lutuveras #0" = 0
+	"Merkelis #0" = 0
+	"Mindaugas #0" = 0
+	"Minigaila #0" = 0
+	"Mantvydas #0" = 0
+	"Movkoldas #0" = 0
+	"Narimantas #0" = 0
+	"Povilas #0" = 0
+	"Pukuveras #0" = 0
+	"Rimantas #0" = 0
+	"Rimgaila #0" = 0
+	"Rimvydas #0" = 0
+	"Ringaudas #0" = 0
+	"Sarunas #0" = 0
+	"Skirgaila #0" = 0
+	"Songaila #0" = 0
+	"Svarnas #0" = 0
+	"Svitrigaila #0" = 0
+	"Tarvydas #0" = 0
+	"Tovtivilas #0" = 0
+	"Traidenis #0" = 0
+	"Treniotas #0" = 0
+	"Vainius #0" = 0
+	"Vaisvilkas #0" = 0
+	"Valimantas #0" = 0
+	"Vidmantas #0" = 0
+	"Vingoldas #0" = 0
+	"Virmantas #0" = 0
+	"Visvaldis #0" = 0
+	"Vizgirdas #0" = 0
+	"Vykintas #0" = 0
+	"Vytautas #0" = 0
+	"Vytenis #0" = 0
+	"Zivinbudas #0" = 0
+	"Zygimantas #0" = 0
+}
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+

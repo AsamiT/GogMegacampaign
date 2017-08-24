@@ -1,0 +1,134 @@
+# Paramêsvaravarman
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 190 40 60 }
+
+
+
+
+leader_names = {
+
+	"Irâcâticci" "Nirupatunkavarman" "Sâmavâyi" "Kalacci" "Paramêsvaravarman" "Aaleyaamma" "Kâmuttiri" "Mârapanmar" "Kaucalaiyâr" "Tirumûlattânam" 
+	"Manappâkkîlan" "Kariyamâtêvi" "Vijayaditya" "Saktivarman" "Narendra" "Vengabhupathi" "Bhandanaditya" "Prthiviyaraja" "Kontân" "Tirunattapperumâl" 
+	"Agabala" "Aggabodhi" "Agibuti" "Ananda" "Anikanga" "Apaya" "Arittha" "Avirada" "Ayasmantha" "Bhuvanekabahu" 
+	"Butisamana" "Chodaganga" "Dahamsena" "Danamitta" "Dappula" "Dathappabhuti" "Dathopatissa" "Dharmapala" "Dharmasena" "Dharmasoka" 
+	"Dhatusena" "Digakassapa" "Diganaguli" "Digasumana" "Gajabahu" "Hadaka" "Hadana" "Hujata" "Jayabahu" "Jetthatissa" 
+	"Jhotisena" "Kashyapa" "Kassapa" "Kitti" "Kittisena" "Kittivarma" "Magamitta" "Mahadeva" "Mahanaga" "Mahasattha" 
+	"Mahasena" "Mahasiva" "Mahinda" "Manavanna" "Mihidala" "Mihindala" "Mitta" "Moggallana" "Nandamitta" "Narendrasinha" 
+	"Nirmala" "Padita" "Parakkamabahu" "Parakramabahu" "Rajasinha" "Rakasala" "Ratana" "Rohaka" "Sadhatissa" "Sagala" 
+	"Saliya" "Sanghamitta" "Sanghatissa" "Sankha" "Sena" "Senarat" "Sidata" "Sigaratissa" "Silameghavanna" "Sinhabahu" 
+	"Siva" "Sobana" "Sobika" "Sudata" "Sumana" "Surakita" "Suratissa" "Tissa" "Udaya" "Upatissa" 
+	"Vassaba" "Vebeliya" "Vepali" "Vijayabahu" "Vikrama" "Vikramabahu" "Vimaladharma" "Vimaladharmasuriya" "Virabahu" "Viranarendra" }
+monarch_names = {
+	"Irâcâticci #0" = -1
+	"Nirupatunkavarman #1" = 21
+	"Sâmavâyi #0" = -1
+	"Kalacci #0" = -1
+	"Paramêsvaravarman #1" = 24
+	"Aaleyaamma #0" = -1
+	"Kâmuttiri #0" = -1
+	"Mârapanmar #0" = 1
+	"Kaucalaiyâr #0" = -1
+	"Tirumûlattânam #0" = -1
+	"Manappâkkîlan #0" = 1
+	"Kariyamâtêvi #0" = -1
+	"Vijayaditya #5" = 0
+	"Saktivarman #1" = 0
+	"Narendra #1" = 0
+	"Vengabhupathi #1" = 0
+	"Bhandanaditya #1" = 0
+	"Prthiviyaraja #1" = 0
+	"Kontân #2" = 0
+	"Tirunattapperumâl #1" = 0
+	"Agabala #0" = 0
+	"Aggabodhi #0" = 0
+	"Agibuti #0" = 0
+	"Ananda #0" = 0
+	"Anikanga #0" = 0
+	"Apaya #0" = 0
+	"Arittha #0" = 0
+	"Avirada #0" = 0
+	"Ayasmantha #0" = 0
+	"Bhuvanekabahu #0" = 0
+	"Butisamana #0" = 0
+	"Chodaganga #0" = 0
+	"Dahamsena #0" = 0
+	"Danamitta #0" = 0
+	"Dappula #0" = 0
+	"Dathappabhuti #0" = 0
+	"Dathopatissa #0" = 0
+	"Dharmapala #0" = 0
+	"Dharmasena #0" = 0
+	"Dharmasoka #0" = 0
+	"Dhatusena #0" = 0
+	"Digakassapa #0" = 0
+	"Diganaguli #0" = 0
+	"Digasumana #0" = 0
+	"Gajabahu #0" = 0
+	"Hadaka #0" = 0
+	"Hadana #0" = 0
+	"Hujata #0" = 0
+	"Jayabahu #0" = 0
+	"Jetthatissa #0" = 0
+	"Jhotisena #0" = 0
+	"Kashyapa #0" = 0
+	"Kassapa #0" = 0
+	"Kitti #0" = 0
+	"Kittisena #0" = 0
+	"Kittivarma #0" = 0
+	"Magamitta #0" = 0
+	"Mahadeva #0" = 0
+	"Mahanaga #0" = 0
+	"Mahasattha #0" = 0
+	"Mahasena #0" = 0
+	"Mahasiva #0" = 0
+	"Mahinda #0" = 0
+	"Manavanna #0" = 0
+	"Mihidala #0" = 0
+	"Mihindala #0" = 0
+	"Mitta #0" = 0
+	"Moggallana #0" = 0
+	"Nandamitta #0" = 0
+	"Narendrasinha #0" = 0
+	"Nirmala #0" = 0
+	"Padita #0" = 0
+	"Parakkamabahu #0" = 0
+	"Parakramabahu #0" = 0
+	"Rajasinha #0" = 0
+	"Rakasala #0" = 0
+	"Ratana #0" = 0
+	"Rohaka #0" = 0
+	"Sadhatissa #0" = 0
+	"Sagala #0" = 0
+	"Saliya #0" = 0
+	"Sanghamitta #0" = 0
+	"Sanghatissa #0" = 0
+	"Sankha #0" = 0
+	"Sena #0" = 0
+	"Senarat #0" = 0
+	"Sidata #0" = 0
+	"Sigaratissa #0" = 0
+	"Silameghavanna #0" = 0
+	"Sinhabahu #0" = 0
+	"Siva #0" = 0
+	"Sobana #0" = 0
+	"Sobika #0" = 0
+	"Sudata #0" = 0
+	"Sumana #0" = 0
+	"Surakita #0" = 0
+	"Suratissa #0" = 0
+	"Tissa #0" = 0
+	"Udaya #0" = 0
+	"Upatissa #0" = 0
+	"Vassaba #0" = 0
+	"Vebeliya #0" = 0
+	"Vepali #0" = 0
+	"Vijayabahu #0" = 0
+	"Vikrama #0" = 0
+	"Vikramabahu #0" = 0
+	"Vimaladharma #0" = 0
+	"Vimaladharmasuriya #0" = 0
+	"Virabahu #0" = 0
+	"Viranarendra #0" = 0
+}
+

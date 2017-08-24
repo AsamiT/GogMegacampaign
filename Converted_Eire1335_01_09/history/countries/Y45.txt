@@ -1,0 +1,26 @@
+# Lesser Poland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1937
+1422.1.1 = {
+	monarch = {
+		name = "Dömötör"
+		birth_date = 1384.9.28
+		dynasty = "Hunyadi"
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1937
+	add_treasury = 20
+	add_prestige = 233
+}

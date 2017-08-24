@@ -1,0 +1,23 @@
+# Vladimir
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 307
+1422.1.20 = {
+	monarch = {
+		name = "Rostislav II"
+		birth_date = 1408.10.20
+		dynasty = "Artamonovich"
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 307
+	add_treasury = 11
+	add_prestige = -11
+}

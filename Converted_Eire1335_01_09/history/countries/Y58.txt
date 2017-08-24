@@ -1,0 +1,23 @@
+# Aepakid
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+capital = 1080
+1441.7.18 = {
+	monarch = {
+		name = "Aepak"
+		birth_date = 1403.6.17
+		dynasty = "Aepakid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 1080
+	add_treasury = 9
+	add_prestige = 80
+}

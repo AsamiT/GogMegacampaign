@@ -1,0 +1,35 @@
+# Kakatiya
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+capital = 1948
+1429.7.5 = {
+	monarch = {
+		name = "Vishnuvardhana III"
+		birth_date = 1414.7.24
+		dynasty = "Kakatiya"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+1434.6.16 = {
+	heir = {
+		name = "Vishnuvardhana"
+		monarch_name = "Vishnuvardhana IV"
+		dynasty = "Kakatiya"
+		birth_date = 1434.6.16
+		death_date = 1514.6.16
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1948
+	add_treasury = 41
+	add_prestige = 270
+}

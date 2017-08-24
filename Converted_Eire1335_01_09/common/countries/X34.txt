@@ -1,0 +1,123 @@
+# Telingana
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 195 50 55 }
+
+
+
+
+leader_names = {
+
+	"Asaraja" "Pratha" "Kharagraha" "Jayshikari" "Anantadevi" "Maharana" "Dilippal" "Samyukta" "Akal" "Manaladevi" 
+	"Karkotak" "Udayasimha" "Shrimitradevi" "Peepalraj" "Jhetpal" "Dattadevi" "Vikramasimha" "Kshemraja" "Somalladevi" "Karmavati" 
+	"Delhanadevi" "Viramdeva" "Naravarmandeva" "Madanapala" "Kalayandevi" "Dhruvadevi" "Annaladevi" "Hariyadevi" "Samanta" "Dehanagadevi" 
+	"Rupadevi" "Sidhawa" "Madhavi" "Virsinghadeva" "Sundaridevi" "Damayanti" "Mahidevi" "Nattadevi" "Maharani" "Karandeva" 
+	"Hemavati" "Somesvara" "Vishnuvardhana" "Viryarama" "Sisupal" "Bachraj" "Nagapala" "Allada" "Allayavema" "Amma" 
+	"Ammaraja" "Anavema" "Anavota" "Ayyapayya" "Baladitya" "Ballaladeva" "Beta" "Bhima" "Bhandanaditya" "Chennappa" 
+	"Danamava" "Devanayaka" "Durgaraja" "Ganapathideva" "Ganapathinayaka" "Indrabhattaraka" "Jayasimha" "Kaapayanayaka" "Kadeyaraja" "Kalakampa" 
+	"Kammanayaka" "Katayavema" "Kumaragiri" "Kubjavishnuvardhana" "Mahadeva" "Mahakala" "Mangiyuvaraja" "Mallapa" "Nachana" "Narendra" 
+	"Niravadyadhavala" "Nrpakama" "Pandaranga" "Prataparudra" "Prola" "Prolayanayak" "Prolayavema" "Prthiviyaraja" "Rajanayaka" "Rajaraja" 
+	"Rudradeva" "Saktivarman" "Singamanayaka" "Somaditya" "Vengabhupathi" "Vijayaditya" "Vimaladitya" "Virabhadra" "Yuddamalla" "Yuddhamalla" }
+monarch_names = {
+	"Asaraja #0" = 1
+	"Pratha #0" = -1
+	"Kharagraha #0" = 1
+	"Jayshikari #0" = 1
+	"Anantadevi #0" = -1
+	"Maharana #0" = 1
+	"Dilippal #0" = 1
+	"Samyukta #0" = -1
+	"Akal #0" = -1
+	"Manaladevi #0" = -1
+	"Karkotak #0" = 1
+	"Udayasimha #0" = 1
+	"Shrimitradevi #0" = -1
+	"Peepalraj #4" = 21
+	"Jhetpal #0" = 1
+	"Dattadevi #0" = -1
+	"Vikramasimha #0" = 1
+	"Kshemraja #0" = 1
+	"Somalladevi #0" = -1
+	"Karmavati #0" = -1
+	"Delhanadevi #0" = -1
+	"Viramdeva #1" = 18
+	"Naravarmandeva #0" = 1
+	"Madanapala #0" = 1
+	"Kalayandevi #0" = -1
+	"Dhruvadevi #0" = -1
+	"Annaladevi #0" = -1
+	"Hariyadevi #0" = -1
+	"Samanta #0" = 1
+	"Dehanagadevi #0" = -1
+	"Rupadevi #0" = -1
+	"Sidhawa #0" = -1
+	"Madhavi #0" = -1
+	"Virsinghadeva #0" = 1
+	"Sundaridevi #0" = -1
+	"Damayanti #0" = -1
+	"Mahidevi #0" = -1
+	"Nattadevi #0" = -1
+	"Maharani #0" = -1
+	"Karandeva #0" = 1
+	"Hemavati #0" = -1
+	"Somesvara #2" = 0
+	"Vishnuvardhana #1" = 0
+	"Viryarama #2" = 0
+	"Sisupal #1" = 0
+	"Bachraj #1" = 0
+	"Nagapala #1" = 0
+	"Allada #0" = 0
+	"Allayavema #0" = 0
+	"Amma #0" = 0
+	"Ammaraja #0" = 0
+	"Anavema #0" = 0
+	"Anavota #0" = 0
+	"Ayyapayya #0" = 0
+	"Baladitya #0" = 0
+	"Ballaladeva #0" = 0
+	"Beta #0" = 0
+	"Bhima #0" = 0
+	"Bhandanaditya #0" = 0
+	"Chennappa #0" = 0
+	"Danamava #0" = 0
+	"Devanayaka #0" = 0
+	"Durgaraja #0" = 0
+	"Ganapathideva #0" = 0
+	"Ganapathinayaka #0" = 0
+	"Indrabhattaraka #0" = 0
+	"Jayasimha #0" = 0
+	"Kaapayanayaka #0" = 0
+	"Kadeyaraja #0" = 0
+	"Kalakampa #0" = 0
+	"Kammanayaka #0" = 0
+	"Katayavema #0" = 0
+	"Kumaragiri #0" = 0
+	"Kubjavishnuvardhana #0" = 0
+	"Mahadeva #0" = 0
+	"Mahakala #0" = 0
+	"Mangiyuvaraja #0" = 0
+	"Mallapa #0" = 0
+	"Nachana #0" = 0
+	"Narendra #0" = 0
+	"Niravadyadhavala #0" = 0
+	"Nrpakama #0" = 0
+	"Pandaranga #0" = 0
+	"Prataparudra #0" = 0
+	"Prola #0" = 0
+	"Prolayanayak #0" = 0
+	"Prolayavema #0" = 0
+	"Prthiviyaraja #0" = 0
+	"Rajanayaka #0" = 0
+	"Rajaraja #0" = 0
+	"Rudradeva #0" = 0
+	"Saktivarman #0" = 0
+	"Singamanayaka #0" = 0
+	"Somaditya #0" = 0
+	"Vengabhupathi #0" = 0
+	"Vijayaditya #0" = 0
+	"Vimaladitya #0" = 0
+	"Virabhadra #0" = 0
+	"Yuddamalla #0" = 0
+	"Yuddhamalla #0" = 0
+}
+

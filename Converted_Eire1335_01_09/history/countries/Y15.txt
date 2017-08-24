@@ -1,0 +1,25 @@
+# Samos
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2348
+1431.2.5 = {
+	monarch = {
+		name = "Vladislav"
+		birth_date = 1411.1.14
+		dynasty = "Batatzes"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2348
+	add_treasury = 52
+	add_prestige = 237
+}

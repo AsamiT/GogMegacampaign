@@ -1,0 +1,26 @@
+# Lüneburg
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 53
+1436.8.15 = {
+	monarch = {
+		name = "Viktor"
+		birth_date = 1414.3.23
+		dynasty = "von Feuchtwangen"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 53
+	add_treasury = 52
+	add_prestige = 86
+	elector = no
+}

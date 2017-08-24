@@ -1,0 +1,24 @@
+# Meissen
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+capital = 59
+1400.12.20 = {
+	monarch = {
+		name = "Guntram"
+		birth_date = 1378.5.27
+		dynasty = "Reginar"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 59
+	add_treasury = 14
+	add_prestige = 304
+	elector = no
+}

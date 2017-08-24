@@ -1,0 +1,26 @@
+# Tripoli
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 378
+1396.8.9 = {
+	monarch = {
+		name = "Yeshayah"
+		birth_date = 1376.3.23
+		dynasty = "Tornikes"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 378
+	add_treasury = 25
+	add_prestige = 291
+}

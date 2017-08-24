@@ -1,0 +1,26 @@
+# França
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = cathar
+clear_scripted_personalities = yes
+capital = 183
+1423.12.4 = {
+	monarch = {
+		name = "Ferrand"
+		birth_date = 1402.1.3
+		dynasty = "von Wangen"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 183
+	add_treasury = 72
+	add_prestige = 491
+}

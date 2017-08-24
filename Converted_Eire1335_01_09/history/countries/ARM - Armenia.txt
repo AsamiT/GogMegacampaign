@@ -1,0 +1,26 @@
+# Armenia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2307
+1404.9.21 = {
+	monarch = {
+		name = "Saim"
+		birth_date = 1390.5.16
+		dynasty = "Pahlavuni"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2307
+	add_treasury = 37
+	add_prestige = 277
+}

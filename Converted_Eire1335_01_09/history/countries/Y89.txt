@@ -1,0 +1,23 @@
+# Selçukid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = shiite
+capital = 413
+1431.2.6 = {
+	monarch = {
+		name = "Tekin II"
+		birth_date = 1423.6.8
+		dynasty = "Selçukid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 413
+	add_treasury = 52
+	add_prestige = 28
+}

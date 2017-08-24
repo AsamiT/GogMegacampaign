@@ -1,0 +1,27 @@
+# Serbia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1827
+1411.8.10 = {
+	monarch = {
+		name = "Sibylla II"
+		birth_date = 1391.1.28
+		dynasty = "Kavallarios"
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1827
+	add_treasury = 21
+	add_prestige = 640
+}

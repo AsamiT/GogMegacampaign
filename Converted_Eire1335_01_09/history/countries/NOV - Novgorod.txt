@@ -1,0 +1,39 @@
+# Novgorod
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1752
+1387.12.19 = {
+	monarch = {
+		name = "Dmitriy"
+		birth_date = 1381.3.20
+		dynasty = "Rurikid"
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1418.12.2 = {
+	heir = {
+		name = "Radoslav"
+		monarch_name = "Radoslav III"
+		dynasty = "Rurikid"
+		birth_date = 1418.12.2
+		death_date = 1498.12.2
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1752
+	add_treasury = 94
+	add_prestige = 675
+}

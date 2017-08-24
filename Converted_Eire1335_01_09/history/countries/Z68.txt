@@ -1,0 +1,26 @@
+# St. Gallen
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1870
+1440.2.23 = {
+	monarch = {
+		name = "Baldarich"
+		birth_date = 1403.12.30
+		dynasty = "von Bamberg"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1870
+	add_treasury = 16
+	add_prestige = 45
+	elector = no
+}

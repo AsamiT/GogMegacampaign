@@ -1,0 +1,27 @@
+# Essex
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = cathar
+clear_scripted_personalities = yes
+capital = 238
+1408.7.7 = {
+	monarch = {
+		name = "Ælfflæd"
+		birth_date = 1398.6.7
+		dynasty = "Stawell"
+		female = yes
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 238
+	add_treasury = 40
+	add_prestige = 317
+}

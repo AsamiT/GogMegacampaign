@@ -1,0 +1,25 @@
+# Bosnia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = serbian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 140
+1435.8.8 = {
+	monarch = {
+		name = "Romanos"
+		birth_date = 1388.2.12
+		dynasty = "Dalessenos"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 140
+	add_treasury = 23
+	add_prestige = 94
+}

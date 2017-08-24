@@ -1,0 +1,174 @@
+# Aragon
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 160 90 20 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	exploration_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Fadrique" "Blanca" "Toda" "Elvira" "Diego" "Fronilda" "Munio" "Gutierre" "Gonzalo" "Inés" 
+	"Oveco" "Jimena" "Alfonso" "García" "Aldonza" "Milia" "Teresa" "Gontroda" "Urraca" "Sancho" 
+	"Álvar" "Suleyman" "Yusuf" "Muhammad" "Sanyo" "Raf" "Mundir" "Hakam" "Amayas" "Ahmad" 
+	"Fahra" "Gamila" "Abbad" "Yasmin" "Aiza" "Nur" "Abu" "Salma" "Hilal" "Rashid" 
+	"Abdul-Aziz" "Kera" "Rafiqa" "Abdul-Rahman" "Dima" "Rodrigo" "Suraya" "Garsiya" "Jyad" "Khadija" 
+	"Fatima" "Abdallah" "Balashk" "Ahu" "Tarifa" "Abu-Bakr" "Munya" "Fahriya" "Habiba" "Abdul-Hasan" 
+	"Amr" "Ayyub" "Utman" "Mubashir" "Zahra" "Daniyah" "Isma'il" "Malika" "Umar" "Umm" 
+	"Maha" "Zahida" "Lope" "Manrique" "Mencía" "Nuño" "Shola" "Abdul-Hakam" "Leonor" "Vela" 
+	"Guillermo" "Isra" "Fruela" "Tello" "Ordoño" "Abda" "Luis" "Gil" "Fernando" "Sancha" 
+	"Mayor" "Anderquina" "Berenguela" "Mafalda" "Alvar" "Guillén" "Ramiro" "Aznar" "Gartzia" "Galindo" 
+	"Andregoto" "Antso" "Osweald" "Felipe" "Estefanía" "Alonso" "Álvaro" "Bermudo" "Enrique" "Gómez" 
+	"Juan" "Martín" "Pedro" "Pelayo" "Suero" }
+monarch_names = {
+	"Fadrique #1" = 27
+	"Blanca #0" = -1
+	"Toda #0" = -1
+	"Elvira #0" = -1
+	"Diego #0" = 1
+	"Fronilda #0" = -1
+	"Munio #2" = 27
+	"Gutierre #0" = 1
+	"Gonzalo #1" = 30
+	"Inés #0" = -1
+	"Oveco #1" = 21
+	"Jimena #0" = -1
+	"Alfonso #1" = 21
+	"García #0" = 1
+	"Aldonza #0" = -1
+	"Milia #0" = -1
+	"Teresa #0" = -1
+	"Gontroda #0" = -1
+	"Urraca #0" = -1
+	"Sancho #0" = 1
+	"Álvar #1" = 33
+	"Suleyman #0" = 1
+	"Yusuf #0" = 1
+	"Muhammad #0" = 1
+	"Sanyo #0" = 1
+	"Raf #0" = 1
+	"Mundir #0" = 1
+	"Hakam #0" = 1
+	"Amayas #0" = 1
+	"Ahmad #2" = 27
+	"Fahra #0" = -1
+	"Gamila #0" = -1
+	"Abbad #0" = 1
+	"Yasmin #0" = -1
+	"Aiza #0" = -1
+	"Nur #0" = -1
+	"Abu #0" = 1
+	"Salma #0" = -1
+	"Hilal #0" = 1
+	"Rashid #0" = 1
+	"Abdul-Aziz #0" = 1
+	"Kera #0" = -1
+	"Rafiqa #0" = -1
+	"Abdul-Rahman #0" = 1
+	"Dima #0" = -1
+	"Rodrigo #0" = 1
+	"Suraya #0" = -1
+	"Garsiya #0" = 1
+	"Jyad #1" = 24
+	"Khadija #0" = -1
+	"Fatima #0" = -1
+	"Abdallah #0" = 1
+	"Balashk #0" = 1
+	"Ahu #0" = -1
+	"Tarifa #0" = -1
+	"Abu-Bakr #0" = 1
+	"Munya #0" = -1
+	"Fahriya #0" = -1
+	"Habiba #0" = -1
+	"Abdul-Hasan #0" = 1
+	"Amr #0" = 1
+	"Ayyub #0" = 1
+	"Utman #0" = 1
+	"Mubashir #0" = 1
+	"Zahra #0" = -1
+	"Daniyah #0" = -1
+	"Isma'il #4" = 30
+	"Malika #0" = -1
+	"Umar #0" = 1
+	"Umm #0" = -1
+	"Maha #0" = -1
+	"Zahida #0" = -1
+	"Lope #0" = 1
+	"Manrique #0" = 1
+	"Mencía #0" = -1
+	"Nuño #0" = 1
+	"Shola #0" = -1
+	"Abdul-Hakam #0" = 1
+	"Leonor #0" = -1
+	"Vela #0" = 1
+	"Guillermo #0" = 1
+	"Isra #0" = -1
+	"Fruela #0" = 1
+	"Tello #0" = 1
+	"Ordoño #0" = 1
+	"Abda #0" = -1
+	"Luis #0" = 1
+	"Gil #1" = 24
+	"Fernando #0" = 1
+	"Sancha #0" = -1
+	"Mayor #0" = -1
+	"Anderquina #0" = -1
+	"Berenguela #0" = -1
+	"Mafalda #0" = -1
+	"Alvar #0" = 1
+	"Guillén #0" = 1
+	"Ramiro #0" = 1
+	"Aznar #2" = 0
+	"Gartzia #3" = 0
+	"Galindo #3" = 0
+	"Andregoto #1" = -1
+	"Antso #2" = 0
+	"Osweald #1" = 0
+	"Felipe #1" = 0
+	"Estefanía #1" = -1
+	"Alonso #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Enrique #0" = 0
+	"Gómez #0" = 0
+	"Juan #0" = 0
+	"Martín #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Suero #0" = 0
+}
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" "La Garsa"  
+}
+

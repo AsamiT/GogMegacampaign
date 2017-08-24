@@ -1,0 +1,26 @@
+# Borbon
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = cathar
+clear_scripted_personalities = yes
+capital = 190
+1441.9.5 = {
+	monarch = {
+		name = "Sybille"
+		birth_date = 1385.11.3
+		dynasty = "Biancolaccio"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 190
+	add_treasury = 17
+	add_prestige = -2
+}

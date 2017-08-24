@@ -1,0 +1,145 @@
+# Mide
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 49 249 72 }
+historical_idea_groups = { 
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Tálán" "Derborgaill" "Sláíne" "Lerben" "Der-bForgaill" "Órnat" "Conn" "Uallach" "Cuircthe" "Sinech" 
+	"Affraic" "Derbáil" "Sisuile" "Máiread" "Abbán" "Abél" "Tigernán" "Gelgéis" "Condál" "Áed" 
+	"Caissín" "Petair" "Séafra" "Lachtnae" "Alv" "Arne" "Arnfinn" "Arnkjell" "Arnmod" "Arnvid" 
+	"Bård" "Bjørn" "Eigil" "Eilif" "Einar" "Eirik" "Erlend" "Erling" "Eystein" "Finn" 
+	"Grim" "Gudbrand" "Gudleik" "Gudrød" "Gunnar" "Guttorm" "Haldor" "Halfdan" "Halkjell" "Harald" 
+	"Håkon" "Håvard" "Inge" "Ivar" "Jon" "Kåre" "Kolbein" "Lodin" "Ogmund" "Olav" 
+	"Ossor" "Pål" "Ragnar" "Ragnvald" "Rolf" "Sigurd" "Skjalg" "Skofte" "Skule" "Svein" 
+	"Sverre" "Torbjørn" "Tord" "Tore" "Torgil" "Tormod" "Torolf" "Torstein" "Trond" "Tryggve" 
+	"Ulv" "Vigleik" "Åle" "Åmund" "Ølver" "Øystein" }
+monarch_names = {
+	"Tálán #1" = 18
+	"Derborgaill #0" = -1
+	"Sláíne #0" = -1
+	"Lerben #0" = -1
+	"Der-bForgaill #0" = -1
+	"Órnat #0" = -1
+	"Conn #0" = 1
+	"Uallach #0" = -1
+	"Cuircthe #0" = 1
+	"Sinech #0" = -1
+	"Affraic #0" = -1
+	"Derbáil #0" = -1
+	"Sisuile #0" = -1
+	"Máiread #0" = -1
+	"Abbán #2" = 21
+	"Abél #1" = 18
+	"Tigernán #0" = 1
+	"Gelgéis #0" = -1
+	"Condál #0" = -1
+	"Áed #1" = 0
+	"Caissín #1" = 0
+	"Petair #1" = 0
+	"Séafra #1" = 0
+	"Lachtnae #1" = 0
+	"Alv #0" = 0
+	"Arne #0" = 0
+	"Arnfinn #0" = 0
+	"Arnkjell #0" = 0
+	"Arnmod #0" = 0
+	"Arnvid #0" = 0
+	"Bård #0" = 0
+	"Bjørn #0" = 0
+	"Eigil #0" = 0
+	"Eilif #0" = 0
+	"Einar #0" = 0
+	"Eirik #0" = 0
+	"Erlend #0" = 0
+	"Erling #0" = 0
+	"Eystein #0" = 0
+	"Finn #0" = 0
+	"Grim #0" = 0
+	"Gudbrand #0" = 0
+	"Gudleik #0" = 0
+	"Gudrød #0" = 0
+	"Gunnar #0" = 0
+	"Guttorm #0" = 0
+	"Haldor #0" = 0
+	"Halfdan #0" = 0
+	"Halkjell #0" = 0
+	"Harald #0" = 0
+	"Håkon #0" = 0
+	"Håvard #0" = 0
+	"Inge #0" = 0
+	"Ivar #0" = 0
+	"Jon #0" = 0
+	"Kåre #0" = 0
+	"Kolbein #0" = 0
+	"Lodin #0" = 0
+	"Ogmund #0" = 0
+	"Olav #0" = 0
+	"Ossor #0" = 0
+	"Pål #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Sigurd #0" = 0
+	"Skjalg #0" = 0
+	"Skofte #0" = 0
+	"Skule #0" = 0
+	"Svein #0" = 0
+	"Sverre #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Tore #0" = 0
+	"Torgil #0" = 0
+	"Tormod #0" = 0
+	"Torolf #0" = 0
+	"Torstein #0" = 0
+	"Trond #0" = 0
+	"Tryggve #0" = 0
+	"Ulv #0" = 0
+	"Vigleik #0" = 0
+	"Åle #0" = 0
+	"Åmund #0" = 0
+	"Ølver #0" = 0
+	"Øystein #0" = 0
+}
+ship_names = {
+	Aoife
+	Ciara Connacht
+	Eithne Emer
+	Leinster
+	Munster
+	Niamh
+	Orla
+	Roisin
+	Ulster
+}
+
