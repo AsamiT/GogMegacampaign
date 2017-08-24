@@ -2,5 +2,8 @@ Changelog (v0.1):
 1. Changed Borgonha-Franca's colour to that of vanilla Burgundy.
 2. Changed Andalus' colour to that of the vanilla Ottomans.
 3. Fixed the demographic typo on Andalus.
-4. Converted the English scum to Catharism.
-5. Converted the principled people of Fife to the way of Constantinople.
+4. Catharism got really popular in Yorkshire again.
+5. Fife decided to stop praising the Bishop of Nowhere, and recognized the Patriarch.
+
+Changelog (v0.1.1):
+1. English atlas-makers and historians find that writing proper Arabic names for the Cordoba Caliphate is stupid.
