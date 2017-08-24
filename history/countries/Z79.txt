@@ -1,0 +1,23 @@
+# Gildun
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = catalan
+religion = sunni
+capital = 213
+1419.4.25 = {
+	monarch = {
+		name = "Azim"
+		birth_date = 1409.10.28
+		dynasty = "Gildun"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 213
+	add_treasury = 54
+	add_prestige = 118
+}

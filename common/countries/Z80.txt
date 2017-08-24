@@ -1,0 +1,265 @@
+# Mundirid
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 202 88 5 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Dima" "Jyad" "Garsiya" "Layla" "Tarifa" "Rashid" "Butayna" "Aliyah" "Isra" "Mariam" 
+	"Thashim" "Fatima" "Mubashir" "Musa" "Daniyah" "Abdul-Aziz" "Ahmad" "Abdul-Rahman" "Abdul-Hasan" "Ali" 
+	"Sanyo" "Salma" "Mundir" "Tariq" "Muyahid" "Abdul-Razzaq" "Zahra" "Utman" "Wannaqo" "Tifilwit" 
+	"Yahaff" "Hilal" "Ayyub" "Tahira" "Adfuns" "Raf" "Siddray" "Nadia" "Abu-Bakr" "Abda" 
+	"Umar" "Safiya" "Huda" "Kera" "Raisa" "Munya" "Hakam" "Muhammad" "Aldonza" "Gamila" 
+	"Abbas" "Khadija" "Ibtisam" "Aiza" "Fahra" "Balashk" "Ahu" "Abu" "Randa" "Ghada" 
+	"Abdul-Hakam" "Amr" "Shakira" "Abbad" "Abdul-Hazm" "Ya'far" "Maha" "Bilal" "Suraya" "Yahya" 
+	"Malika" "Fahriya" "Habiba" "Yasmin" "Karima" "Suleyman" "al-Mundir" "Galind" "Wahab" "Adhémar" 
+	"Acfred" "Aimeric" "Alberic" "Albert" "Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" 
+	"André" "Archambaut" "Arnaut" "Artau" "Aton" "Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" 
+	"Bartoumiéu" "Baudoïn" "Beneset" "Bérard" "Berenguié" "Bermond" "Bernat" "Bernat-Aton" "Bernat-Ezi" "Bertrand" 
+	"Blasi" "Borel" "Boson" "Carles" "Clamenç" "Centolh" "Dàvi" "Dat" "Dodon" "Doumenge" 
+	"Duran" "Ebles" "Emmanuèl" "Enric" "Ermengau" "Estève" "Filip" "Ferrand" "Florènç" "Folquet" 
+	"Francés" "Frederi" "Garcia" "Gaston" "Gausbert" "Gautier" "Gilbèrt" "Girard" "Girvais" "Godafres" 
+	"Gui" "Guichard" "Guigues" "Guilhèm" "Guiraud" "Guitart" "Ives" "Jacme" "Jaufret" "Joan" 
+	"Jorge" "Josselin" "Julian" "Laurènç" "Leon" "Loïs" "Loui" "Lop" "Marçau" "Matfre" 
+	"Matias" "Milo" "Miquel" "Nicholaus" "Odon" "Otton" "Pèire" "Péire-Arnaut" "Péire-Raimond" "Peranudet" 
+	"Pol" "Pons" "Raimond" "Raimond-Berenguié" "Rainaut" "Rainer" "Raolf" "Ricard" "Robèrt" "Rogier" 
+	"Sancho" "Savarics" "Tièrri" "Tibaud" "Toumas" "Ubald" "Ubert" "Uc" "Ugues" "Vézian" 
+	"Vicenç" }
+monarch_names = {
+	"Dima #0" = -1
+	"Jyad #0" = 1
+	"Garsiya #0" = 1
+	"Layla #0" = -1
+	"Tarifa #0" = -1
+	"Rashid #1" = 36
+	"Butayna #0" = -1
+	"Aliyah #0" = -1
+	"Isra #0" = -1
+	"Mariam #0" = -1
+	"Thashim #0" = -1
+	"Fatima #0" = -1
+	"Mubashir #0" = 1
+	"Musa #0" = 1
+	"Daniyah #0" = -1
+	"Abdul-Aziz #0" = 1
+	"Ahmad #0" = 1
+	"Abdul-Rahman #0" = 1
+	"Abdul-Hasan #0" = 1
+	"Ali #2" = 21
+	"Sanyo #0" = 1
+	"Salma #0" = -1
+	"Mundir #0" = 1
+	"Tariq #0" = 1
+	"Muyahid #0" = 1
+	"Abdul-Razzaq #0" = 1
+	"Zahra #0" = -1
+	"Utman #1" = 24
+	"Wannaqo #1" = 21
+	"Tifilwit #0" = 1
+	"Yahaff #0" = 1
+	"Hilal #1" = 24
+	"Ayyub #0" = 1
+	"Tahira #0" = -1
+	"Adfuns #1" = 36
+	"Raf #0" = 1
+	"Siddray #0" = 1
+	"Nadia #0" = -1
+	"Abu-Bakr #0" = 1
+	"Abda #0" = -1
+	"Umar #1" = 18
+	"Safiya #0" = -1
+	"Huda #0" = -1
+	"Kera #0" = -1
+	"Raisa #0" = -1
+	"Munya #0" = -1
+	"Hakam #0" = 1
+	"Muhammad #0" = 1
+	"Aldonza #0" = -1
+	"Gamila #0" = -1
+	"Abbas #0" = 1
+	"Khadija #0" = -1
+	"Ibtisam #0" = -1
+	"Aiza #0" = -1
+	"Fahra #0" = -1
+	"Balashk #0" = 1
+	"Ahu #0" = -1
+	"Abu #0" = 1
+	"Randa #0" = -1
+	"Ghada #0" = -1
+	"Abdul-Hakam #0" = 1
+	"Amr #0" = 1
+	"Shakira #0" = -1
+	"Abbad #1" = 27
+	"Abdul-Hazm #0" = 1
+	"Ya'far #0" = 1
+	"Maha #0" = -1
+	"Bilal #0" = 1
+	"Suraya #0" = -1
+	"Yahya #0" = 1
+	"Malika #0" = -1
+	"Fahriya #0" = -1
+	"Habiba #0" = -1
+	"Yasmin #0" = -1
+	"Karima #0" = -1
+	"Suleyman #1" = 18
+	"al-Mundir #1" = 0
+	"Galind #1" = 0
+	"Wahab #2" = 0
+	"Adhémar #0" = 0
+	"Acfred #0" = 0
+	"Aimeric #0" = 0
+	"Alberic #0" = 0
+	"Albert #0" = 0
+	"Aldebert #0" = 0
+	"Alias #0" = 0
+	"Anfòs #0" = 0
+	"Amalric #0" = 0
+	"Amaneus #0" = 0
+	"Ancelmes #0" = 0
+	"André #0" = 0
+	"Archambaut #0" = 0
+	"Arnaut #0" = 0
+	"Artau #0" = 0
+	"Aton #0" = 0
+	"Audoïn #0" = 0
+	"Aymar #0" = 0
+	"Aymeric #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Beneset #0" = 0
+	"Bérard #0" = 0
+	"Berenguié #0" = 0
+	"Bermond #0" = 0
+	"Bernat #0" = 0
+	"Bernat-Aton #0" = 0
+	"Bernat-Ezi #0" = 0
+	"Bertrand #0" = 0
+	"Blasi #0" = 0
+	"Borel #0" = 0
+	"Boson #0" = 0
+	"Carles #0" = 0
+	"Clamenç #0" = 0
+	"Centolh #0" = 0
+	"Dàvi #0" = 0
+	"Dat #0" = 0
+	"Dodon #0" = 0
+	"Doumenge #0" = 0
+	"Duran #0" = 0
+	"Ebles #0" = 0
+	"Emmanuèl #0" = 0
+	"Enric #0" = 0
+	"Ermengau #0" = 0
+	"Estève #0" = 0
+	"Filip #0" = 0
+	"Ferrand #0" = 0
+	"Florènç #0" = 0
+	"Folquet #0" = 0
+	"Francés #0" = 0
+	"Frederi #0" = 0
+	"Garcia #0" = 0
+	"Gaston #0" = 0
+	"Gausbert #0" = 0
+	"Gautier #0" = 0
+	"Gilbèrt #0" = 0
+	"Girard #0" = 0
+	"Girvais #0" = 0
+	"Godafres #0" = 0
+	"Gui #0" = 0
+	"Guichard #0" = 0
+	"Guigues #0" = 0
+	"Guilhèm #0" = 0
+	"Guiraud #0" = 0
+	"Guitart #0" = 0
+	"Ives #0" = 0
+	"Jacme #0" = 0
+	"Jaufret #0" = 0
+	"Joan #0" = 0
+	"Jorge #0" = 0
+	"Josselin #0" = 0
+	"Julian #0" = 0
+	"Laurènç #0" = 0
+	"Leon #0" = 0
+	"Loïs #0" = 0
+	"Loui #0" = 0
+	"Lop #0" = 0
+	"Marçau #0" = 0
+	"Matfre #0" = 0
+	"Matias #0" = 0
+	"Milo #0" = 0
+	"Miquel #0" = 0
+	"Nicholaus #0" = 0
+	"Odon #0" = 0
+	"Otton #0" = 0
+	"Pèire #0" = 0
+	"Péire-Arnaut #0" = 0
+	"Péire-Raimond #0" = 0
+	"Peranudet #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Raimond #0" = 0
+	"Raimond-Berenguié #0" = 0
+	"Rainaut #0" = 0
+	"Rainer #0" = 0
+	"Raolf #0" = 0
+	"Ricard #0" = 0
+	"Robèrt #0" = 0
+	"Rogier #0" = 0
+	"Sancho #0" = 0
+	"Savarics #0" = 0
+	"Tièrri #0" = 0
+	"Tibaud #0" = 0
+	"Toumas #0" = 0
+	"Ubald #0" = 0
+	"Ubert #0" = 0
+	"Uc #0" = 0
+	"Ugues #0" = 0
+	"Vézian #0" = 0
+	"Vicenç #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

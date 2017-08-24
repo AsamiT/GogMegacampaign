@@ -1,0 +1,23 @@
+# Kanthakotid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+capital = 503
+1443.1.13 = {
+	monarch = {
+		name = "Ekoji"
+		birth_date = 1405.12.8
+		dynasty = "Kanthakotid"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 503
+	add_treasury = 6
+	add_prestige = 36
+}

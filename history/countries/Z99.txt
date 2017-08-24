@@ -1,0 +1,25 @@
+# Paphlagonia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 323
+1443.4.27 = {
+	monarch = {
+		name = "Anthimos"
+		birth_date = 1421.6.3
+		dynasty = "Makrembolites"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 323
+	add_treasury = 82
+	add_prestige = 190
+}

@@ -1,0 +1,25 @@
+# Abu
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2455
+1438.12.5 = {
+	monarch = {
+		name = "Abdul-Hazm II"
+		birth_date = 1424.2.12
+		dynasty = "Abu"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2455
+	add_treasury = 32
+	add_prestige = 12
+}

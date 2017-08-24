@@ -1,0 +1,103 @@
+# Valladolid
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 81 30 243 }
+
+
+
+
+leader_names = {
+
+	"Maha" "Lubb" "Naila" "Garsiya" "Isra" "Habiba" "Ma'n" "Abbas" "Ya'far" "Layla" 
+	"Ahmad" "Suraya" "Tarifa" "Umm" "Fath" "Wannaqo" "Musa" "Fahriya" "Jyad" "Dima" 
+	"Zahida" "Safiya" "Galind" "Fahra" "Ibtisam" "Ghada" "Tifilwit" "Athanasios" "Huda" "Abdul-Aziz" 
+	"Bilal" "Abdul-Hazm" "Lop" "Lope" "Antso" "Ximeno" "Gartzia" "Aznar" "Arnaut" "Gilen" 
+	"Bernart" "Bérenger" "Ebles" "Guilhèm" "Ainès" "Ancelmes" "Bérard" "Bernard" "Centolh" "Heloise" 
+	"Louis" "Abdul-Hakam" "Alfontso" "Alvar" "Belasko" "Bermudo" "Diego" "Donato" "Egidio" "Eneko" 
+	"Erramun" "Fernando" "Fortun" "Galindo" "Gontzal" "Herramel" "Joanes" "Ladron" "Luis" "Manrike" 
+	"Martín" "Munio" "Nuño" "Obeko" "Ordoño" "Pelaio" "Piarres" "Ramiro" "Rodrigo" "Vela" 
+	"Zentulo" }
+monarch_names = {
+	"Maha #0" = -1
+	"Lubb #0" = 1
+	"Naila #0" = -1
+	"Garsiya #2" = 27
+	"Isra #0" = -1
+	"Habiba #0" = -1
+	"Ma'n #0" = 1
+	"Abbas #0" = 1
+	"Ya'far #3" = 27
+	"Layla #0" = -1
+	"Ahmad #0" = 1
+	"Suraya #0" = -1
+	"Tarifa #0" = -1
+	"Umm #0" = -1
+	"Fath #1" = 18
+	"Wannaqo #0" = 1
+	"Musa #0" = 1
+	"Fahriya #0" = -1
+	"Jyad #0" = 1
+	"Dima #0" = -1
+	"Zahida #0" = -1
+	"Safiya #0" = -1
+	"Galind #0" = 1
+	"Fahra #0" = -1
+	"Ibtisam #0" = -1
+	"Ghada #0" = -1
+	"Tifilwit #1" = 18
+	"Athanasios #0" = 1
+	"Huda #0" = -1
+	"Abdul-Aziz #0" = 1
+	"Bilal #0" = 1
+	"Abdul-Hazm #0" = 1
+	"Lop #1" = 0
+	"Lope #2" = 0
+	"Antso #6" = 0
+	"Ximeno #2" = 0
+	"Gartzia #2" = 0
+	"Aznar #1" = 0
+	"Arnaut #1" = 0
+	"Gilen #1" = 0
+	"Bernart #2" = 0
+	"Bérenger #1" = 0
+	"Ebles #1" = 0
+	"Guilhèm #2" = 0
+	"Ainès #1" = -1
+	"Ancelmes #1" = 0
+	"Bérard #1" = 0
+	"Bernard #1" = 0
+	"Centolh #1" = 0
+	"Heloise #1" = -1
+	"Louis #1" = 0
+	"Abdul-Hakam #1" = 0
+	"Alfontso #0" = 0
+	"Alvar #0" = 0
+	"Belasko #0" = 0
+	"Bermudo #0" = 0
+	"Diego #0" = 0
+	"Donato #0" = 0
+	"Egidio #0" = 0
+	"Eneko #0" = 0
+	"Erramun #0" = 0
+	"Fernando #0" = 0
+	"Fortun #0" = 0
+	"Galindo #0" = 0
+	"Gontzal #0" = 0
+	"Herramel #0" = 0
+	"Joanes #0" = 0
+	"Ladron #0" = 0
+	"Luis #0" = 0
+	"Manrike #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Obeko #0" = 0
+	"Ordoño #0" = 0
+	"Pelaio #0" = 0
+	"Piarres #0" = 0
+	"Ramiro #0" = 0
+	"Rodrigo #0" = 0
+	"Vela #0" = 0
+	"Zentulo #0" = 0
+}
+
