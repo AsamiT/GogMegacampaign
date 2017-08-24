@@ -696,5 +696,5 @@ discovered_by = Y73
 	owner = Z16
 	controller = Z16
 	culture = scottish
-	religion = orthodox
+	religion = cathar
 }

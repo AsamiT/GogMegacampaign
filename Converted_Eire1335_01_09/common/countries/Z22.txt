@@ -1,10 +1,9 @@
 # Borgonha-França
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 255 121 51 }
 
-
-
+color = { 148  30  70 }
+revolutionary_colors = { 1  8  5 } #Belgium
 
 leader_names = {
 
@@ -29,6 +28,7 @@ leader_names = {
 	"Josselin" "Julian" "Laurènç" "Leon" "Loïs" "Lop" "Martin" "Matfre" "Matias" "Milo" 
 	"Miquel" "Odon" "Otton" "Pèire" "Péire-Arnaut" "Péire-Raimond" "Raimond" "Rainaut" "Robèrt" "Rogier" 
 	"Sancho" "Savarics" "Tièrri" "Tibaud" "Ugues" "Vicenç" }
+	
 monarch_names = {
 	"Einar #0" = 1
 	"Ragnvald #0" = 1

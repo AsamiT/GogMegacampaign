@@ -3,7 +3,7 @@ owner = SCO
 controller = SCO
 add_core = SCO
 culture = anglo_saxon
-religion = orthodox
+religion = cathar
 citysize = 2000
 add_permanent_claim = ENG
 discovered_by = eastern
@@ -694,5 +694,5 @@ discovered_by = Y73
 	owner = SCO
 	controller = SCO
 	culture = anglo_saxon
-	religion = orthodox
+	religion = cathar
 }

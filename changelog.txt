@@ -1,0 +1,6 @@
+Changelog (v0.1):
+1. Changed Borgonha-Franca's colour to that of vanilla Burgundy.
+2. Changed Andalus' colour to that of the vanilla Ottomans.
+3. Fixed the demographic typo on Andalus.
+4. Converted the English scum to Catharism.
+5. Converted the principled people of Fife to the way of Constantinople.

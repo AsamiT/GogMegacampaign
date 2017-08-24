@@ -1,7 +1,10 @@
 # Al-Andalus
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 233 200 20 }
+
+color = { 126  203  120 }
+revolutionary_colors = { 5  9  5 } #Ottoman Civil Ensign
+
 historical_idea_groups = {
 	religious_ideas
 	exploration_ideas

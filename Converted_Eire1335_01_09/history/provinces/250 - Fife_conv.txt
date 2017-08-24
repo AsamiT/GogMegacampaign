@@ -693,5 +693,5 @@ discovered_by = Y73
 	owner = SCO
 	controller = SCO
 	culture = scottish
-	religion = catholic
+	religion = orthodox
 }
