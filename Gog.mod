@@ -1,6 +1,6 @@
-name = "Converted_Al-Andalu1335_01_09"
-path = "mod/Converted_Al-Andalu1335_01_09"
-user_dir = "Converted_Al-Andalu1335_01_09"
+name = "Gog's Megacampaign"
+path = "mod/Gog"
+user_dir = "Gogmod"
 disable_time_widget = yes
 normal_or_historical_nations = no
 supported_version = "1.22"
