@@ -15,4 +15,8 @@ germanic = {
 		primary = NED
 		dynasty_names = { "van Vlaanderen" }
 	}
+	anglo_saxon = {
+		primary = ENG
+		dynasty_names = { }
+	}
 }
