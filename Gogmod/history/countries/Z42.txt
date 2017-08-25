@@ -6,7 +6,7 @@ technology_group = eastern
 primary_culture = german
 religion = orthodox
 clear_scripted_personalities = yes
-capital = 43
+capital = 254
 1404.11.8 = {
 	monarch = {
 		name = "Adalhard"
@@ -22,5 +22,5 @@ capital = 43
 	capital = 43
 	add_treasury = 43
 	add_prestige = 424
-	elector = no
+	elector = yes
 }

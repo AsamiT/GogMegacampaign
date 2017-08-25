@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y82
-controller = Y82
-add_core = Y82
+owner = EGY
+controller = EGY
+add_core = EGY
 culture = al_misr_arabic
 religion = shiite
 citysize = 2000
@@ -693,8 +693,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y82
-	controller = Y82
+	owner = EGY
+	controller = EGY
 	culture = al_misr_arabic
 	religion = shiite
 }

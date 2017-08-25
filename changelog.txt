@@ -85,3 +85,8 @@ Changelog (v0.3.3):
 Changelog (v0.3.4):
 1. Expanded the number of princely states in the HRE to prevent IA from tanking immediately.
 2. Corrected some issues with the HRE's internals.
+
+Changelog (v0.3.5):
+1. Added localization to Irish and Burgundian ideas
+2. Changed Egypt-Abyssinia border
+3. Made Greater Poland an elector.
