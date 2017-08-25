@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TRE
-controller = TRE
-add_core = TRE
+owner = NAP
+controller = NAP
+add_core = NAP
 culture = greek
 religion = orthodox
 citysize = 2000
@@ -155,7 +155,7 @@ discovered_by = Y73
 	remove_core = ITA
 	remove_core = MAN
 	remove_core = MOD
-	remove_core = NAP
+	remove_core = TRE
 	remove_core = PAP
 	remove_core = PAR
 	remove_core = PIS
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = TRE
-	controller = TRE
+	owner = NAP
+	controller = NAP
 	culture = greek
 	religion = orthodox
 

@@ -16,9 +16,11 @@ DONE
 DONE
 8a. 2473 and 126 to Sicily; set capital to 125.
 DONE
-
 9. 123, 2984, 1934, 2983, 122, 1933, 2985 to NAP; name Magna Graecia, vassal of Byzantium
-
+DONE?
+	9a. Add a young heir for King Konstantinos.
+	9b. Annex 120 and 121.
+DONE!
 
 10. 120, 2976, 119 to Byzantium.
 11. 140, 3002 to Byzantium.

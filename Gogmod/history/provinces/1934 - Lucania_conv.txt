@@ -2,6 +2,7 @@ ck2_converter_generated = yes
 owner = NAP
 controller = NAP
 add_core = NAP
+add_permanent_claim = BYZ
 culture = greek
 religion = orthodox
 citysize = 2000

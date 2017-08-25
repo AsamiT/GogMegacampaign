@@ -1,25 +1,28 @@
-Changelog (v0.1):
+Changelog (v0.1, Expedition):
 1. Changed Borgonha-Franca's colour to that of vanilla Burgundy.
 2. Changed Andalus' colour to that of the vanilla Ottomans.
 3. Fixed the demographic typo on Andalus.
 4. Catharism got really popular in Yorkshire again.
 5. Fife decided to stop praising the Bishop of Nowhere, and recognized the Patriarch.
 
-Changelog (v0.1.1):
+Changelog (v0.1.1, Livingstone):
 1. English atlas-makers and historians find that writing proper Arabic names for the Cordoba Caliphate is stupid.
 
-Changelog (v0.1.2):
+Changelog (v0.1.2, McCartney):
 1. Got half of Ireland onto the Twelve Steps, and got them to give up booze.
 2. 'And lo', God said on the seventh day--"let there be Sicily."
 
-Changelog (v0.1.3):
+Changelog (v0.1.3, Imperial Purple):
 1. The Emperor has wisely decided to permit his Sicilian subjects to administer His Tunisian Holdings, and the Great Isle of Malta.
 2. The Duchess of Sicily has dropped her claims over Corfu, and relocated her capital back to Palermo.
 3. Naples was renamed to 'Magna Graecia', reflecting G R E E K R U L E
 4. Gave the Orthodox and Catholic Churches a much-needed makeover.
 5. Andalus adopted a new flag around the turn of the 15th Century.
 
-Changelog (v0.1.4):
+Changelog (v0.1.4, Neapolitan):
 1. Fixed naming issue with Catholicism and Orthodoxy.
 2. Gave Catholic and Orthodox a special flavor text to match in-universe canon. I can't be arsed to do anything to the others.
 3. Naples is given a fresh coat of paint.
+4. Naples annexes Napoli and Abruzzia.
+5. Byzantium claims Naples, of course.
+6. Naples got a new Heir.
