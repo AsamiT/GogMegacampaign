@@ -2,6 +2,7 @@ ck2_converter_generated = yes
 owner = BOS
 controller = BOS
 add_core = BOS
+add_core = Z98
 culture = hungarian
 religion = orthodox
 citysize = 2000

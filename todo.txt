@@ -1,39 +1,3 @@
-1. Make Z22 Burgundy Again (check EU4 vanilla files on that)
-DONE
-2. Make Al-Andalus 'Ottoman green'
-DONE
-3. Fix Al-Andalus' flag to be Andalusia
-DONE
-4. Fix al-Andalus typo
-DONE
-5. 1861, 245, 244, 246, 248(+ Lothian) to Cathar
-DONE
-6. 250 to Orthodox
-DONE
-7. 372, 4121, 373, 4120 to Sunni
-DONE
-8. 125, 124, 2982 to SIC; name Sicily, vassal of Byzantium
-DONE
-8a. 2473 and 126 to Sicily; set capital to 125.
-DONE
-9. 123, 2984, 1934, 2983, 122, 1933, 2985 to NAP; name Magna Graecia, vassal of Byzantium
-DONE?
-	9a. Add a young heir for King Konstantinos.
-	9b. Annex 120 and 121.
-DONE!
-
-10. 2976, 119 to Byzantium.
-DONE!
-11. 140, 3002 to Byzantium.
-DONE, moved to Bosnia
-11a. 1828 1767 139 4173 139 1831 - Bosnia
-11b. 4239 141 1827 1766 - Serbia
-11c. Remove Serbian core: 138 137
-11d. Remove foreign cores on Dalmatia
-
-12. 4176 to Byzantium.
-13. 2746 to Bulgaria.
-14. 3001, 1853, 143, 4175, 4174, 3003 to Byzantium
 15. 2962, 1942, 280, 4247, 1941, 4115, 276, 272, 1937, 270 to VOL
 16. 767, 41, 40 to Y25
 17. Create one-time decision to determine if Scotland wants to be Cathar or Orthodox.
