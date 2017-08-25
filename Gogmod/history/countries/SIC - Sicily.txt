@@ -5,7 +5,7 @@ mercantilism = 0.1
 technology_group = eastern
 primary_culture = greek
 religion = orthodox
-capital = 142
+capital = 125
 1409.6.21 = {
 	monarch = {
 		name = "Epiphania"
@@ -18,7 +18,7 @@ capital = 142
 	}
 }
 1444.11.11 = {
-	capital = 142
+	capital = 125
 	add_treasury = 104
 	add_prestige = 278
 }
