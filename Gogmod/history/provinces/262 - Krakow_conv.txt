@@ -196,7 +196,7 @@ discovered_by = Y73
 	remove_core = ZAZ
 	remove_core = FEO
 	remove_core = BSH
-	remove_core = VOL
+	
 	remove_core = OKA
 	remove_core = OMA
 	remove_core = HED
