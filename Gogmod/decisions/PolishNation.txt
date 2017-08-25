@@ -1,6 +1,6 @@
 country_decisions = {
 
-	polish_nation = {
+	gvol_poland = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = formed_poland_flag }
