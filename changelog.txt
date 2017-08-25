@@ -46,3 +46,6 @@ Changelog (v0.1.7):
 
 Changelog (v0.1.7a):
 1. Fixed a Byzzie permanent claim in Africa.
+
+Changelog (v0.1.7b):
+1. Byzantium strengthened with Moldava, I hope?
