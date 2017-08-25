@@ -1,12 +1,11 @@
 ck2_converter_generated = yes
-owner = Y70
-controller = Y70
-add_core = Y70
+owner = Y82
+controller = Y82
+add_core = Y82
 culture = al_misr_arabic
 religion = shiite
 citysize = 2000
 add_permanent_claim = IRQ
-add_permanent_claim = Y82
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -14,7 +13,7 @@ discovered_by = ottoman
 discovered_by = Y43
 discovered_by = Y56
 discovered_by = Y60
-discovered_by = Y70
+discovered_by = Y82
 discovered_by = Y73
 1444.11.11 = {
 	hre = no
@@ -693,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y70
-	controller = Y70
+	owner = Y82
+	controller = Y82
 	culture = al_misr_arabic
 	religion = shiite
 }

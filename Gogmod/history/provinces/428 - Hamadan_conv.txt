@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y70
-controller = Y70
-add_core = Y70
+owner = Y62
+controller = Y62
+add_core = Y62
 culture = persian
 religion = sunni
 citysize = 2000
@@ -13,7 +13,7 @@ discovered_by = ottoman
 discovered_by = Y43
 discovered_by = Y56
 discovered_by = Y60
-discovered_by = Y70
+discovered_by = Y62
 discovered_by = Y73
 1444.11.11 = {
 	hre = no
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y70
-	controller = Y70
+	owner = Y62
+	controller = Y62
 	culture = persian
 	religion = sunni
 

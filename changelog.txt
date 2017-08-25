@@ -60,3 +60,7 @@ Changelog (v0.2):
 
 Changelog (v0.2a):
 1. Fixed some... stuff.
+
+Changelog (v0.2.1):
+1. Hedjaz is now an independent Buddhist state under Jamalid protection.
+2. Major border revisions undertaken in the Middle East.

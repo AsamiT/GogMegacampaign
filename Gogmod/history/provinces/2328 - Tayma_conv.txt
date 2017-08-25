@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y62
-controller = Y62
-add_core = Y62
+owner = HED
+controller = HED
+add_core = HED
 culture = turkish
 religion = sunni
 citysize = 2000
@@ -197,7 +197,6 @@ discovered_by = Y73
 	remove_core = VOL
 	remove_core = OKA
 	remove_core = OMA
-	remove_core = HED
 	remove_core = ALH
 	remove_core = ARB
 	remove_core = ORM
@@ -692,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y62
-	controller = Y62
+	owner = HED
+	controller = HED
 	culture = turkish
-	religion = sunni
+	religion = buddhism
 }

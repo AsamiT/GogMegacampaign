@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y83
-controller = Y83
-add_core = Y83
+owner = HED
+controller = HED
+add_core = HED
 culture = al_misr_arabic
 religion = shiite
 citysize = 2000
@@ -196,7 +196,6 @@ discovered_by = Y73
 	remove_core = VOL
 	remove_core = OKA
 	remove_core = OMA
-	remove_core = HED
 	remove_core = ALH
 	remove_core = ARB
 	remove_core = ORM
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y83
-	controller = Y83
+	owner = HED
+	controller = HED
 	culture = al_misr_arabic
-	religion = shiite
+	religion = buddhism
 }

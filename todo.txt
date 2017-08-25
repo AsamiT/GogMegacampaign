@@ -2,3 +2,4 @@
 2. Find a way to implement the Burgundian ideas.
 3. Create one-time decision to determine if Scotland wants to be Cathar or Orthodox.
 4. Create one-time decision to determine if Korea wants to be Cathar or Orthodox.
+5. Create a decision to allow Rus' to form Russia proper.

@@ -6,7 +6,6 @@ culture = al_misr_arabic
 religion = shiite
 citysize = 2000
 add_permanent_claim = Z22
-add_permanent_claim = EGY
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -32,7 +31,7 @@ discovered_by = Y73
 	remove_core = KRL
 	remove_core = ICE
 	remove_core = BYZ
-	remove_core = BUL
+	
 	remove_core = CRO
 	remove_core = GRE
 	remove_core = SER
@@ -220,7 +219,7 @@ discovered_by = Y73
 	remove_core = TRP
 	remove_core = ALG
 	remove_core = MOR
-	remove_core = EGY
+	
 	remove_core = TUN
 	remove_core = KBA
 	remove_core = MZB

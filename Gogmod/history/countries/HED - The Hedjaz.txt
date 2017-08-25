@@ -1,0 +1,29 @@
+government = tribal_kingdom
+government_rank = 1
+technology_group = muslim
+religion = buddhism
+primary_culture = turkish
+capital = 385	# Jiddah
+
+
+1397.1.1 = {
+	monarch = {
+		name = "Suleiman"
+		dynasty = "Kara-Khanid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_piety = -0.05
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "Suleiman II"
+		dynasty = "Kara-Khanid"
+		birth_date = 1400.6.3
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
