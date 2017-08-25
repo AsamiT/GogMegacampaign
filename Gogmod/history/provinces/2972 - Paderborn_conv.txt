@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = BRU
+controller = BRU
+add_core = BRU
 culture = german
 religion = orthodox
 citysize = 2000
@@ -107,7 +107,7 @@ discovered_by = Y73
 	remove_core = MVA
 	remove_core = BRA
 	remove_core = BRE
-	remove_core = BRU
+	
 	remove_core = GER
 	remove_core = HAB
 	remove_core = HAM
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = BAV
-	controller = BAV
+	owner = BRU
+	controller = BRU
 	culture = german
 	religion = orthodox
 }

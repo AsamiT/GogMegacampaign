@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z06
-controller = Z06
-add_core = Z06
+owner = HAM
+controller = HAM
+add_core = HAM
 culture = german
 religion = orthodox
 citysize = 2000
@@ -111,7 +111,6 @@ discovered_by = Y73
 	remove_core = BRU
 	remove_core = GER
 	remove_core = HAB
-	remove_core = HAM
 	remove_core = HLR
 	remove_core = LOR
 	remove_core = LUN
@@ -692,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z06
-	controller = Z06
+	owner = HAM
+	controller = HAM
 	culture = german
 	religion = orthodox
 }

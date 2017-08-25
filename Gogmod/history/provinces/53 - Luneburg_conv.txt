@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = LUN
+controller = LUN
+add_core = LUN
 culture = german
 religion = orthodox
 citysize = 2000
-add_permanent_claim = LUN
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -113,7 +112,6 @@ discovered_by = Y73
 	remove_core = HAM
 	remove_core = HLR
 	remove_core = LOR
-	remove_core = LUN
 	remove_core = MAI
 	remove_core = MEI
 	remove_core = MKL
@@ -691,8 +689,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = BAV
-	controller = BAV
+	owner = LUN
+	controller = LUN
 	culture = german
 	religion = orthodox
 }

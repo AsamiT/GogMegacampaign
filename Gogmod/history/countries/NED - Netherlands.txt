@@ -1,0 +1,23 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = dutch
+add_accepted_culture = german
+religion = orthodox
+capital = 97 # Brabant
+
+#1477.1.5 = {
+#	government_rank = 1
+#}
+
+1444.11.11 = {
+	monarch = {
+		name = "Willem I"
+		dynasty = "van Oranje"
+		birth_date = 1422.8.18
+		adm = 5
+		dip = 4
+		mil = 5
+		leader = { name = "Willem van Oranje"	type = general		rank = 0	fire = 3	shock = 3	manuever = 4	siege = 1 }
+	}
+}

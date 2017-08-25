@@ -1,12 +1,12 @@
 ck2_converter_generated = yes
-owner = Z44
-controller = Z44
-add_core = Z44
+owner = BRU
+controller = BRU
+add_core = BRU
 culture = german
 religion = orthodox
 citysize = 2000
 add_permanent_claim = HAN
-add_permanent_claim = BAV
+add_permanent_claim = BRU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -104,12 +104,12 @@ discovered_by = Y73
 	remove_core = PIC
 	remove_core = ANH
 	remove_core = BAD
-	remove_core = BAV
+	
 	remove_core = BOH
 	remove_core = MVA
 	remove_core = BRA
 	remove_core = BRE
-	remove_core = BRU
+	
 	remove_core = GER
 	remove_core = HAB
 	remove_core = HAM
@@ -693,8 +693,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z44
-	controller = Z44
+	owner = BRU
+	controller = BRU
 	culture = german
 	religion = orthodox
 }

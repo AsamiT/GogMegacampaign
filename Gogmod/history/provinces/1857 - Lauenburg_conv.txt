@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z06
-controller = Z06
-add_core = Z06
+owner = LAU
+controller = LAU
+add_core = LAU
 culture = danish
 religion = orthodox
 citysize = 2000
@@ -290,7 +290,7 @@ discovered_by = Y73
 	remove_core = PAL
 	remove_core = ANS
 	remove_core = MAG
-	remove_core = LAU
+	
 	remove_core = STY
 	remove_core = MOE
 	remove_core = NOG
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z06
-	controller = Z06
+	owner = LAU
+	controller = LAU
 	culture = danish
 	religion = orthodox
 }

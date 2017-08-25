@@ -1,13 +1,10 @@
 ck2_converter_generated = yes
-owner = BOH
-controller = BOH
-add_core = BOH
-culture = german
+owner = NED
+controller = NED
+add_core = NED
+culture = dutch
 religion = orthodox
 citysize = 2000
-add_permanent_claim = Z56
-add_permanent_claim = HOL
-add_permanent_claim = Z60
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -330,7 +327,7 @@ discovered_by = Y73
 	remove_core = RVA
 	remove_core = DTT
 	remove_core = ETR
-	remove_core = NED
+	
 	remove_core = QAS
 	remove_core = BLO
 	remove_core = RSO
@@ -694,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = BOH
-	controller = BOH
-	culture = german
+	owner = NED
+	controller = NED
+	culture = dutch
 	religion = orthodox
 }

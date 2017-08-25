@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = POM
-controller = POM
-add_core = POM
+owner = MKL
+controller = MKL
+add_core = MKL
 culture = pommeranian
 religion = orthodox
 citysize = 2000
@@ -116,7 +116,6 @@ discovered_by = Y73
 	remove_core = LUN
 	remove_core = MAI
 	remove_core = MEI
-	remove_core = MKL
 	remove_core = MUN
 	remove_core = OLD
 	remove_core = SAX
@@ -690,8 +689,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = POM
-	controller = POM
+	owner = MKL
+	controller = MKL
 	culture = pommeranian
 	religion = orthodox
 }

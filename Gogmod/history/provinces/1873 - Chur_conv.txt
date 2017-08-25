@@ -1,12 +1,12 @@
 ck2_converter_generated = yes
-owner = BOH
-controller = BOH
-add_core = BOH
-culture = german
+owner = SWI
+controller = SWI
+add_core = SWI
+culture = swiss
 religion = orthodox
 citysize = 2000
 add_permanent_claim = Z74
-add_permanent_claim = TIR
+add_permanent_claim = SWI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -125,7 +125,7 @@ discovered_by = Y73
 	remove_core = SIL
 	remove_core = SLZ
 	remove_core = THU
-	remove_core = TIR
+	
 	remove_core = TRI
 	remove_core = ULM
 	remove_core = WBG
@@ -133,7 +133,7 @@ discovered_by = Y73
 	remove_core = KOL
 	remove_core = KLE
 	remove_core = EFR
-	remove_core = SWI
+	
 	remove_core = NSA
 	remove_core = AUG
 	remove_core = HAN
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = BOH
-	controller = BOH
-	culture = german
+	owner = SWI
+	controller = SWI
+	culture = swiss
 	religion = orthodox
 }
