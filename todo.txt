@@ -1,3 +1,4 @@
-1. Change colour of Orthodox and Cathar to something reddish and whitish respectively.
-17. Create one-time decision to determine if Scotland wants to be Cathar or Orthodox.
-18. Create one-time decision to determine if Korea wants to be Cathar or Orthodox.
+1. Check and rebalance the Byzantines and Burgundy--give them a buff?
+2. Find a way to implement the Burgundian ideas.
+3. Create one-time decision to determine if Scotland wants to be Cathar or Orthodox.
+4. Create one-time decision to determine if Korea wants to be Cathar or Orthodox.
