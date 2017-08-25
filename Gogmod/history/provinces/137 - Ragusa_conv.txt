@@ -5,7 +5,6 @@ add_core = Z98
 culture = serbian
 religion = orthodox
 citysize = 2000
-add_core = SER
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

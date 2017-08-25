@@ -30,3 +30,8 @@ Changelog (v0.1.4, Neapolitan):
 Changelog (v0.1.5, Bosnia):
 1. Byzantium has decided to directly administer Central Italy.
 2. Bosnia is a thing now?
+
+Changelog (v0.1.6, Serbia):
+1. Serbia is now a thing.
+2. Serbia is reduced to a weak princely state. Beware the Black Hand!
+3. Bulgaria gives up it's weak claim on Dalmatia.

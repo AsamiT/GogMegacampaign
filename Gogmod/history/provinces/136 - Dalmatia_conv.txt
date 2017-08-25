@@ -6,7 +6,6 @@ culture = croatian
 religion = orthodox
 citysize = 2000
 add_permanent_claim = CRO
-add_core = BUL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
