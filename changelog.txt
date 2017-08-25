@@ -90,3 +90,6 @@ Changelog (v0.3.5):
 1. Added localization to Irish and Burgundian ideas
 2. Changed Egypt-Abyssinia border
 3. Made Greater Poland an elector.
+
+Changelog (v0.4, 'Polish Update'):
+1. Kingdom of Poland can now be formed by any Polish realm.
