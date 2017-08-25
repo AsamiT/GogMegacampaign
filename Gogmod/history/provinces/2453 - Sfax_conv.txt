@@ -5,7 +5,6 @@ add_core = Z75
 culture = berber
 religion = catholic
 citysize = 2000
-add_permanent_claim = Z98
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

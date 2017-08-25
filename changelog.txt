@@ -43,3 +43,6 @@ Changelog (v0.1.7):
 4. Byzantine cores strengthened in many regions.
 5. Got the god-damn Cathars out of Macedonia.
 6. Byzantium weakens their annoying Trebizondi partners.
+
+Changelog (v0.1.7a):
+1. Fixed a Byzzie permanent claim in Africa.
