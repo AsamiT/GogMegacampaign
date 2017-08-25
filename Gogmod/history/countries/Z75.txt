@@ -7,6 +7,7 @@ primary_culture = andalucian
 religion = sunni
 clear_scripted_personalities = yes
 capital = 224
+historical_friend = Z02
 1432.3.6 = {
 	monarch = {
 		name = "Abu"

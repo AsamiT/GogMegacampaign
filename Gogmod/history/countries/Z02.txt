@@ -7,6 +7,7 @@ primary_culture = irish
 religion = sunni
 clear_scripted_personalities = yes
 capital = 372
+historical_friend = Z75
 1413.8.12 = {
 	monarch = {
 		name = "Lachtnae"

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = POL
-controller = POL
-add_core = POL
+owner = VOL
+controller = VOL
+add_core = VOL
 culture = polish
 religion = orthodox
 citysize = 2000
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = POL
-	controller = POL
+	owner = VOL
+	controller = VOL
 	culture = polish
 	religion = orthodox
 }
