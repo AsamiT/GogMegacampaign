@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
-owner = HUN
-controller = HUN
-add_core = HUN
-culture = hungarian
+owner = VOL
+controller = VOL
+add_core = VOL
+culture = VOLgarian
 religion = orthodox
 citysize = 2000
 discovered_by = eastern
@@ -690,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = HUN
-	controller = HUN
-	culture = hungarian
+	owner = VOL
+	controller = VOL
+	culture = VOLgarian
 	religion = orthodox
 }

@@ -49,3 +49,8 @@ Changelog (v0.1.7a):
 
 Changelog (v0.1.7b):
 1. Byzantium strengthened with Moldava, I hope?
+
+Changelog (v0.1.8):
+1. Expansion of Galinda's heartland in Prussia.
+2. Poland is now tied to the huge vassal state of Hungary.
+

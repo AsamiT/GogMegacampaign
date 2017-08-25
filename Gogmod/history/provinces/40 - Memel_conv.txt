@@ -1,9 +1,9 @@
 ck2_converter_generated = yes
-owner = Z06
-controller = Z06
-add_core = Z06
-culture = danish
-religion = orthodox
+owner = Y25
+controller = Y25
+add_core = Y25
+culture = mongol
+religion = sunni
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z06
-	controller = Z06
+	owner = Y25
+	controller = Y25
 	culture = danish
 	religion = orthodox
 }
