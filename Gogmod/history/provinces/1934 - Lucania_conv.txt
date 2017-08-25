@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Z98
-controller = Z98
-add_core = Z98
+owner = NAP
+controller = NAP
+add_core = NAP
 culture = greek
 religion = orthodox
 citysize = 2000
-add_core = SIC
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -154,7 +153,7 @@ discovered_by = Y73
 	remove_core = ITA
 	remove_core = MAN
 	remove_core = MOD
-	remove_core = NAP
+	remove_core = Z98
 	remove_core = PAP
 	remove_core = PAR
 	remove_core = PIS
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z98
-	controller = Z98
+	owner = NAP
+	controller = NAP
 	culture = greek
 	religion = orthodox
 }
