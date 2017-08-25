@@ -7,6 +7,8 @@ primary_culture = greek
 religion = orthodox
 clear_scripted_personalities = yes
 capital = 330
+historical_friend = Z98
+
 1401.3.9 = {
 	monarch = {
 		name = "Valerios"

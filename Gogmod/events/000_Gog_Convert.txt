@@ -1,0 +1,239 @@
+namespace = gog_convert
+
+country_event = {
+	id = gog_convert.100
+	title = "gog_convert.100.title"
+	desc = "gog_convert.100.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	is_triggered_only = yes
+	
+	option = { #Christian
+		name = "gog_convert.100.a"
+		country_event = {
+			id = gog_convert.101
+			days = 0
+		}
+	}
+	
+	option = {	#Muslim
+		name = "gog_convert.100.b"
+		country_event = {
+			id = gog_convert.102
+			days = 0
+		}
+	}
+	
+	option = {		#Eastern
+		name = "gog_convert.100.c"
+		country_event = {
+			id = gog_convert.103
+			days = 0
+		}
+	}
+	
+	option = {		#Pagan
+		name = "gog_convert.100.d"
+		country_event = {
+			id = gog_convert.104
+			days = 0
+		}
+	}
+	
+	option = {		# others
+		name = "gog_convert.100.e"
+		country_event = {
+			id = gog_convert.105
+			days = 0
+		}
+	}
+}
+
+country_event = {	# christian
+	id = gog_convert.101
+	title = "gog_convert.101.title"
+	desc = "gog_convert.101.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	is_triggered_only = yes
+
+	option = { 		# Catharism
+		name = "gog_convert.101.a"
+		change_religion = cathar
+		capital_scope = { change_religion = cathar }
+	}
+	
+	option = {		# Pentarchist
+		name = "gog_convert.101.b"
+		change_religion = orthodox
+		capital_scope = { change_religion = orthodox }
+	}
+	
+	option = {		# Papist - can convert to Protestant
+		name = "gog_convert.101.c"
+		change_religion = catholic
+		capital_scope = { change_religion = catholic }
+	}
+	
+	option = {		# Coptic
+		name = "gog_convert.101.d"
+		change_religion = coptic
+		capital_scope = { change_religion = coptic }
+	}
+	
+	option = { #Nestorian
+		name = "gog_convert.101.e"
+		change_religion = nestorian
+		capital_scope = { change_religion = nestorian }
+	}
+}
+
+country_event = {	# muslim
+	id = gog_convert.102
+	title = "gog_convert.102.title"
+	desc = "gog_convert.102.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	is_triggered_only = yes
+
+	option = {		# Sunni
+		name = "gog_convert.102.a"
+		change_religion = sunni
+		capital_scope = { change_religion = sunni }
+	}
+	
+	option = {		# Shiite
+		name = "gog_convert.102.b"
+		change_religion = shiite
+		capital_scope = { change_religion = shiite }
+	}
+	
+	option = {		# Ibadi
+		name = "gog_convert.102.c"
+		change_religion = ibadi
+		capital_scope = { change_religion = ibadi }
+	}
+}
+
+country_event = {	# eastern
+	id = gog_convert.103
+	title = "gog_convert.103.title"
+	desc = "gog_convert.103.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	is_triggered_only = yes
+
+	option = {		# Therevada
+		name = "gog_convert.103.a"
+		change_religion = buddhism
+		capital_scope = { change_religion = buddhism }
+	}
+	
+	option = {		# vajrayana
+		name = "gog_convert.103.b"
+		change_religion = vajrayana
+		capital_scope = { change_religion = vajrayana }
+	}
+	
+	option = {		# mahayana
+		name = "gog_convert.103.c"
+		change_religion = mahayana
+		capital_scope = { change_religion = mahayana }
+	}
+	
+	option = {		# confucianism
+		name = "gog_convert.103.d"
+		change_religion = confucianism
+		capital_scope = { change_religion = confucianism }
+	}
+	
+	option = {		# shinto
+		name = "gog_convert.103.e"
+		change_religion = shinto
+		capital_scope = { change_religion = shinto }
+	}
+}
+
+country_event = {	# pagan
+	id = gog_convert.104
+	title = "gog_convert.104.title"
+	desc = "gog_convert.104.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	is_triggered_only = yes
+	
+	option = {		# norse_pagan_reformed
+		name = "gog_convert.104.g"
+		change_religion = norse_pagan_reformed
+		capital_scope = { change_religion = norse_pagan_reformed }
+		}
+	
+	option = {		# tengri_pagan_reformed
+		name = "gog_convert.104.h"
+		change_religion = tengri_pagan_reformed
+		capital_scope = { change_religion = tengri_pagan_reformed }
+	}
+	
+	option = {
+		name = "gog_convert.104.i"
+		capital_scope = { change_religion = baltic_pagan_reformed }
+		change_religion = baltic_pagan_reformed
+	}
+	
+	option = {
+		name = "gog_convert.104.j"
+		capital_scope = { change_religion = finnish_pagan_reformed }
+		change_religion = finnish_pagan_reformed
+	}
+
+	option = {
+		name = "gog_convert.104.k"
+		capital_scope = { change_religion = slavic_pagan_reformed }
+		change_religion = slavic_pagan_reformed
+	}
+	
+	option = {
+		name = "gog_convert.104.l"
+		capital_scope = { change_religion = zun_pagan_reformed }
+		change_religion = zun_pagan_reformed
+	}
+	
+	option = {
+		name = "gog_convert.104.m"
+		capital_scope = { change_religion = hellenic_pagan }
+		change_religion = hellenic_pagan
+	}
+}
+
+country_event = {	# others
+	id = gog_convert.105
+	title = "gog_convert.105.title"
+	desc = "gog_convert.105.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	is_triggered_only = yes
+
+	option = {		# hinduism
+		name = "gog_convert.105.a"
+		change_religion = hinduism
+		capital_scope = { change_religion = hinduism }
+	}
+	
+	option = {		# sikhism
+		name = "gog_convert.105.b"
+		change_religion = sikhism
+		capital_scope = { change_religion = sikhism }
+	}
+	
+	option = {		# zoroastrian
+		name = "gog_convert.105.c"
+		change_religion = zoroastrian
+		capital_scope = { change_religion = zoroastrian }
+	}
+	
+	option = {		# jewish
+		name = "gog_convert.105.d"
+		change_religion = jewish
+		capital_scope = { change_religion = jewish }
+	}
+	
+	option = {
+		name = "gog_convert.105.e"
+		change_religion = jain
+		capital_scope = { change_religion = jain }
+	}
+}

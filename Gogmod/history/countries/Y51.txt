@@ -1,10 +1,10 @@
 # Mordva
-government = tribal_despotism
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
 primary_culture = mordvin
-religion = animism
+religion = orthodox
 clear_scripted_personalities = yes
 capital = 302
 1416.9.15 = {

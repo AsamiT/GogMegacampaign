@@ -36,4 +36,5 @@ capital = 372
 	capital = 372
 	add_treasury = 437
 	add_prestige = 330
+	stability = 3
 }

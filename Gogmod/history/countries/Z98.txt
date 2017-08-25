@@ -7,6 +7,9 @@ primary_culture = greek
 religion = orthodox
 clear_scripted_personalities = yes
 capital = 151
+historical_friend = BUL
+historical_friend = TRE
+
 1438.5.20 = {
 	monarch = {
 		name = "Maurikios II"

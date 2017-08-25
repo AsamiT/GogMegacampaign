@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = Y91
+controller = Y91
+add_core = Y91
 culture = turkish
 religion = shiite
 citysize = 2000
-add_permanent_claim = Y62
 add_core = TAB
 discovered_by = eastern
 discovered_by = western
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = EGY
-	controller = EGY
+	owner = Y91
+	controller = Y91
 	culture = turkish
 	religion = shiite
 }

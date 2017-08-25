@@ -64,3 +64,14 @@ Changelog (v0.2a):
 Changelog (v0.2.1):
 1. Hedjaz is now an independent Buddhist state under Jamalid protection.
 2. Major border revisions undertaken in the Middle East.
+
+Changelog (v0.3):
+1. Major changes to France and Byzantium balancing
+2. More border revisions in the Middle East
+3. The Russian Empire can now be formed.
+4. Everyone can now convert religions freely every ten years, at the expense of some stability issues.
+5. Italy and England got flag changes that are more... compatible with the canon.
+6. Great Britain can be formed.
+7. Further Middle Eastern border revisions.
+8. Mordva has seen the light of God, to give them a fair chance at survival.
+9. Trebizond is historical pals with Byzantium now; as is France with Borgonha-Franca.

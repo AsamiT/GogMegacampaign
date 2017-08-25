@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = IRQ
-controller = IRQ
-add_core = IRQ
+owner = Y62
+controller = Y62
+add_core = Y62
 culture = al_suryah_arabic
 religion = sunni
 citysize = 2000
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = IRQ
-	controller = IRQ
+	owner = Y62
+	controller = Y62
 	culture = al_suryah_arabic
 	religion = sunni
 }

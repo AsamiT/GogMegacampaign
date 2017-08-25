@@ -7,6 +7,8 @@ primary_culture = occitain
 religion = cathar
 clear_scripted_personalities = yes
 capital = 201
+historical_friend = Z23
+
 1420.11.7 = {
 	monarch = {
 		name = "Dàvi"

@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = TRE
-controller = TRE
-add_core = TRE
+owner = Z98
+controller = Z98
+add_core = Z98
 culture = greek
 religion = orthodox
 citysize = 2000
-add_permanent_claim = Y62
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -208,7 +207,7 @@ discovered_by = Y73
 	remove_core = IRQ
 	remove_core = KAR
 	remove_core = SYR
-	remove_core = TRE
+	remove_core = Z98
 	remove_core = SRU
 	remove_core = MEN
 	remove_core = IME
@@ -692,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = TRE
-	controller = TRE
+	owner = Z98
+	controller = Z98
 	culture = greek
 	religion = orthodox
 }

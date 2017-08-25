@@ -1,0 +1,29 @@
+country_decisions = {
+
+	adopt_a_new_religion = {
+		major = yes
+		potential = {
+			ai = no
+		}
+		allow = {
+			stability = 1
+			NOT = { has_idea = ecumenism }
+			NOT = { has_idea = liberty_egalite_fraternity }
+			NOT = { has_country_modifier = converted_ten_years }
+		}
+		effect = {
+			ROOT = { 
+				country_event = { id = gog_convert.100 } #Trigger convert event
+				add_stability = -3
+				add_country_modifier = {
+					name = "converted_ten_years"
+					duration = 3600
+				} 
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
