@@ -1,17 +1,16 @@
-ck2_converter_generated = yes
-owner = Y56
-controller = Y56
-add_core = Y56
+10ck2_converter_generated = yes
+owner = Y70
+controller = Y70
+add_core = Y70
 culture = cuman
 religion = sunni
 citysize = 2000
-add_core = Y57
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = Y43
-discovered_by = Y56
+discovered_by = Y70
 discovered_by = Y60
 discovered_by = Y70
 discovered_by = Y73
@@ -692,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y56
-	controller = Y56
+	owner = Y70
+	controller = Y70
 	culture = cuman
 	religion = sunni
 }

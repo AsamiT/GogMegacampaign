@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Y25
-controller = Y25
-add_core = Y25
+owner = POL
+controller = POL
+add_core = POL
 culture = polish
-religion = sunni
+religion = orthodox
 citysize = 2000
-add_permanent_claim = POL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -68,7 +67,7 @@ discovered_by = Y73
 	remove_core = KID
 	remove_core = HSC
 	remove_core = LIT
-	remove_core = POL
+	remove_core = Y25
 	remove_core = KRA
 	remove_core = MAZ
 	remove_core = PRU
@@ -692,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y25
-	controller = Y25
+	owner = POL
+	controller = POL
 	culture = polish
-	religion = sunni
+	religion = orthodox
 }

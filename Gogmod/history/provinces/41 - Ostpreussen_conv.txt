@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = POM
-controller = POM
-add_core = POM
+owner = Y25
+controller = Y25
+add_core = Y25
 culture = mongol
 religion = sunni
 citysize = 2000
@@ -690,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = POM
-	controller = POM
+	owner = Y25
+	controller = Y25
 	culture = old_prussian
-	religion = animism
+	religion = sunni
 }

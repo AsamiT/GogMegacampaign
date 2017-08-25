@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y73
-controller = Y73
-add_core = Y73
+owner = Y33
+controller = Y33
+add_core = Y33
 culture = cuman
 religion = tengri_pagan_reformed
 citysize = 2000
@@ -13,7 +13,7 @@ discovered_by = Y43
 discovered_by = Y56
 discovered_by = Y60
 discovered_by = Y70
-discovered_by = Y73
+discovered_by = Y33
 1444.11.11 = {
 	hre = no
 	base_tax = 1
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y73
-	controller = Y73
+	owner = Y33
+	controller = Y33
 	culture = cuman
 	religion = tengri_pagan_reformed
 }

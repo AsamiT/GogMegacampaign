@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y25
-controller = Y25
-add_core = Y25
+owner = Y93
+controller = Y93
+add_core = Y93
 culture = mongol
 religion = sunni
 citysize = 2000
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y25
-	controller = Y25
+	owner = Y93
+	controller = Y93
 	culture = mongol
 	religion = sunni
 }

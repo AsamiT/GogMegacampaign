@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = HUN
-controller = HUN
-add_core = HUN
+owner = Y26
+controller = Y26
+add_core = Y26
 culture = polish
 religion = orthodox
 citysize = 2000
@@ -690,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = HUN
-	controller = HUN
+	owner = Y26
+	controller = Y26
 	culture = polish
 	religion = orthodox
 }

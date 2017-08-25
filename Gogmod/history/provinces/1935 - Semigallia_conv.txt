@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y33
-controller = Y33
-add_core = Y33
+owner = TEU
+controller = TEU
+add_core = TEU
 culture = latvian
 religion = waldensian
 citysize = 2000
@@ -72,7 +72,6 @@ discovered_by = Y73
 	remove_core = MAZ
 	remove_core = PRU
 	remove_core = KUR
-	remove_core = TEU
 	remove_core = DNZ
 	remove_core = RIG
 	remove_core = UKR
@@ -119,7 +118,6 @@ discovered_by = Y73
 	remove_core = MKL
 	remove_core = MUN
 	remove_core = OLD
-	remove_core = POM
 	remove_core = SAX
 	remove_core = SIL
 	remove_core = SLZ
@@ -691,8 +689,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y33
-	controller = Y33
+	owner = TEU
+	controller = TEU
 	culture = latvian
 	religion = waldensian
 }
