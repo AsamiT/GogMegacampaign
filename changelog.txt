@@ -75,3 +75,6 @@ Changelog (v0.3):
 7. Further Middle Eastern border revisions.
 8. Mordva has seen the light of God, to give them a fair chance at survival.
 9. Trebizond is historical pals with Byzantium now; as is France with Borgonha-Franca.
+
+Changelog (v0.3.2):
+1. Changed the borders of the Holy Roman Empire.
