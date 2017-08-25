@@ -22,4 +22,13 @@ capital = 1940
 	capital = 1940
 	add_treasury = 0
 	add_prestige = 681
+	heir = {
+		name = "Maria"
+		female = yes
+		birth_date = "1413.6.6"
+		dynasty = "Piast"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
