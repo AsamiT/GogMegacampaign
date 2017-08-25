@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Z98
-controller = Z98
-add_core = Z98
+owner = BOS
+controller = BOS
+add_core = BOS
 culture = serbian
 religion = orthodox
 citysize = 2000
-add_core = SER
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -31,14 +30,14 @@ discovered_by = Y73
 	remove_core = KRL
 	remove_core = ICE
 	remove_core = BYZ
-	remove_core = BUL
+	
 	remove_core = CRO
 	remove_core = GRE
 	remove_core = HUN
 	remove_core = TUR
 	remove_core = ACH
 	remove_core = ATH
-	remove_core = BOS
+	
 	remove_core = CRT
 	remove_core = CYP
 	remove_core = EPI
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z98
-	controller = Z98
+	owner = BOS
+	controller = BOS
 	culture = serbian
 	religion = orthodox
 }

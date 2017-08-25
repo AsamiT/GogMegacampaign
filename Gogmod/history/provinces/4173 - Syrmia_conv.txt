@@ -1,12 +1,10 @@
 ck2_converter_generated = yes
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = BOS
+controller = BOS
+add_core = BOS
 culture = hungarian
 religion = orthodox
 citysize = 2000
-add_permanent_claim = HUN
-add_core = WAL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -39,7 +37,7 @@ discovered_by = Y73
 	remove_core = TUR
 	remove_core = ACH
 	remove_core = ATH
-	remove_core = BOS
+	
 	remove_core = CRT
 	remove_core = CYP
 	remove_core = EPI
@@ -691,8 +689,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = BUL
-	controller = BUL
+	owner = BOS
+	controller = BOS
 	culture = hungarian
 	religion = orthodox
 }

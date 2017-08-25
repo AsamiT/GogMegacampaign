@@ -22,8 +22,15 @@ DONE?
 	9b. Annex 120 and 121.
 DONE!
 
-10. 120, 2976, 119 to Byzantium.
+10. 2976, 119 to Byzantium.
+DONE!
 11. 140, 3002 to Byzantium.
+DONE, moved to Bosnia
+11a. 1828 1767 139 4173 139 1831 - Bosnia
+11b. 4239 141 1827 1766 - Serbia
+11c. Remove Serbian core: 138 137
+11d. Remove foreign cores on Dalmatia
+
 12. 4176 to Byzantium.
 13. 2746 to Bulgaria.
 14. 3001, 1853, 143, 4175, 4174, 3003 to Byzantium

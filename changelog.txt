@@ -26,3 +26,7 @@ Changelog (v0.1.4, Neapolitan):
 4. Naples annexes Napoli and Abruzzia.
 5. Byzantium claims Naples, of course.
 6. Naples got a new Heir.
+
+Changelog (v0.1.5, Srbija):
+1. Byzantium has decided to directly administer Central Italy.
+2. Bosnia is a thing now?

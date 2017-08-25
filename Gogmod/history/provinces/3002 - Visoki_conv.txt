@@ -1,12 +1,11 @@
 ck2_converter_generated = yes
-owner = TRE
-controller = TRE
-add_core = TRE
+owner = BOS
+controller = BOS
+add_core = BOS
 culture = serbian
 religion = orthodox
 citysize = 2000
-add_permanent_claim = Z98
-add_core = BOS
+add_core = Z98
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = TRE
-	controller = TRE
+	owner = BOS
+	controller = BOS
 	culture = serbian
 	religion = orthodox
 }
