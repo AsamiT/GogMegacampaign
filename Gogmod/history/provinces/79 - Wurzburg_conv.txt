@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = WBG
+controller = WBG
+add_core = WBG
 culture = german
 religion = orthodox
 citysize = 2000
@@ -127,7 +127,6 @@ discovered_by = Y73
 	remove_core = TIR
 	remove_core = TRI
 	remove_core = ULM
-	remove_core = WBG
 	remove_core = WUR
 	remove_core = KOL
 	remove_core = KLE
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = BOH
-	controller = BOH
+	owner = WBG
+	controller = WBG
 	culture = german
 	religion = orthodox
 }

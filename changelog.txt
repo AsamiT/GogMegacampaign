@@ -96,3 +96,6 @@ Changelog (v0.4, 'Polish Update'):
 
 Changelog (v0.4.3):
 	Hejaz's flag is now corrected, it no longer bears Islamic imagery.
+	
+Changelog (v0.4.4):
+	Further border revisions in the Holy Roman Empire, more princely states to expand the dynamic politics of the region.
