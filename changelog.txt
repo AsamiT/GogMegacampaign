@@ -104,3 +104,7 @@ Changelog (v0.5):
 	Massive expansion of China in-universe lore!
 	Fixed some bugs with Greater Poland's de-jure capital.
 	Other tweaks and fixes to make the experience better. This will likely be the 'release' that we use to play our campaign.
+	
+Changelog (v0.6):
+	Native American nations of Creek, Shawnee and Cherokee made stronger to counter-act European imperialism.
+	Minor adjustments made to other areas.
