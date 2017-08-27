@@ -108,3 +108,6 @@ Changelog (v0.5):
 Changelog (v0.6):
 	Native American nations of Creek, Shawnee and Cherokee made stronger to counter-act European imperialism.
 	Minor adjustments made to other areas.
+	
+Changelog (v0.6.1):
+	Adjustment to Native tribes to make them stronger.

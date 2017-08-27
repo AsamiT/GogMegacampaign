@@ -1,0 +1,26 @@
+#2399 - Pagan
+
+owner = AVA
+controller = AVA
+culture = burmese
+religion = buddhism
+capital = "Pagan"
+trade_goods = tropical_wood
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = AVA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+1444.11.11 = {
+	owner = LNA
+	controller = LNA
+	add_core = LNA
+	religion = coptic
+}
