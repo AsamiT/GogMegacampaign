@@ -1,0 +1,26 @@
+# 2191 - Ejin
+
+owner = OIR
+controller = OIR
+add_core = OIR
+culture = oirats
+religion = vajrayana
+capital = "Ejin"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+1444.11.11 = {
+	owner = Y93
+	controller = Y93
+	add_core = Y93
+	religion = hinduism
+}

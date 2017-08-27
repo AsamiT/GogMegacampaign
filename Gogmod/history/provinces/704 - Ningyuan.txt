@@ -1,0 +1,28 @@
+#704 - Liaoxi
+
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = chihan
+religion = confucianism
+capital = "Ningyuan"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+#fort_15th = yes #the Nine Garrisons
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+
+1444.11.11 = {
+	owner = Y93
+	controller = Y93
+	add_core = Y93
+	religion = hinduism
+}

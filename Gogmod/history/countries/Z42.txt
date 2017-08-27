@@ -19,7 +19,7 @@ capital = 254
 	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 43
+	capital = 254
 	add_treasury = 43
 	add_prestige = 424
 	elector = yes

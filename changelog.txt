@@ -99,3 +99,8 @@ Changelog (v0.4.3):
 	
 Changelog (v0.4.4):
 	Further border revisions in the Holy Roman Empire, more princely states to expand the dynamic politics of the region.
+	
+Changelog (v0.5):
+	Massive expansion of China in-universe lore!
+	Fixed some bugs with Greater Poland's de-jure capital.
+	Other tweaks and fixes to make the experience better. This will likely be the 'release' that we use to play our campaign.
