@@ -119,6 +119,14 @@ country_event = {
 			add_base_manpower = 1
 			add_base_production = 1
 		}
+		define_heir = {
+			name = "Joshua"
+			dynasty = "Stuyvesant"
+			birth_date = 1440.2.3
+			adm = 4
+			dip = 3
+			mil = 6
+		}
 	}
 	
 	option = {
