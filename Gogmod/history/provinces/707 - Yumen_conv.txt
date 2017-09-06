@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 owner = Y93
-controller = Y94
-add_core = Y94
+controller = Y93
+add_core = Y93
 culture = uyghur
 religion = hinduism
 citysize = 2000
@@ -694,7 +694,7 @@ discovered_by = Y73
 }
 1444.11.11 = {
 	owner = Y93
-	controller = Y94
+	controller = Y93
 	culture = uyghur
 	religion = hinduism
 }
