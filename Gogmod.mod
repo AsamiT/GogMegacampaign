@@ -1,4 +1,4 @@
-name = "Gog's Megacampaign"
+name = "The Faith of Brothers and Sisters"
 path = "mod/Gogmod"
 user_dir = "Gogmod"
 disable_time_widget = yes
