@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-owner = Y94
+owner = Y93
 controller = Y94
 add_core = Y94
 culture = mongol
@@ -692,7 +692,7 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y94
+	owner = Y93
 	controller = Y94
 	culture = mongol
 	religion = sunni
