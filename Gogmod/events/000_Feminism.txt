@@ -1,0 +1,123 @@
+### We need more women in the world.
+### This doesn't *have* to always be women, but you know, this is mostly for self-references.
+
+namespace = feminism
+
+country_event = {
+	id = feminism.1
+	title = feminism.1.t
+	desc = feminism.1.d
+	picture = COURT_eventPicture
+	
+	trigger = {
+		is_year = 1460
+		NOT = {
+			is_year = 1510
+		}
+		tag = Z75
+		is_lesser_in_union = no
+		government = monarchy
+		NOT = {
+			has_global_flag = fem_azan_abbadid_flag
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+	}
+	
+	immediate = {
+		hidden_effect = {
+			set_global_flag = fem_azan_abbadid_flag
+		}
+	}
+	
+	option = {
+		name = feminism.1.a
+		define_ruler = {
+			name = "Azan"
+			dynasty = "Abbadid"
+			fixed = yes
+			adm = 6
+			dip = 6
+			mil = 5
+			female = yes
+		}
+		if = {
+			limit = {
+				has_dlc = "Rights of Man" 
+			}
+			hidden_effect = { add_ruler_personality = inspiring_leader_personality }
+		}
+	}
+	option = {
+		name = feminism.1.b
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_meritocracy_effect = yes
+		define_advisor = {
+			female = yes
+			type = statesman #spymaster
+			skill = 2
+			discount = yes
+			name = "Azan Abbadid"
+		}
+	}
+}
+
+country_event = {
+	id = feminism.2
+	title = feminism.2.t
+	desc = feminism.2.d
+	picture = CIVIL_WAR_eventPicture
+	
+	trigger = {
+		is_year = 1447
+		NOT = {
+			is_year = 1490
+		}
+		tag = Z22
+		is_lesser_in_union = no
+		government = monarchy
+		NOT = {
+			has_global_flag = fem_josh_stuyvesant_flag
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+	}
+	
+	immediate = {
+		hidden_effect = {
+			set_global_flag = fem_josh_stuyvesant_flag
+		}
+	}
+	
+	option = {
+		name = feminism.2.a
+		define_ruler = {
+			name = "Joshua"
+			dynasty = "Stuyvesant"
+			fixed = yes
+			adm = 5
+			dip = 4
+			mil = 6
+		}
+	}
+	
+	option = {
+		name = feminism.2.b
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_meritocracy_effect = yes
+		define_advisor = {
+			type = statesman #spymaster
+			skill = 2
+			discount = yes
+			name = "Joshua Stuyvesant"
+		}
+	}
+}
