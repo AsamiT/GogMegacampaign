@@ -114,3 +114,6 @@ Changelog (v0.6.1):
 	
 Changelog (v0.6.2):
 	Some minor adjustments to Europe.
+
+Changelog (v0.6.3):
+	Changed religious composition of Bengal and parts of Southeast Asia.

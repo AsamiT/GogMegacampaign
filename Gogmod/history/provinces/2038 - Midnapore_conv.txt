@@ -3,7 +3,7 @@ owner = X36
 controller = X36
 add_core = X36
 culture = bengali
-religion = hinduism
+religion = buddhism
 citysize = 2000
 add_core = X38
 discovered_by = eastern
@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = X36
 	controller = X36
 	culture = bengali
-	religion = hinduism
+	religion = buddhism
 }

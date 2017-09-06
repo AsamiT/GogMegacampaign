@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = X26
-controller = X26
-add_core = X26
+owner = X36
+controller = X36
+add_core = X36
 culture = bengali
 religion = buddhism
 citysize = 2000
@@ -693,8 +693,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = X26
-	controller = X26
+	owner = X36
+	controller = X36
 	culture = bengali
 	religion = buddhism
 }
