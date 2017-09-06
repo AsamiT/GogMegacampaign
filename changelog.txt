@@ -111,3 +111,6 @@ Changelog (v0.6):
 	
 Changelog (v0.6.1):
 	Adjustment to Native tribes to make them stronger.
+	
+Changelog (v0.6.2):
+	Some minor adjustments to Europe.

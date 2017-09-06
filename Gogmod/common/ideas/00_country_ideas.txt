@@ -31,17 +31,19 @@ Z02_ideas = {
 		naval_attrition = -0.3
 		naval_morale = 0.3
 	}
+	ei_living_space = {
+		colonists = 1
+		global_colonial_growth = 75
+		range = 0.33
+	}
 	ei_merchants_of_dublin = {
 		trade_efficiency = 0.1
 		trade_steering = 0.1
 	}
+
 	ei_strong_central = {
 		global_tax_modifier = 0.2
 		global_manpower_modifier = 0.2
-	}
-	ei_living_space = {
-		colonists = 1
-		global_colonial_growth = 30
 	}
 	ei_university = {
 		global_institution_spread = 0.1
