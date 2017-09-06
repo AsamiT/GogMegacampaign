@@ -3,7 +3,7 @@ owner = TEU
 controller = TEU
 add_core = TEU
 culture = latvian
-religion = waldensian
+religion = catholic
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -692,5 +692,5 @@ discovered_by = Y73
 	owner = TEU
 	controller = TEU
 	culture = latvian
-	religion = waldensian
+	religion = catholic
 }

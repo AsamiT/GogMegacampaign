@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y30
-controller = Y30
-add_core = Y30
+owner = Y38
+controller = Y38
+add_core = Y38
 culture = russian_culture
 religion = orthodox
 citysize = 2000
@@ -693,8 +693,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y30
-	controller = Y30
+	owner = Y38
+	controller = Y38
 	culture = russian_culture
 	religion = orthodox
 }

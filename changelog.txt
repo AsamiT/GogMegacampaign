@@ -117,3 +117,6 @@ Changelog (v0.6.2):
 
 Changelog (v0.6.3):
 	Changed religious composition of Bengal and parts of Southeast Asia.
+
+Changelog (v0.7):
+	Changed religious composition and improved the borders of Near-Eastern Europe and Central Asia.

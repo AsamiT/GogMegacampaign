@@ -3,7 +3,7 @@ owner = Y62
 controller = Y62
 add_core = Y62
 culture = persian
-religion = mazdaki
+religion = zoroastrian
 citysize = 2000
 add_core = Y65
 discovered_by = eastern
@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = Y62
 	controller = Y62
 	culture = persian
-	religion = mazdaki
+	religion = zoroastrian
 }

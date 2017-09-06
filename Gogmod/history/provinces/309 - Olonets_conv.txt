@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = KRL
-controller = KRL
-add_core = KRL
+owner = Y30
+controller = Y30
+add_core = Y30
 culture = finnish
 religion = orthodox
 citysize = 2000
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = KRL
-	controller = KRL
+	owner = Y30
+	controller = Y30
 	culture = finnish
 	religion = orthodox
 }

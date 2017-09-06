@@ -3,7 +3,7 @@ owner = TEU
 controller = TEU
 add_core = TEU
 culture = russian_culture
-religion = orthodox
+religion = baltic_pagan_reformed
 citysize = 2000
 add_core = PLT
 discovered_by = eastern
@@ -694,5 +694,5 @@ discovered_by = Y73
 	owner = TEU
 	controller = TEU
 	culture = russian_culture
-	religion = orthodox
+	religion = baltic_pagan_reformed
 }

@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Y25
 	controller = Y25
-	culture = danish
-	religion = orthodox
+	culture = mongol
+	religion = sunni
 }
