@@ -1,4 +1,4 @@
-government = theocratic_government
+government = imperial_city
 government_rank = 1
 technology_group = western
 primary_culture = franconian

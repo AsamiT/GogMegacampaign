@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z40
 controller = Z40
 add_core = Z40
-culture = german
+culture = austrian
 religion = orthodox
 citysize = 2000
 discovered_by = eastern
@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Z40
 	controller = Z40
-	culture = german
+	culture = austrian
 	religion = orthodox
 }

@@ -1,6 +1,6 @@
 government = theocratic_government
 government_rank = 1
-primary_culture = german
+primary_culture = saxon
 religion = orthodox
 technology_group = western
 capital = 52	# Magdeburg

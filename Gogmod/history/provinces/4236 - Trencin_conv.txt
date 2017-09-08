@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = BOH
 controller = BOH
 add_core = BOH
-culture = hungarian
+culture = moravi
 religion = orthodox
 citysize = 2000
 add_permanent_claim = HUN
@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = BOH
 	controller = BOH
-	culture = hungarian
+	culture = moravi
 	religion = orthodox
 }

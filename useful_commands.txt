@@ -1,0 +1,1 @@
+grep -l -r "owner = KHM" | xargs -I '{}' cp -v '{}' /mnt/f/Desktop/eu4_input/

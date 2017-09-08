@@ -1,7 +1,7 @@
 government = feudal_monarchy
 government_rank = 1
 technology_group = western
-primary_culture = franconian
+primary_culture = german
 religion = orthodox
 capital = 71	# Ansbach
 fixed_capital = 71 # Cannot move capital away from this province & no power cost to move to it
@@ -34,7 +34,7 @@ fixed_capital = 71 # Cannot move capital away from this province & no power cost
 
 1440.9.21 = {
 	monarch = {
-		name = "Albrecht II Achilles"
+		name = "Friedrich VII"
 		dynasty = "von Hohenzollern"
 		birth_date = 1414.11.9
 		dip = 2

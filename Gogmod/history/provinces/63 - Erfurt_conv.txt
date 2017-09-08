@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = THU
 controller = THU
 add_core = THU
-culture = german
+culture = saxon
 religion = orthodox
 citysize = 2000
 add_permanent_claim = SAX
@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = THU
 	controller = THU
-	culture = german
+	culture = saxon
 	religion = orthodox
 }

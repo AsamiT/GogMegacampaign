@@ -1,10 +1,11 @@
-government = feudal_monarchy
+government = dutch_republic
 government_rank = 1
 technology_group = western
 primary_culture = dutch
 add_accepted_culture = german
 religion = orthodox
 capital = 97 # Brabant
+elector = yes
 
 #1477.1.5 = {
 #	government_rank = 1

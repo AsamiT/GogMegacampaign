@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = HAB
 controller = HAB
 add_core = HAB
-culture = german
+culture = austrian
 religion = orthodox
 citysize = 2000
 discovered_by = eastern
@@ -692,6 +692,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = HAB
 	controller = HAB
-	culture = german
+	culture = austrian
 	religion = orthodox
 }

@@ -3,7 +3,7 @@ government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = german
+primary_culture = austrian
 religion = orthodox
 clear_scripted_personalities = yes
 capital = 1770
@@ -24,5 +24,4 @@ capital = 1770
 	capital = 1770
 	add_treasury = 54
 	add_prestige = 314
-	elector = yes
 }
