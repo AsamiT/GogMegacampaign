@@ -3,7 +3,7 @@ owner = X43
 controller = X43
 add_core = X43
 culture = bengali
-religion = hinduism
+religion = buddhism
 citysize = 2000
 add_permanent_claim = X36
 discovered_by = eastern
@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = X43
 	controller = X43
 	culture = bengali
-	religion = hinduism
+	religion = buddhism
 }

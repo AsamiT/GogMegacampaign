@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y33
 controller = Y33
 add_core = Y33
-culture = cuman
+culture = persian
 religion = zoroastrian
 citysize = 2000
 discovered_by = eastern
@@ -693,6 +693,6 @@ discovered_by = Y33
 1444.11.11 = {
 	owner = Y33
 	controller = Y33
-	culture = cuman
+	culture = persian
 	religion = zoroastrian
 }

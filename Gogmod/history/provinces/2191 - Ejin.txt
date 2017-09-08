@@ -3,7 +3,7 @@
 owner = OIR
 controller = OIR
 add_core = OIR
-culture = oirats
+culture = mongol
 religion = vajrayana
 capital = "Ejin"
 trade_goods = wool

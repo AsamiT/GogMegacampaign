@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y93
 controller = Y93
 add_core = Y93
-culture = mongol
+culture = karluk
 religion = hinduism
 citysize = 2000
 add_permanent_claim = Y33
@@ -695,7 +695,7 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Y93
 	controller = Y93
-	culture = mongol
+	culture = karluk
 	religion = hinduism
 
 add_permanent_province_modifier = {

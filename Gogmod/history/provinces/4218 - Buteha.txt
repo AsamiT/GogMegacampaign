@@ -3,7 +3,7 @@
 owner = KRC
 controller = KRC
 add_core = KRC
-culture = khalkha
+culture = chahar
 religion = hinduism
 capital = "Buteha"
 trade_goods = wool

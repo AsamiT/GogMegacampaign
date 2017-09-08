@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = SIC
 controller = SIC
 add_core = SIC
-culture = greek
+culture = sicilian_byz
 religion = orthodox
 citysize = 2000
 add_permanent_claim = Z98
@@ -695,6 +695,6 @@ discovered_by = Y73
 	owner = SIC
 	controller = SIC
 	add_core = SIC
-	culture = greek
+	culture = sicilian_byz
 	religion = orthodox
 }

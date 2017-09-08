@@ -1,7 +1,7 @@
 government = feudal_monarchy
 technology_group = western
 religion = orthodox
-primary_culture = greek
+primary_culture = neapolitan_byz
 capital = 121 # Napoli
 
 1444.11.11 = {

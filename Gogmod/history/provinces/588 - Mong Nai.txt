@@ -3,7 +3,7 @@
 owner = HSE
 controller = HSE
 culture = shan
-religion = buddhism
+religion = coptic
 capital = "Mong Nai"
 trade_goods = cotton
 hre = no

@@ -3,7 +3,7 @@
 owner = HSE
 controller = HSE
 culture = shan
-religion = buddhism
+religion = coptic
 capital = "Hsenwi"
 trade_goods = tropical_wood
 hre = no

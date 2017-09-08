@@ -3,7 +3,7 @@
 owner = HSE
 controller = HSE
 culture = northern_thai
-religion = animism
+religion = coptic
 capital = "Kengtung"
 trade_goods = tropical_wood
 hre = no
