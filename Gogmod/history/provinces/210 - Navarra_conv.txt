@@ -3,7 +3,7 @@ owner = Z75
 controller = Z75
 add_core = Z75
 culture = basque
-religion = orthodox
+religion = cathar
 citysize = 2000
 add_core = ARA
 discovered_by = eastern
@@ -694,5 +694,5 @@ discovered_by = Y73
 	owner = Z75
 	controller = Z75
 	culture = basque
-	religion = orthodox
+	religion = cathar
 }

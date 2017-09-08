@@ -1,33 +1,57 @@
 # Scotland
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 198 163 12 }
-historical_idea_groups = {
-	defensive_ideas
-	aristocracy_ideas
-	naval_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	innovativeness_ideas
-	offensive_ideas
+color = { 199  175  12 }
+historical_idea_groups = {
+
+	defensive_ideas
+
+	aristocracy_ideas
+
+	naval_ideas
+
+	trade_ideas
+
+	diplomatic_ideas
+
+	economic_ideas
+
+	innovativeness_ideas
+
+	offensive_ideas
+
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	gaelic_galloglaigh
-	gaelic_mercenary
-	gaelic_free_shooter
-	irish_charge
-	scottish_highlander
-	british_redcoat
-	british_hussar
-	british_square
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	gaelic_galloglaigh
+
+	gaelic_mercenary
+
+	gaelic_free_shooter
+
+	irish_charge
+
+	scottish_highlander
+
+	british_redcoat
+
+	british_hussar
+
+	british_square
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
 }
 
 
@@ -209,24 +233,43 @@ monarch_names = {
 	"Walter #0" = 0
 	"William #0" = 0
 }
-ship_names = {
-	Advantage "Ann of Anstruther"
-	Bonaventure Bruce
-	Charles "Christian of Boness" Christopher Cuckoo
-	Flower Fortune
-	"Good Fortune" Green-tree
-	"Great Michael"
-	James Janet "Jenny Pirwin"
-	"King's Caravel"
-	"Lamb of Leith" Lesley Lion
-	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
-	Pelican "Prince Rupert" "Providence of Dundee"
-	"Rainbow of Dundee" Rothes
-	Salamander "St. Salvator"
-	Thistle
-	Unicorn
-	Venture
-	Wemyss
-	"Yellow Caravel"
+ship_names = {
+
+	Advantage "Ann of Anstruther"
+
+	Bonaventure Bruce
+
+	Charles "Christian of Boness" Christopher Cuckoo
+
+	Flower Fortune
+
+	"Good Fortune" Green-tree
+
+	"Great Michael"
+
+	James Janet "Jenny Pirwin"
+
+	"King's Caravel"
+
+	"Lamb of Leith" Lesley Lion
+
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+
+	Pelican "Prince Rupert" "Providence of Dundee"
+
+	"Rainbow of Dundee" Rothes
+
+	Salamander "St. Salvator"
+
+	Thistle
+
+	Unicorn
+
+	Venture
+
+	Wemyss
+
+	"Yellow Caravel"
+
 }
 

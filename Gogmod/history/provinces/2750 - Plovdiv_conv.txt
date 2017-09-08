@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = BUL
 controller = BUL
 add_core = BUL
-culture = greek
+culture = bulgarian
 religion = orthodox
 citysize = 2000
 add_core = Z98
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = BUL
 	controller = BUL
-	culture = greek
+	culture = bulgarian
 	religion = orthodox
 }

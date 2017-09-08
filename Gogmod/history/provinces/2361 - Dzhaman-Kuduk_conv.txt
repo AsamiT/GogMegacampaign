@@ -3,7 +3,7 @@ owner = Y93
 controller = Y93
 add_core = Y93
 culture = mongol
-religion = yazidi
+religion = sunni
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -694,5 +694,5 @@ discovered_by = Y73
 	owner = Y93
 	controller = Y93
 	culture = mongol
-	religion = yazidi
+	religion = sunni
 }

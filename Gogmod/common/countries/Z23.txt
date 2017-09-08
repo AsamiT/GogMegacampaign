@@ -1,8 +1,7 @@
 # França
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 15 27 187 }
-
+color = { 20  50  210 }
 
 
 

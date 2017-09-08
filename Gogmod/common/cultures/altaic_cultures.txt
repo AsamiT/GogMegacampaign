@@ -3,4 +3,7 @@ altaic = {
 		primary = KHA
 		dynasty_names = { "Dilie" }
 	}
+	moravi = {
+		dynasty_names = { "Noyan" }
+	}
 }

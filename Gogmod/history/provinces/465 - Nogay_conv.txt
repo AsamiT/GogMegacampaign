@@ -3,7 +3,7 @@ owner = Y33
 controller = Y33
 add_core = Y33
 culture = cuman
-religion = tengri_pagan_reformed
+religion = zoroastrian
 citysize = 2000
 add_core = Y35
 discovered_by = eastern
@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = Y33
 	controller = Y33
 	culture = cuman
-	religion = tengri_pagan_reformed
+	religion = zoroastrian
 }

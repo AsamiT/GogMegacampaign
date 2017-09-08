@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = LUX
 controller = LUX
 add_core = LUX
-culture = italian
+culture = flemish
 religion = catholic
 citysize = 2000
 add_permanent_claim = LIE
@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = LUX
 	controller = LUX
-	culture = italian
+	culture = flemish
 	religion = catholic
 }

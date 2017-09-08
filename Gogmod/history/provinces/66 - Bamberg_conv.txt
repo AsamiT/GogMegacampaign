@@ -3,7 +3,7 @@ owner = Z57
 controller = Z57
 add_core = Z57
 culture = german
-religion = catholic
+religion = orthodox
 citysize = 2000
 add_permanent_claim = Z41
 discovered_by = eastern
@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = Z57
 	controller = Z57
 	culture = german
-	religion = catholic
+	religion = orthodox
 }

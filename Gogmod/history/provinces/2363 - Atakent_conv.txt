@@ -3,7 +3,7 @@ owner = Y33
 controller = Y33
 add_core = Y33
 culture = turkish
-religion = hinduism
+religion = zoroastrian
 citysize = 2000
 add_permanent_claim = Y33
 add_core = Y95
@@ -696,5 +696,5 @@ discovered_by = Y33
 	owner = Y33
 	controller = Y33
 	culture = turkish
-	religion = hinduism
+	religion = zoroastrian
 }

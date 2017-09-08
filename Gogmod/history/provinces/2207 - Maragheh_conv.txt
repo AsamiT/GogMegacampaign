@@ -3,7 +3,7 @@ owner = Z98
 controller = Z98
 add_core = Z98
 culture = kurdish
-religion = yazidi
+religion = sunni
 citysize = 2000
 add_permanent_claim = IRQ
 add_core = Y11
@@ -696,5 +696,5 @@ discovered_by = Y73
 	owner = Z98
 	controller = Z98
 	culture = kurdish
-	religion = yazidi
+	religion = sunni
 }

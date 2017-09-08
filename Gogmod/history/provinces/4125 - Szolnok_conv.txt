@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z59
 controller = Z59
 add_core = Z59
-culture = german
+culture = pannonian_de
 religion = orthodox
 citysize = 2000
 add_permanent_claim = HUN
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Z59
 	controller = Z59
-	culture = german
+	culture = pannonian_de
 	religion = orthodox
 }

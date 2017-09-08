@@ -1,7 +1,7 @@
 # Arche ton Rhomaion
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 143 12 125 }
+color={ 167 10 100 }
 historical_idea_groups = {
 	offensive_ideas
 	religious_ideas

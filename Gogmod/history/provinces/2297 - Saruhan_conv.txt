@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = TRE
 controller = TRE
 add_core = TRE
-culture = turkish
+culture = greek
 religion = orthodox
 citysize = 2000
 add_permanent_claim = Z98
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = TRE
 	controller = TRE
-	culture = turkish
+	culture = greek
 	religion = orthodox
 }

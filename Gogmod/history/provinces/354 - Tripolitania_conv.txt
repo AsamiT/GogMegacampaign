@@ -3,7 +3,7 @@ owner = Z75
 controller = Z75
 add_core = Z75
 culture = al_misr_arabic
-religion = druze
+religion = sunni
 citysize = 2000
 add_permanent_claim = EGY
 discovered_by = eastern
@@ -696,5 +696,5 @@ discovered_by = Y73
 	owner = Z75
 	controller = Z75
 	culture = al_misr_arabic
-	religion = druze
+	religion = sunni
 }

@@ -3,7 +3,7 @@ owner = Z75
 controller = Z75
 add_core = Z75
 culture = berber
-religion = orthodox
+religion = cathar
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -695,7 +695,7 @@ discovered_by = Y73
 	owner = Z75
 	controller = Z75
 	culture = berber
-	religion = orthodox
+	religion = cathar
 
 add_permanent_province_modifier = {
 	name = center_of_trade_modifier

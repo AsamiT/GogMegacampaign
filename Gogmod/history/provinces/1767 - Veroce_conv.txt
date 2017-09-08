@@ -3,7 +3,7 @@ owner = BOS
 controller = BOS
 add_core = BOS
 add_core = Z98
-culture = greek
+culture = illyrian_byz
 religion = orthodox
 citysize = 2000
 discovered_by = eastern
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = BOS
 	controller = BOS
-	culture = greek
+	culture = illyrian_byz
 	religion = orthodox
 }

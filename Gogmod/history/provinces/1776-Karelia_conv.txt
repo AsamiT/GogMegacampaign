@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y30
 controller = Y30
 add_core = Y30
-culture = pommeranian
+culture = finnish
 religion = orthodox
 citysize = 2000
 add_permanent_claim = Y30
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Y30
 	controller = Y30
-	culture = pommeranian
+	culture = finnish
 	religion = orthodox
 }

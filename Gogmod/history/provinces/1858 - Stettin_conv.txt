@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = BAD
 controller = BAD
 add_core = BAD
-culture = german
+culture = pommeranian
 religion = orthodox
 citysize = 2000
 add_permanent_claim = POM
@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = BAD
 	controller = BAD
-	culture = german
+	culture = pommeranian
 	religion = orthodox
 }

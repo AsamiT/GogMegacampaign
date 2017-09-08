@@ -199,7 +199,7 @@ country_event = {
 			change_religion = shinto
 			change_culture = japanese
 			add_base_tax = 3
-			add_base_manpower = 4
+			add_base_manpower = 2
 			add_base_production = 2
 		}
 		add_accepted_culture = japanese

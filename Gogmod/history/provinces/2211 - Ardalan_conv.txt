@@ -3,7 +3,7 @@ owner = Y82
 controller = Y82
 add_core = Y82
 culture = kurdish
-religion = yazidi
+religion = sunni
 citysize = 2000
 add_permanent_claim = Y62
 discovered_by = eastern
@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = Y82
 	controller = Y82
 	culture = kurdish
-	religion = yazidi
+	religion = sunni
 }

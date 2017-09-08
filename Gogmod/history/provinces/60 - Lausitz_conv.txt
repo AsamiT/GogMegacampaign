@@ -3,7 +3,7 @@ owner = BOH
 controller = BOH
 add_core = BOH
 culture = german
-religion = catholic
+religion = orthodox
 citysize = 2000
 add_permanent_claim = POL
 discovered_by = eastern
@@ -694,5 +694,5 @@ discovered_by = Y73
 	owner = BOH
 	controller = BOH
 	culture = german
-	religion = catholic
+	religion = orthodox
 }
