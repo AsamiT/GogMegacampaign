@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z98
 controller = Z98
 add_core = Z98
-culture = illyrian
+culture = illyrian_byz
 religion = orthodox
 citysize = 2000
 remove_core = SER
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Z98
 	controller = Z98
-	culture = illyrian
+	culture = illyrian_byz
 	religion = orthodox
 }
