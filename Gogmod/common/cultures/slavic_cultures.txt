@@ -3,9 +3,8 @@ east_slavic = {
 		primary = NOV
 		dynasty_names = { }
 	}
-	volhynian = {
-		primary = KIE
-		dynasty_names = { }
+	pskovian = {
+		primary = PSK
 	}
 	severian = {
 		primary = KIE

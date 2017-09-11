@@ -40,7 +40,6 @@ country_decisions = {
 			is_nomad = no			
 			owns_core_province = 262	# Krakow
 			owns_core_province = 257	# Warszawa
-			owns_core_province = 254	# Poznan
 			owns_core_province = 255	# Kalish
 			owns_core_province = 258	# Sieradz
 			owns_core_province = 259	# Sandomierz

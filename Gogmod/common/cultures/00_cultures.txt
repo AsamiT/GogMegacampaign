@@ -1737,6 +1737,9 @@ west_slavic = {
 			Branislava Dagmar Danuta Dobravy
 		}
 	}
+	volhynian = {
+		dynasty_names = { }
+	}
 	polish = {
 		graphical_culture = easterngfx
 		primary = POL

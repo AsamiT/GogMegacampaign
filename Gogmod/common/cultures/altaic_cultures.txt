@@ -6,4 +6,8 @@ altaic = {
 	moravi = {
 		dynasty_names = { "Noyan" }
 	}
+	okavi = {
+		primary = Y50
+		dynasty_names = { "Khorchi" }
+	}
 }

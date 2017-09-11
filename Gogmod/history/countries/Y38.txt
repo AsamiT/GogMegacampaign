@@ -21,6 +21,7 @@ capital = 4253
 }
 1444.11.11 = {
 	capital = 4253
+	primary_culture = russian_culture
 	add_treasury = 27
 	add_prestige = 528
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y30
 controller = Y30
 add_core = Y30
-culture = russian_culture
+culture = pskovian
 religion = orthodox
 citysize = 2000
 discovered_by = eastern
@@ -693,7 +693,7 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Y30
 	controller = Y30
-	culture = russian_culture
+	culture = pskovian
 	religion = orthodox
 
 add_permanent_province_modifier = {
