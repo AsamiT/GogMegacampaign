@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = SCO
-controller = SCO
-add_core = SCO
+owner = YRK
+controller = YRK
+add_core = YRK
 culture = english
 religion = cathar
 citysize = 2000
@@ -270,7 +270,7 @@ discovered_by = Y73
 	remove_core = MUL
 	remove_core = NGP
 	remove_core = DGL
-	remove_core = YOR
+	
 	remove_core = HSA
 	remove_core = BAR
 	remove_core = SMO
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = SCO
-	controller = SCO
+	owner = YRK
+	controller = YRK
 	culture = english
 	religion = cathar
 

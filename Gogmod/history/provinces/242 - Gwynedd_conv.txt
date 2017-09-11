@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = SCO
-controller = SCO
-add_core = SCO
+owner = WLS
+controller = WLS
+add_core = WLS
 culture = welsh
 religion = orthodox
 citysize = 2000
@@ -54,7 +54,6 @@ discovered_by = Y73
 	remove_core = GBR
 	remove_core = ENG
 	remove_core = IRE
-	remove_core = WLS
 	remove_core = CRN
 	remove_core = NOL
 	remove_core = CNN
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = SCO
-	controller = SCO
+	owner = WLS
+	controller = WLS
 	culture = welsh
 	religion = orthodox
 }

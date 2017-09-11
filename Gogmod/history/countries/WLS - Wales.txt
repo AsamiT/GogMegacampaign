@@ -1,0 +1,26 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = welsh
+religion = orthodox
+capital = 242	# Gwynedd
+historical_friend = SCO
+1444.11.11 = {
+  monarch = {
+    name = "Michael I"
+    dynasty = "of Argyll"
+    birth_date = 1420.3.16
+		adm = 1
+		dip = 2
+		mil = 2
+  }
+  heir = {
+    name = "Michael"
+    monarch_name = "Michael II"
+    dynasty = "of Argyll"
+    birth_date = 1437.2.24
+    adm = 2
+    dip = 3
+    mil = 4
+  }
+}

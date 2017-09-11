@@ -1,0 +1,275 @@
+# Yorkshire
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255  0  127 }
+historical_idea_groups = {
+
+	defensive_ideas
+
+	aristocracy_ideas
+
+	naval_ideas
+
+	trade_ideas
+
+	diplomatic_ideas
+
+	economic_ideas
+
+	innovativeness_ideas
+
+	offensive_ideas
+
+}
+
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	gaelic_galloglaigh
+
+	gaelic_mercenary
+
+	gaelic_free_shooter
+
+	irish_charge
+
+	scottish_highlander
+
+	british_redcoat
+
+	british_hussar
+
+	british_square
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
+}
+
+
+
+leader_names = {
+
+	"Affraic" "Suibne" "Solam" "Giladuenan" "Fergus" "Somerled" "Gilbride" "Tadhg" "Derilla" "Ninian" 
+	"Slaine" "Comgal" "Murray" "Murron" "Eva" "Torquil" "Doriend" "Conall" "Dermid" "Moyna" 
+	"Roy" "Jean" "Gavin" "Maldoven" "Euna" "Eilionoir" "Donald" "Forflissa" "Aulay" "Malcolm" 
+	"Una" "Martha" "Indulf" "Gauthier" "Agnes" "Conan" "Brian" "Iona" "Argentocoxos" "Ru" 
+	"Buthut" "Ganant" "Breth" "Uipoig" "Canutulachama" "Uuredach" "Telurg" "Drest" "Naiton" "Galam" 
+	"Caltram" "Bridei" "Ciniod" "Telurgan" "Taran" "Elpin" "Unuist" "Canuall" "Castantin" "Uuen" 
+	"Uurad" "Kenneth" "Constantine" "Hugh" "Duff" "Colin" "Duncan" "Macbeth" "Lulach" "Gospatric" 
+	"Henry" "Beathan" "Adam" "Alpin" "Alan" "Alastair" "Alexander" "Andrew" "Angus" "Archibald" 
+	"Arthur" "Arran" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "David" "Douglas" "Dugald" 
+	"Edgar" "Edward" "Edwin" "Eric" "Evander" "Ewan" "Farquhar" "Fingal" "Findlay" "Frang" 
+	"Gilbert" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" 
+	"Hector" "Iain" "James" "John" "Kentigern" "Lachlan" "Laurence" "Lennon" "Magnus" "Maldred" 
+	"Malise" "Malmure" "Maoilios" "Marcas" "Matad" "Matthew" "Michael" "Morgan" "Muir" "Mungo" 
+	"Murdoch" "Neil" "Oscar" "Patrick" "Paul" "Peter" "Philip" "Radulf" "Ranald" "Richard" 
+	"Robert" "Roderick" "Ronald" "Rory" "Ross" "Shaw" "Simon" "Stephan" "Sweeny" "Talore" 
+	"Thomas" "Uhtred" "Uisdean" "Walan" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Affraic #2" = -25
+	"Suibne #0" = 1
+	"Solam #0" = 1
+	"Giladuenan #0" = 1
+	"Fergus #0" = 1
+	"Somerled #0" = 1
+	"Gilbride #0" = 1
+	"Tadhg #0" = 1
+	"Derilla #0" = -1
+	"Ninian #0" = 1
+	"Slaine #0" = -1
+	"Comgal #0" = 1
+	"Murray #0" = 1
+	"Murron #0" = -1
+	"Eva #0" = -1
+	"Torquil #0" = 1
+	"Doriend #0" = -1
+	"Conall #0" = 1
+	"Dermid #0" = 1
+	"Moyna #1" = -19
+	"Roy #0" = 1
+	"Jean #0" = -1
+	"Gavin #0" = 1
+	"Maldoven #0" = 1
+	"Euna #0" = -1
+	"Eilionoir #0" = -1
+	"Donald #2" = 18
+	"Forflissa #0" = -1
+	"Aulay #3" = 18
+	"Malcolm #4" = 18
+	"Una #0" = -1
+	"Martha #1" = -19
+	"Indulf #1" = 18
+	"Gauthier #0" = 1
+	"Agnes #0" = -1
+	"Conan #1" = 18
+	"Brian #1" = 18
+	"Iona #1" = -19
+	"Argentocoxos #1" = 0
+	"Ru #1" = 0
+	"Buthut #1" = 0
+	"Ganant #6" = 0
+	"Breth #1" = 0
+	"Uipoig #1" = 0
+	"Canutulachama #1" = 0
+	"Uuredach #1" = 0
+	"Telurg #7" = 0
+	"Drest #10" = 0
+	"Naiton #3" = 0
+	"Galam #2" = 0
+	"Caltram #1" = 0
+	"Bridei #7" = 0
+	"Ciniod #3" = 0
+	"Telurgan #2" = 0
+	"Taran #1" = 0
+	"Elpin #2" = 0
+	"Unuist #2" = 0
+	"Canuall #1" = 0
+	"Castantin #1" = 0
+	"Uuen #1" = 0
+	"Uurad #1" = 0
+	"Kenneth #3" = 0
+	"Constantine #3" = 0
+	"Hugh #1" = 0
+	"Duff #1" = 0
+	"Colin #1" = 0
+	"Duncan #3" = 0
+	"Macbeth #1" = 0
+	"Lulach #2" = 0
+	"Gospatric #1" = 0
+	"Henry #1" = 0
+	"Beathan #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"David #0" = 0
+	"Douglas #0" = 0
+	"Dugald #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gilbert #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Iain #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Magnus #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Neil #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+
+	Advantage "Ann of Anstruther"
+
+	Bonaventure Bruce
+
+	Charles "Christian of Boness" Christopher Cuckoo
+
+	Flower Fortune
+
+	"Good Fortune" Green-tree
+
+	"Great Michael"
+
+	James Janet "Jenny Pirwin"
+
+	"King's Caravel"
+
+	"Lamb of Leith" Lesley Lion
+
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+
+	Pelican "Prince Rupert" "Providence of Dundee"
+
+	"Rainbow of Dundee" Rothes
+
+	Salamander "St. Salvator"
+
+	Thistle
+
+	Unicorn
+
+	Venture
+
+	Wemyss
+
+	"Yellow Caravel"
+
+}
+
