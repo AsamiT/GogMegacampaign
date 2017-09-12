@@ -691,8 +691,9 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z91
-	controller = Z91
+	owner = PAP
+	controller = PAP
+	add_core = PAP
 	culture = swedish
 	religion = catholic
 }
