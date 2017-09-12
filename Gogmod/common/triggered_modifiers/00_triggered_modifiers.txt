@@ -40,7 +40,53 @@ free_pass = {
 	trade_efficiency = 0.02
 	global_unrest = -0.06
 
-}	
+}
+
+unity_troubles = {
+	potential = {
+		technology_group = western
+		capital_scope = { region = british_isles_region }
+		}
+	trigger = {
+		OR = {
+			is_subject = yes
+			tag = ENG
+		}
+	}
+	discipline = -0.1
+	land_morale = -0.2
+	global_unrest = 2
+}
+
+alba_gu_braith = {
+	potential = {
+		tag = SCO
+		owns_or_vassal_of = 4110
+		owns_or_vassal_of = 252
+		OR = {
+			owns_or_vassal_of = 253
+			owns_or_vassal_of = 251
+		}
+		NOT = {
+			OR = {
+				religion_group = muslim
+				religion = cathar
+				religion = catholic
+			}
+			year = 1550
+		}
+	}
+	trigger = {
+		OR = {
+			war_with = ENG
+			war_with = Z23
+			war_with = Z22
+		}
+	}
+	discipline = 0.5
+	land_morale = 0.75
+	global_unrest = -2
+}
 
 
 ###########################################

@@ -9,6 +9,7 @@ clear_scripted_personalities = yes
 capital = 251
 historical_friend = YOR
 historical_friend = WLS
+historical_friend = Z02
 1436.3.11 = {
 	monarch = {
 		name = "Affraic II"
