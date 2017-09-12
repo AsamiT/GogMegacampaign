@@ -134,3 +134,7 @@ Changelog (v0.7.4):
 Changelog (v0.8 'Joan of Arc'):
 	Version 0.8: "Joan of Arc" released! Major religious changes and the creation of some new cultures, 
 	as I rearrange the face of God!
+
+Changelog (v0.9):
+	Lots of changes have been made, culturally, religiously and nationally! Also; I can now copy my 
+mod to my mod folder in Linux. Yahoo!
