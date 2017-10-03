@@ -9,10 +9,16 @@ country_event = {
 	
 	trigger = {
 		NOT = { is_religion_enabled = protestant }
-		religion = catholic
 		is_defender_of_faith = no	
 		NOT = { government = papal_government }
-		reform_desire = 0.95
+		religion_group = christian
+		OR = {
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
+		}
+		year = 1517
 		capital_scope = {
 			continent = europe
 			NOT = { has_province_modifier = religious_center }

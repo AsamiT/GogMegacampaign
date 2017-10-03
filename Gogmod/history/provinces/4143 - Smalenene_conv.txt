@@ -695,5 +695,5 @@ discovered_by = Y73
 	owner = Z37
 	controller = Z37
 	culture = norwegian
-	religion = orthodox
+	religion = cathar
 }
