@@ -507,7 +507,6 @@ GUG = "countries/Guge.txt"
 CDL = "countries/Dali.txt"
 CYI = "countries/Yi.txt"
 CMI = "countries/Miao.txt"
-LGH = "countries/LegioHispana.txt"
 
 #Chinese Revolters
 MIN = "countries/Min.txt"
