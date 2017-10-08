@@ -6,7 +6,7 @@ technology_group = muslim
 primary_culture = al_misr_arabic
 religion = orthodox
 clear_scripted_personalities = yes
-capital = 358
+capital = 159
 1438.5.20 = {
 	monarch = {
 		name = "Lazaros"
@@ -19,7 +19,7 @@ capital = 358
 	add_ruler_personality = scholar_personality
 }
 1444.11.11 = {
-	capital = 358
+	capital = 159
 	add_treasury = 89
 	add_prestige = 330
 }
