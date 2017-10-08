@@ -1,0 +1,28 @@
+# 2153 - Tingzhou
+
+owner = LGH
+controller = LGH
+add_core = LGH
+culture = hakka
+religion = hellenic_pagan
+capital = "Tingzhou"
+trade_goods = chinaware
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+1444.11.11 = {
+	owner = LGH
+	controller = LGH
+	add_core = LGH
+	culture = roman
+	religion = hellenic_pagan
+	base_tax = 6
+}
