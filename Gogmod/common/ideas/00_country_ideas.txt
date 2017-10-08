@@ -47,7 +47,7 @@ Z02_ideas = {
 	}
 	ei_university = {
 		global_institution_spread = 0.1
-		global_institution_embracement_cost = -0.2
+		embracement_cost = -0.2
 	}
 	ei_ladies_of_eire = {
 		may_recruit_female_generals = yes
@@ -56,7 +56,7 @@ Z02_ideas = {
 
 Z22_ideas = {
 	start = {
-		national_manpower_modifier = 0.2
+		global_manpower_modifier = 0.2
 		diplomatic_reputation = 1
 	}
 	bonus = {
