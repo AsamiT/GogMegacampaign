@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = VOL
 controller = VOL
 add_core = VOL
-culture = polish
+culture = volhynian
 religion = orthodox
 citysize = 2000
 add_core = Y44
@@ -693,6 +693,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = VOL
 	controller = VOL
-	culture = polish
+	culture = volhynian
 	religion = orthodox
 }
