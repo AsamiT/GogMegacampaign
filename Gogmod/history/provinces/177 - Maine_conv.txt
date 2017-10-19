@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z23
-controller = Z23
-add_core = Z23
+owner = Z34
+controller = Z34
+add_core = Z34
 culture = anjou
 religion = cathar
 citysize = 2000
@@ -693,8 +693,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z23
-	controller = Z23
+	owner = Z34
+	controller = Z34
 	culture = anjou
 	religion = cathar
 }

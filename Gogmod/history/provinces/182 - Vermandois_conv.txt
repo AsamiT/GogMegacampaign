@@ -1,8 +1,9 @@
 ck2_converter_generated = yes
-owner = Z22
-controller = Z22
-add_core = Z22
-culture = occitain
+owner = Z23
+controller = Z23
+add_core = Z23
+add_permanent_claim = Z22
+culture = cosmopolitan_french
 religion = cathar
 citysize = 2000
 add_core = Z24
@@ -692,8 +693,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z22
-	controller = Z22
-	culture = occitain
+	owner = Z23
+	controller = Z23
+	culture = cosmopolitan_french
 	religion = cathar
 }

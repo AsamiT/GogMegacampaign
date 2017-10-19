@@ -4,3 +4,45 @@ vassal = {
 	start_date = 1444.11.11
 	end_date = 1900.1.1
 }
+
+vassal = {
+	first = Z22
+	second = Z33
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = Z22
+	second = Z34
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = Z22
+	second = ORL
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = Z22
+	second = LOR
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = Z22
+	second = FLA
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = Z22
+	second = HVT
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
