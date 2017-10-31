@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
-owner = Y74
-controller = Y74
-add_core = Y74
-culture = gujarati
+owner = TIM
+controller = TIM
+add_core = TIM
+culture = birjandi
 religion = hinduism
 citysize = 2000
 add_permanent_claim = Y62
@@ -234,7 +234,7 @@ discovered_by = Y73
 	remove_core = CHG
 	remove_core = KHO
 	remove_core = PER
-	remove_core = TIM
+	
 	remove_core = AZT
 	remove_core = MAL
 	remove_core = ETH
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y74
-	controller = Y74
-	culture = gujarati
+	owner = TIM
+	controller = TIM
+	culture = birjandi
 	religion = hinduism
 }

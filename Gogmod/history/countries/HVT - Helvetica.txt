@@ -1,17 +1,27 @@
 government = feudal_monarchy
 government_rank = 1
 technology_group = western
-religion = orthodox
+religion = cathar
 primary_culture = swiss
 capital = 166
 
 
 1444.11.11 = {
 	monarch = {
-		name = "Die Tagsatzung"
-		adm = 3
+		name = "Évariste"
+		birth_date = 1420.6.16
+		dynasty = "Stuyvesant"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	heir = {
+		name = "Salomon"
+		monarch_name = "Salomon I"
+		dynasty = "Stuyvesant"
+		birth_date = 1438.9.28
+		adm = 2
 		dip = 3
 		mil = 3
-		regent = yes
 	}
 }

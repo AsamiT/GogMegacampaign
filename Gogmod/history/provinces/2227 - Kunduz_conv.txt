@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
-owner = X09
-controller = X09
-add_core = X09
-culture = rajput
+owner = AFG
+controller = AFG
+add_core = AFG
+culture = afghani
 religion = hinduism
 citysize = 2000
 add_core = X11
@@ -257,7 +257,7 @@ discovered_by = Y73
 	remove_core = GDW
 	remove_core = JAN
 	remove_core = BHA
-	remove_core = AFG
+	
 	remove_core = BAL
 	remove_core = PUN
 	remove_core = KRK
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = X09
-	controller = X09
-	culture = rajput
+	owner = AFG
+	controller = AFG
+	culture = afghani
 	religion = hinduism
 }

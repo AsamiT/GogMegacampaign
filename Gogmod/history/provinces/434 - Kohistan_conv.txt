@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y74
 controller = Y74
 add_core = Y74
-culture = turkish
+culture = baluchi
 religion = sunni
 citysize = 2000
 add_permanent_claim = Y62
@@ -694,6 +694,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Y74
 	controller = Y74
-	culture = turkish
+	culture = baluchi
 	religion = sunni
 }
