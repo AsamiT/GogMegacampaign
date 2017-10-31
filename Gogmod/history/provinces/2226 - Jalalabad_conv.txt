@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
-owner = Y74
-controller = Y74
-add_core = Y74
-culture = panjabi
+owner = AFG
+controller = AFG
+add_core = AFG
+culture = afghani
 religion = buddhism
 citysize = 2000
 discovered_by = eastern
@@ -256,7 +256,6 @@ discovered_by = Y73
 	remove_core = GDW
 	remove_core = JAN
 	remove_core = BHA
-	remove_core = AFG
 	remove_core = BAL
 	remove_core = PUN
 	remove_core = KRK
@@ -691,8 +690,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y74
-	controller = Y74
-	culture = panjabi
+	owner = AFG
+	controller = AFG
+	culture = afghani
 	religion = buddhism
 }

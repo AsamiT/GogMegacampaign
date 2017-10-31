@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = X39
 controller = X39
 add_core = X39
-culture = rajput
+culture = avadhi
 religion = hinduism
 citysize = 2000
 add_permanent_claim = X23
@@ -695,6 +695,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = X39
 	controller = X39
-	culture = rajput
+	culture = avadhi
 	religion = hinduism
 }

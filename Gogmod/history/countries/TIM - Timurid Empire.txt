@@ -1,0 +1,19 @@
+#######################################
+# Timurid Empire
+#######################################
+technology_group = nomad_group
+primary_culture = birjandi
+add_accepted_culture = persian
+religion = hinduism
+government = steppe_horde
+capital = 2229
+
+1444.11.11 = {
+	monarch = {
+		name = "Iskandar"
+		birth_date = 1400.9.25
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
