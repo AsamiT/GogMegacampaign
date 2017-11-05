@@ -1,11 +1,11 @@
 ck2_converter_generated = yes
-owner = Z92
-controller = Z92
-add_core = Z92
+owner = Y34
+controller = Y34
+add_core = Y34
 culture = persian
 religion = hinduism
 citysize = 2000
-add_core = Z95
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -692,8 +692,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Z92
-	controller = Z92
+	owner = Y34
+	controller = Y34
 	culture = persian
 	religion = hinduism
 }
