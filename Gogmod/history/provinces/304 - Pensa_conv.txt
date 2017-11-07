@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y37
-controller = Y37
-add_core = Y37
+owner = Y59
+controller = Y59
+add_core = Y59
 culture = mordvin
 religion = animism
 citysize = 2000
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y37
-	controller = Y37
+	owner = Y59
+	controller = Y59
 	culture = mordvin
 	religion = animism
 }

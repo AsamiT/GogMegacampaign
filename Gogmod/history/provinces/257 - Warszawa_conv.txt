@@ -3,7 +3,7 @@ owner = VOL
 controller = VOL
 add_core = VOL
 culture = polish
-religion = catholic
+religion = orthodox
 citysize = 2000
 add_permanent_claim = POL
 discovered_by = eastern
@@ -694,5 +694,5 @@ discovered_by = Y73
 	owner = VOL
 	controller = VOL
 	culture = polish
-	religion = catholic
+	religion = orthodox
 }

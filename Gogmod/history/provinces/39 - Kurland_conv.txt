@@ -1,9 +1,9 @@
 ck2_converter_generated = yes
-owner = Y30
-controller = Y30
-add_core = Y30
+owner = TEU
+controller = TEU
+add_core = TEU
 culture = estonian
-religion = orthodox
+religion = catholic
 citysize = 2000
 add_core = KUR
 discovered_by = eastern
@@ -691,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y30
-	controller = Y30
+	owner = TEU
+	controller = TEU
 	culture = estonian
-	religion = orthodox
+	religion = catholic
 }
