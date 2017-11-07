@@ -3,7 +3,7 @@ owner = Z22
 controller = Z22
 add_core = Z22
 culture = cosmopolitan_french
-religion = catholic
+religion = cathar
 citysize = 2000
 add_core = Z24
 discovered_by = eastern
@@ -696,5 +696,5 @@ discovered_by = Y73
 	owner = Z22
 	controller = Z22
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = cathar
 }

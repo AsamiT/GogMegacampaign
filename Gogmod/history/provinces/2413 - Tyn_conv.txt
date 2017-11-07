@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Y98
-controller = Y98
-add_core = Y98
+owner = Y51
+controller = Y51
+add_core = Y51
 culture = cuman
-religion = sunni
+religion = orthodox
 citysize = 2000
-add_permanent_claim = Y70
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -692,8 +691,8 @@ discovered_by = Y73
 	remove_core = JMN
 }
 1444.11.11 = {
-	owner = Y98
-	controller = Y98
+	owner = Y51
+	controller = Y51
 	culture = cuman
-	religion = sunni
+	religion = orthodox
 }
