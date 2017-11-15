@@ -1,6 +1,7 @@
 government = despotic_monarchy
 primary_culture = korean
-religion = buddhism
+religion = confucianism
+add_harmonized_religion = mahayana
 technology_group = chinese
 capital = 735	# Hanseong
 

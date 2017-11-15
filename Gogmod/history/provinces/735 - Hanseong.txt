@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = buddhism
 capital = "Hanseong"
 trade_goods = grain
 hre = no

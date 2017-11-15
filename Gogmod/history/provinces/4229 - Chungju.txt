@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = buddhism
 capital = "Chungju"
 trade_goods = cotton
 hre = no
