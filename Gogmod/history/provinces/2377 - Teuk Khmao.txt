@@ -3,7 +3,7 @@
 owner = KHM
 controller = KHM
 culture = khmer
-religion = hinduism
+religion = jewish
 capital = "Oc Eo"
 trade_goods = fish
 hre = no

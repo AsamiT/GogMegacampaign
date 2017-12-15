@@ -4,12 +4,12 @@ country_event = {
 	title = "EVTNAME2001"
 	desc = "EVTDESC2001"
 	picture = RELIGION_eventPicture
-	
+
 	major = yes
-	
+
 	trigger = {
 		NOT = { is_religion_enabled = protestant }
-		is_defender_of_faith = no	
+		is_defender_of_faith = no
 		NOT = { government = papal_government }
 		religion_group = christian
 		OR = {
@@ -18,12 +18,12 @@ country_event = {
 				religion = coptic
 			}
 		}
-		year = 1517
+		is_year = 1517
 		capital_scope = {
 			continent = europe
 			NOT = { has_province_modifier = religious_center }
 		}
-		
+
 	}
 
 	immediate = {
@@ -33,10 +33,10 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2500
-		
+
 		modifier = {
 			factor = 0.4
 			OR = {
@@ -46,7 +46,7 @@ country_event = {
 				culture_group = west_slavic
 			}
 		}
-				
+
 		modifier = {
 			factor = 0.75
 			reform_desire = 1.0
@@ -71,7 +71,7 @@ country_event = {
 			factor = 0.25
 			reform_desire = 1.25
 		}
-		
+
 		modifier = {
 			factor = 0.75
 			NOT = { num_of_cities = 10 }
@@ -80,7 +80,7 @@ country_event = {
 			factor = 0.75
 			NOT = { num_of_cities = 2 }
 		}
-		
+
 		modifier = {
 			factor = 0.75
 			has_idea_group = innovativeness_ideas
@@ -101,7 +101,7 @@ country_event = {
 		modifier = {
 			factor = 0.75
 			NOT = { has_opinion = { who = PAP value = -150 } }
-		}		
+		}
 		modifier = {
 			factor = 0.5
 			num_of_rebel_controlled_provinces = 1
@@ -130,7 +130,6 @@ country_event = {
 				duration = 9000
 			}
 		}
-		set_country_flag = "protestant_reformation" 
+		set_country_flag = "protestant_reformation"
 	}
 }
-

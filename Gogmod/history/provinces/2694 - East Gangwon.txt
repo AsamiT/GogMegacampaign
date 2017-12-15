@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = buddhism
 capital = "Gangneung"
 trade_goods = fish
 hre = no
