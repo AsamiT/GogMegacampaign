@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = buddhism
+religion = confucianism
 capital = "Haeju"
 trade_goods = naval_supplies
 hre = no

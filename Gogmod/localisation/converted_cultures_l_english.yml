@@ -3,7 +3,7 @@
  pskovian: "Pskovian"
  okavi: "Okavi"
  german: "High German"
- hiberno_arab: "Hiberno-Arabic"
+ hiberno_arab: "Hiberno-Andalucian"
  sicilian_byz: "Sicilian"
  neapolitan_byz: "Neapolitan"
  umbrian: "Appian"
@@ -43,3 +43,4 @@
  moravi: "Moravi"
  illyrian_byz: "Illyrian"
  anjou: "Orleanais"
+ tunisian: "Fezzani"

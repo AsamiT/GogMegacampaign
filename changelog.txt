@@ -138,3 +138,8 @@ Changelog (v0.8 'Joan of Arc'):
 Changelog (v0.9):
 	Lots of changes have been made, culturally, religiously and nationally! Also; I can now copy my 
 	mod to my mod folder in Linux. Yahoo!
+	
+Changelog (v0.9.1):
+	For the first time in ages, I've unmothballed this fucker and started writing changes to it again. There are some cultural overhauls, as well as some changes to provinces that aren't working quite well. The mod works again which is great.
+	
+

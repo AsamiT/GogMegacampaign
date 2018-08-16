@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z75
 controller = Z75
 add_core = Z75
-culture = berber
+culture = mali
 religion = cathar
 citysize = 2000
 add_core = MAL
@@ -694,7 +694,7 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Z75
 	controller = Z75
-	culture = berber
+	culture = mali
 	religion = cathar
 
 add_permanent_province_modifier = {

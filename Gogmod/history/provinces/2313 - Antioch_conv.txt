@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z98
 controller = Z98
 add_core = Z98
-culture = surian
+culture = greek
 religion = orthodox
 citysize = 2000
 add_core = Y03
@@ -692,7 +692,7 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Z98
 	controller = Z98
-	culture = surian
+	culture = greek
 	religion = orthodox
 
 add_permanent_province_modifier = {

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z75
 controller = Z75
 add_core = Z75
-culture = andalucian
+culture = basque
 religion = cathar
 citysize = 2000
 add_permanent_claim = Z22
@@ -695,6 +695,6 @@ discovered_by = Y73
 1444.11.11 = {
 	owner = Z75
 	controller = Z75
-	culture = andalucian
+	culture = basque
 	religion = cathar
 }
